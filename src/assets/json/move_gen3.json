@@ -1,0 +1,3542 @@
+[
+  {
+    "id": 1,
+    "move": "はたく",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 35
+  },
+  {
+    "id": 2,
+    "move": "からてチョップ",
+    "type": "かくとう",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 50,
+    "accuracy": 100,
+    "power_point": 25
+  },
+  {
+    "id": 3,
+    "move": "おうふくビンタ",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": 15,
+    "accuracy": 85,
+    "power_point": 10
+  },
+  {
+    "id": 4,
+    "move": "れんぞくパンチ",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 18,
+    "accuracy": 85,
+    "power_point": 15
+  },
+  {
+    "id": 5,
+    "move": "メガトンパンチ",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 80,
+    "accuracy": 85,
+    "power_point": 20
+  },
+  {
+    "id": 6,
+    "move": "ネコにこばん",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "物理",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 7,
+    "move": "ほのおのパンチ",
+    "type": "ほのお",
+    "contest": "たくましさ",
+    "category": "特殊",
+    "base_power": 75,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 8,
+    "move": "れいとうパンチ",
+    "type": "こおり",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 75,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 9,
+    "move": "かみなりパンチ",
+    "type": "でんき",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 75,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 10,
+    "move": "ひっかく",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 35
+  },
+  {
+    "id": 11,
+    "move": "はさむ",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 55,
+    "accuracy": 100,
+    "power_point": 30
+  },
+  {
+    "id": 12,
+    "move": "ハサミギロチン",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 5
+  },
+  {
+    "id": 13,
+    "move": "かまいたち",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 80,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 14,
+    "move": "つるぎのまい",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 30
+  },
+  {
+    "id": 15,
+    "move": "いあいぎり",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 50,
+    "accuracy": 95,
+    "power_point": 30
+  },
+  {
+    "id": 16,
+    "move": "かぜおこし",
+    "type": "ひこう",
+    "contest": "かしこさ",
+    "category": "物理",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 35
+  },
+  {
+    "id": 17,
+    "move": "つばさでうつ",
+    "type": "ひこう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 60,
+    "accuracy": 100,
+    "power_point": 35
+  },
+  {
+    "id": 18,
+    "move": "ふきとばし",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 19,
+    "move": "そらをとぶ",
+    "type": "ひこう",
+    "contest": "かしこさ",
+    "category": "物理",
+    "base_power": 70,
+    "accuracy": 95,
+    "power_point": 15
+  },
+  {
+    "id": 20,
+    "move": "しめつける",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 15,
+    "accuracy": 75,
+    "power_point": 20
+  },
+  {
+    "id": 21,
+    "move": "たたきつける",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 80,
+    "accuracy": 75,
+    "power_point": 20
+  },
+  {
+    "id": 22,
+    "move": "つるのムチ",
+    "type": "くさ",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 45,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 23,
+    "move": "ふみつけ",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 65,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 24,
+    "move": "にどげり",
+    "type": "かくとう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 30,
+    "accuracy": 100,
+    "power_point": 30
+  },
+  {
+    "id": 25,
+    "move": "メガトンキック",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 120,
+    "accuracy": 75,
+    "power_point": 5
+  },
+  {
+    "id": 26,
+    "move": "とびげり",
+    "type": "かくとう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 70,
+    "accuracy": 95,
+    "power_point": 10
+  },
+  {
+    "id": 27,
+    "move": "まわしげり",
+    "type": "かくとう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 60,
+    "accuracy": 85,
+    "power_point": 15
+  },
+  {
+    "id": 28,
+    "move": "すなかけ",
+    "type": "じめん",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 29,
+    "move": "ずつき",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 70,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 30,
+    "move": "つのでつく",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 65,
+    "accuracy": 100,
+    "power_point": 25
+  },
+  {
+    "id": 31,
+    "move": "みだれづき",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 15,
+    "accuracy": 85,
+    "power_point": 20
+  },
+  {
+    "id": 32,
+    "move": "つのドリル",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 5
+  },
+  {
+    "id": 33,
+    "move": "たいあたり",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 35,
+    "accuracy": 95,
+    "power_point": 35
+  },
+  {
+    "id": 34,
+    "move": "のしかかり",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 85,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 35,
+    "move": "まきつく",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 15,
+    "accuracy": 90,
+    "power_point": 20
+  },
+  {
+    "id": 36,
+    "move": "とっしん",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 90,
+    "accuracy": 85,
+    "power_point": 20
+  },
+  {
+    "id": 37,
+    "move": "あばれる",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 90,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 38,
+    "move": "すてみタックル",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 120,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 39,
+    "move": "しっぽをふる",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 30
+  },
+  {
+    "id": 40,
+    "move": "どくばり",
+    "type": "どく",
+    "contest": "かしこさ",
+    "category": "物理",
+    "base_power": 15,
+    "accuracy": 100,
+    "power_point": 35
+  },
+  {
+    "id": 41,
+    "move": "ダブルニードル",
+    "type": "むし",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 25,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 42,
+    "move": "ミサイルばり",
+    "type": "むし",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 14,
+    "accuracy": 85,
+    "power_point": 20
+  },
+  {
+    "id": 43,
+    "move": "にらみつける",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 30
+  },
+  {
+    "id": 44,
+    "move": "かみつく",
+    "type": "あく",
+    "contest": "たくましさ",
+    "category": "特殊",
+    "base_power": 60,
+    "accuracy": 100,
+    "power_point": 25
+  },
+  {
+    "id": 45,
+    "move": "なきごえ",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 40
+  },
+  {
+    "id": 46,
+    "move": "ほえる",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 47,
+    "move": "うたう",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 55,
+    "power_point": 15
+  },
+  {
+    "id": 48,
+    "move": "ちょうおんぱ",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 55,
+    "power_point": 20
+  },
+  {
+    "id": 49,
+    "move": "ソニックブーム",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": 90,
+    "power_point": 20
+  },
+  {
+    "id": 50,
+    "move": "かなしばり",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 55,
+    "power_point": 20
+  },
+  {
+    "id": 51,
+    "move": "ようかいえき",
+    "type": "どく",
+    "contest": "かしこさ",
+    "category": "物理",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 30
+  },
+  {
+    "id": 52,
+    "move": "ひのこ",
+    "type": "ほのお",
+    "contest": "かわいさ",
+    "category": "特殊",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 25
+  },
+  {
+    "id": 53,
+    "move": "かえんほうしゃ",
+    "type": "ほのお",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 95,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 54,
+    "move": "しろいきり",
+    "type": "こおり",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 30
+  },
+  {
+    "id": 55,
+    "move": "みずでっぽう",
+    "type": "みず",
+    "contest": "かわいさ",
+    "category": "特殊",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 25
+  },
+  {
+    "id": 56,
+    "move": "ハイドロポンプ",
+    "type": "みず",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 120,
+    "accuracy": 80,
+    "power_point": 5
+  },
+  {
+    "id": 57,
+    "move": "なみのり",
+    "type": "みず",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 95,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 58,
+    "move": "れいとうビーム",
+    "type": "こおり",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 95,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 59,
+    "move": "ふぶき",
+    "type": "こおり",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 120,
+    "accuracy": 70,
+    "power_point": 5
+  },
+  {
+    "id": 60,
+    "move": "サイケこうせん",
+    "type": "エスパー",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 65,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 61,
+    "move": "バブルこうせん",
+    "type": "みず",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 65,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 62,
+    "move": "オーロラビーム",
+    "type": "こおり",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 65,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 63,
+    "move": "はかいこうせん",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 150,
+    "accuracy": 90,
+    "power_point": 5
+  },
+  {
+    "id": 64,
+    "move": "つつく",
+    "type": "ひこう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 35,
+    "accuracy": 100,
+    "power_point": 35
+  },
+  {
+    "id": 65,
+    "move": "ドリルくちばし",
+    "type": "ひこう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 80,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 66,
+    "move": "じごくぐるま",
+    "type": "かくとう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 80,
+    "accuracy": 80,
+    "power_point": 25
+  },
+  {
+    "id": 67,
+    "move": "けたぐり",
+    "type": "かくとう",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 68,
+    "move": "カウンター",
+    "type": "かくとう",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 69,
+    "move": "ちきゅうなげ",
+    "type": "かくとう",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 70,
+    "move": "かいりき",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 80,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 71,
+    "move": "すいとる",
+    "type": "くさ",
+    "contest": "かしこさ",
+    "category": "特殊",
+    "base_power": 20,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 72,
+    "move": "メガドレイン",
+    "type": "くさ",
+    "contest": "かしこさ",
+    "category": "特殊",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 73,
+    "move": "やどりぎのたね",
+    "type": "くさ",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 90,
+    "power_point": 10
+  },
+  {
+    "id": 74,
+    "move": "せいちょう",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 75,
+    "move": "はっぱカッター",
+    "type": "くさ",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 55,
+    "accuracy": 95,
+    "power_point": 25
+  },
+  {
+    "id": 76,
+    "move": "ソーラービーム",
+    "type": "くさ",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 120,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 77,
+    "move": "どくのこな",
+    "type": "どく",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 75,
+    "power_point": 35
+  },
+  {
+    "id": 78,
+    "move": "しびれごな",
+    "type": "くさ",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 75,
+    "power_point": 30
+  },
+  {
+    "id": 79,
+    "move": "ねむりごな",
+    "type": "くさ",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 75,
+    "power_point": 15
+  },
+  {
+    "id": 80,
+    "move": "はなびらのまい",
+    "type": "くさ",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 70,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 81,
+    "move": "いとをはく",
+    "type": "むし",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 95,
+    "power_point": 40
+  },
+  {
+    "id": 82,
+    "move": "りゅうのいかり",
+    "type": "ドラゴン",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 83,
+    "move": "ほのおのうず",
+    "type": "ほのお",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 35,
+    "accuracy": 85,
+    "power_point": 15
+  },
+  {
+    "id": 84,
+    "move": "でんきショック",
+    "type": "でんき",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 30
+  },
+  {
+    "id": 85,
+    "move": "１０まんボルト",
+    "type": "でんき",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 95,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 86,
+    "move": "でんじは",
+    "type": "でんき",
+    "contest": "かっこよさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 87,
+    "move": "かみなり",
+    "type": "でんき",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 120,
+    "accuracy": 70,
+    "power_point": 10
+  },
+  {
+    "id": 88,
+    "move": "いわおとし",
+    "type": "いわ",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 50,
+    "accuracy": 90,
+    "power_point": 15
+  },
+  {
+    "id": 89,
+    "move": "じしん",
+    "type": "じめん",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 100,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 90,
+    "move": "じわれ",
+    "type": "じめん",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 5
+  },
+  {
+    "id": 91,
+    "move": "あなをほる",
+    "type": "じめん",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 60,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 92,
+    "move": "どくどく",
+    "type": "どく",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 85,
+    "power_point": 10
+  },
+  {
+    "id": 93,
+    "move": "ねんりき",
+    "type": "エスパー",
+    "contest": "かしこさ",
+    "category": "特殊",
+    "base_power": 50,
+    "accuracy": 100,
+    "power_point": 25
+  },
+  {
+    "id": 94,
+    "move": "サイコキネシス",
+    "type": "エスパー",
+    "contest": "かしこさ",
+    "category": "特殊",
+    "base_power": 90,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 95,
+    "move": "さいみんじゅつ",
+    "type": "エスパー",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 60,
+    "power_point": 20
+  },
+  {
+    "id": 96,
+    "move": "ヨガのポーズ",
+    "type": "エスパー",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 40
+  },
+  {
+    "id": 97,
+    "move": "こうそくいどう",
+    "type": "エスパー",
+    "contest": "かっこよさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 30
+  },
+  {
+    "id": 98,
+    "move": "でんこうせっか",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 30
+  },
+  {
+    "id": 99,
+    "move": "いかり",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 20,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 100,
+    "move": "テレポート",
+    "type": "エスパー",
+    "contest": "かっこよさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 101,
+    "move": "ナイトヘッド",
+    "type": "ゴースト",
+    "contest": "かしこさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 102,
+    "move": "ものまね",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 103,
+    "move": "いやなおと",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 85,
+    "power_point": 40
+  },
+  {
+    "id": 104,
+    "move": "かげぶんしん",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 15
+  },
+  {
+    "id": 105,
+    "move": "じこさいせい",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 106,
+    "move": "かたくなる",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 30
+  },
+  {
+    "id": 107,
+    "move": "ちいさくなる",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 108,
+    "move": "えんまく",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 109,
+    "move": "あやしいひかり",
+    "type": "ゴースト",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 110,
+    "move": "からにこもる",
+    "type": "みず",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 40
+  },
+  {
+    "id": 111,
+    "move": "まるくなる",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 40
+  },
+  {
+    "id": 112,
+    "move": "バリアー",
+    "type": "エスパー",
+    "contest": "かっこよさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 30
+  },
+  {
+    "id": 113,
+    "move": "ひかりのかべ",
+    "type": "エスパー",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 30
+  },
+  {
+    "id": 114,
+    "move": "くろいきり",
+    "type": "こおり",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 30
+  },
+  {
+    "id": 115,
+    "move": "リフレクター",
+    "type": "エスパー",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 116,
+    "move": "きあいだめ",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 30
+  },
+  {
+    "id": 117,
+    "move": "がまん",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 118,
+    "move": "ゆびをふる",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 119,
+    "move": "オウムがえし",
+    "type": "ひこう",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 120,
+    "move": "じばく",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "物理",
+    "base_power": 200,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 121,
+    "move": "タマゴばくだん",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": 100,
+    "accuracy": 75,
+    "power_point": 10
+  },
+  {
+    "id": 122,
+    "move": "したでなめる",
+    "type": "ゴースト",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": 20,
+    "accuracy": 100,
+    "power_point": 30
+  },
+  {
+    "id": 123,
+    "move": "スモッグ",
+    "type": "どく",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 20,
+    "accuracy": 70,
+    "power_point": 20
+  },
+  {
+    "id": 124,
+    "move": "ヘドロこうげき",
+    "type": "どく",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 65,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 125,
+    "move": "ホネこんぼう",
+    "type": "じめん",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 65,
+    "accuracy": 85,
+    "power_point": 20
+  },
+  {
+    "id": 126,
+    "move": "だいもんじ",
+    "type": "ほのお",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 120,
+    "accuracy": 85,
+    "power_point": 5
+  },
+  {
+    "id": 127,
+    "move": "たきのぼり",
+    "type": "みず",
+    "contest": "たくましさ",
+    "category": "特殊",
+    "base_power": 80,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 128,
+    "move": "からではさむ",
+    "type": "みず",
+    "contest": "たくましさ",
+    "category": "特殊",
+    "base_power": 35,
+    "accuracy": 85,
+    "power_point": 10
+  },
+  {
+    "id": 129,
+    "move": "スピードスター",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 60,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 130,
+    "move": "ロケットずつき",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 100,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 131,
+    "move": "とげキャノン",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 20,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 132,
+    "move": "からみつく",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 10,
+    "accuracy": 100,
+    "power_point": 35
+  },
+  {
+    "id": 133,
+    "move": "ドわすれ",
+    "type": "エスパー",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 134,
+    "move": "スプーンまげ",
+    "type": "エスパー",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 80,
+    "power_point": 15
+  },
+  {
+    "id": 135,
+    "move": "タマゴうみ",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 136,
+    "move": "とびひざげり",
+    "type": "かくとう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 85,
+    "accuracy": 90,
+    "power_point": 10
+  },
+  {
+    "id": 137,
+    "move": "へびにらみ",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 75,
+    "power_point": 30
+  },
+  {
+    "id": 138,
+    "move": "ゆめくい",
+    "type": "エスパー",
+    "contest": "かしこさ",
+    "category": "特殊",
+    "base_power": 100,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 139,
+    "move": "どくガス",
+    "type": "どく",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 55,
+    "power_point": 40
+  },
+  {
+    "id": 140,
+    "move": "たまなげ",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": 15,
+    "accuracy": 85,
+    "power_point": 20
+  },
+  {
+    "id": 141,
+    "move": "きゅうけつ",
+    "type": "むし",
+    "contest": "かしこさ",
+    "category": "物理",
+    "base_power": 20,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 142,
+    "move": "あくまのキッス",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 75,
+    "power_point": 10
+  },
+  {
+    "id": 143,
+    "move": "ゴッドバード",
+    "type": "ひこう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 140,
+    "accuracy": 90,
+    "power_point": 5
+  },
+  {
+    "id": 144,
+    "move": "へんしん",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 145,
+    "move": "あわ",
+    "type": "みず",
+    "contest": "かわいさ",
+    "category": "特殊",
+    "base_power": 20,
+    "accuracy": 100,
+    "power_point": 30
+  },
+  {
+    "id": 146,
+    "move": "ピヨピヨパンチ",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": 70,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 147,
+    "move": "キノコのほうし",
+    "type": "くさ",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 148,
+    "move": "フラッシュ",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 70,
+    "power_point": 20
+  },
+  {
+    "id": 149,
+    "move": "サイコウェーブ",
+    "type": "エスパー",
+    "contest": "かしこさ",
+    "category": "特殊",
+    "base_power": null,
+    "accuracy": 80,
+    "power_point": 15
+  },
+  {
+    "id": 150,
+    "move": "はねる",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 40
+  },
+  {
+    "id": 151,
+    "move": "とける",
+    "type": "どく",
+    "contest": "たくましさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 40
+  },
+  {
+    "id": 152,
+    "move": "クラブハンマー",
+    "type": "みず",
+    "contest": "たくましさ",
+    "category": "特殊",
+    "base_power": 90,
+    "accuracy": 85,
+    "power_point": 10
+  },
+  {
+    "id": 153,
+    "move": "だいばくはつ",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "物理",
+    "base_power": 250,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 154,
+    "move": "みだれひっかき",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 18,
+    "accuracy": 80,
+    "power_point": 15
+  },
+  {
+    "id": 155,
+    "move": "ホネブーメラン",
+    "type": "じめん",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 50,
+    "accuracy": 90,
+    "power_point": 10
+  },
+  {
+    "id": 156,
+    "move": "ねむる",
+    "type": "エスパー",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 157,
+    "move": "いわなだれ",
+    "type": "いわ",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 75,
+    "accuracy": 90,
+    "power_point": 10
+  },
+  {
+    "id": 158,
+    "move": "ひっさつまえば",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 80,
+    "accuracy": 90,
+    "power_point": 15
+  },
+  {
+    "id": 159,
+    "move": "かくばる",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 30
+  },
+  {
+    "id": 160,
+    "move": "テクスチャー",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 30
+  },
+  {
+    "id": 161,
+    "move": "トライアタック",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "物理",
+    "base_power": 80,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 162,
+    "move": "いかりのまえば",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": 90,
+    "power_point": 10
+  },
+  {
+    "id": 163,
+    "move": "きりさく",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 70,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 164,
+    "move": "みがわり",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 165,
+    "move": "わるあがき",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 50,
+    "accuracy": 100,
+    "power_point": 1
+  },
+  {
+    "id": 166,
+    "move": "スケッチ",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 1
+  },
+  {
+    "id": 167,
+    "move": "トリプルキック",
+    "type": "かくとう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 10,
+    "accuracy": 90,
+    "power_point": 10
+  },
+  {
+    "id": 168,
+    "move": "どろぼう",
+    "type": "あく",
+    "contest": "たくましさ",
+    "category": "特殊",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 25
+  },
+  {
+    "id": 169,
+    "move": "クモのす",
+    "type": "むし",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 170,
+    "move": "こころのめ",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 171,
+    "move": "あくむ",
+    "type": "ゴースト",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 172,
+    "move": "かえんぐるま",
+    "type": "ほのお",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 60,
+    "accuracy": 100,
+    "power_point": 25
+  },
+  {
+    "id": 173,
+    "move": "いびき",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 174,
+    "move": "のろい",
+    "type": "ゴースト",
+    "contest": "たくましさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 175,
+    "move": "じたばた",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 176,
+    "move": "テクスチャー２",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 30
+  },
+  {
+    "id": 177,
+    "move": "エアロブラスト",
+    "type": "ひこう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 100,
+    "accuracy": 95,
+    "power_point": 5
+  },
+  {
+    "id": 178,
+    "move": "わたほうし",
+    "type": "くさ",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 40
+  },
+  {
+    "id": 179,
+    "move": "きしかいせい",
+    "type": "かくとう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 180,
+    "move": "うらみ",
+    "type": "ゴースト",
+    "contest": "たくましさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 181,
+    "move": "こなゆき",
+    "type": "こおり",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 25
+  },
+  {
+    "id": 182,
+    "move": "まもる",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 183,
+    "move": "マッハパンチ",
+    "type": "かくとう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 30
+  },
+  {
+    "id": 184,
+    "move": "こわいかお",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 90,
+    "power_point": 10
+  },
+  {
+    "id": 185,
+    "move": "だましうち",
+    "type": "あく",
+    "contest": "かしこさ",
+    "category": "特殊",
+    "base_power": 60,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 186,
+    "move": "てんしのキッス",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 75,
+    "power_point": 10
+  },
+  {
+    "id": 187,
+    "move": "はらだいこ",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 188,
+    "move": "ヘドロばくだん",
+    "type": "どく",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 90,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 189,
+    "move": "どろかけ",
+    "type": "じめん",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": 20,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 190,
+    "move": "オクタンほう",
+    "type": "みず",
+    "contest": "たくましさ",
+    "category": "特殊",
+    "base_power": 65,
+    "accuracy": 85,
+    "power_point": 10
+  },
+  {
+    "id": 191,
+    "move": "まきびし",
+    "type": "じめん",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 192,
+    "move": "でんじほう",
+    "type": "でんき",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 100,
+    "accuracy": 50,
+    "power_point": 5
+  },
+  {
+    "id": 193,
+    "move": "みやぶる",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 40
+  },
+  {
+    "id": 194,
+    "move": "みちづれ",
+    "type": "ゴースト",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 5
+  },
+  {
+    "id": 195,
+    "move": "ほろびのうた",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 5
+  },
+  {
+    "id": 196,
+    "move": "こごえるかぜ",
+    "type": "こおり",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 55,
+    "accuracy": 95,
+    "power_point": 15
+  },
+  {
+    "id": 197,
+    "move": "みきり",
+    "type": "かくとう",
+    "contest": "かっこよさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 5
+  },
+  {
+    "id": 198,
+    "move": "ボーンラッシュ",
+    "type": "じめん",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 25,
+    "accuracy": 80,
+    "power_point": 10
+  },
+  {
+    "id": 199,
+    "move": "ロックオン",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 200,
+    "move": "げきりん",
+    "type": "ドラゴン",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 90,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 201,
+    "move": "すなあらし",
+    "type": "いわ",
+    "contest": "たくましさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 202,
+    "move": "ギガドレイン",
+    "type": "くさ",
+    "contest": "かしこさ",
+    "category": "特殊",
+    "base_power": 60,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 203,
+    "move": "こらえる",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 204,
+    "move": "あまえる",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 205,
+    "move": "ころがる",
+    "type": "いわ",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": 30,
+    "accuracy": 90,
+    "power_point": 20
+  },
+  {
+    "id": 206,
+    "move": "みねうち",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 40
+  },
+  {
+    "id": 207,
+    "move": "いばる",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 90,
+    "power_point": 15
+  },
+  {
+    "id": 208,
+    "move": "ミルクのみ",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 209,
+    "move": "スパーク",
+    "type": "でんき",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 65,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 210,
+    "move": "れんぞくぎり",
+    "type": "むし",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 20,
+    "accuracy": 95,
+    "power_point": 20
+  },
+  {
+    "id": 211,
+    "move": "はがねのつばさ",
+    "type": "はがね",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 70,
+    "accuracy": 90,
+    "power_point": 25
+  },
+  {
+    "id": 212,
+    "move": "くろいまなざし",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 213,
+    "move": "メロメロ",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 214,
+    "move": "ねごと",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 215,
+    "move": "いやしのすず",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 5
+  },
+  {
+    "id": 216,
+    "move": "おんがえし",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 217,
+    "move": "プレゼント",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": 90,
+    "power_point": 15
+  },
+  {
+    "id": 218,
+    "move": "やつあたり",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 219,
+    "move": "しんぴのまもり",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 25
+  },
+  {
+    "id": 220,
+    "move": "いたみわけ",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 221,
+    "move": "せいなるほのお",
+    "type": "ほのお",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 100,
+    "accuracy": 95,
+    "power_point": 5
+  },
+  {
+    "id": 222,
+    "move": "マグニチュード",
+    "type": "じめん",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 30
+  },
+  {
+    "id": 223,
+    "move": "ばくれつパンチ",
+    "type": "かくとう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 100,
+    "accuracy": 50,
+    "power_point": 5
+  },
+  {
+    "id": 224,
+    "move": "メガホーン",
+    "type": "むし",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 120,
+    "accuracy": 85,
+    "power_point": 10
+  },
+  {
+    "id": 225,
+    "move": "りゅうのいぶき",
+    "type": "ドラゴン",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 60,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 226,
+    "move": "バトンタッチ",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 40
+  },
+  {
+    "id": 227,
+    "move": "アンコール",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 228,
+    "move": "おいうち",
+    "type": "あく",
+    "contest": "かしこさ",
+    "category": "特殊",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 229,
+    "move": "こうそくスピン",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 20,
+    "accuracy": 100,
+    "power_point": 40
+  },
+  {
+    "id": 230,
+    "move": "あまいかおり",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 231,
+    "move": "アイアンテール",
+    "type": "はがね",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 100,
+    "accuracy": 75,
+    "power_point": 15
+  },
+  {
+    "id": 232,
+    "move": "メタルクロー",
+    "type": "はがね",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 50,
+    "accuracy": 95,
+    "power_point": 35
+  },
+  {
+    "id": 233,
+    "move": "あてみなげ",
+    "type": "かくとう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 70,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 234,
+    "move": "あさのひざし",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 5
+  },
+  {
+    "id": 235,
+    "move": "こうごうせい",
+    "type": "くさ",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 5
+  },
+  {
+    "id": 236,
+    "move": "つきのひかり",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 5
+  },
+  {
+    "id": 237,
+    "move": "めざめるパワー",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 238,
+    "move": "クロスチョップ",
+    "type": "かくとう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 100,
+    "accuracy": 80,
+    "power_point": 5
+  },
+  {
+    "id": 239,
+    "move": "たつまき",
+    "type": "ドラゴン",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 240,
+    "move": "あまごい",
+    "type": "みず",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 5
+  },
+  {
+    "id": 241,
+    "move": "にほんばれ",
+    "type": "ほのお",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 5
+  },
+  {
+    "id": 242,
+    "move": "かみくだく",
+    "type": "あく",
+    "contest": "たくましさ",
+    "category": "特殊",
+    "base_power": 80,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 243,
+    "move": "ミラーコート",
+    "type": "エスパー",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 244,
+    "move": "じこあんじ",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 245,
+    "move": "しんそく",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 80,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 246,
+    "move": "げんしのちから",
+    "type": "いわ",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 60,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 247,
+    "move": "シャドーボール",
+    "type": "ゴースト",
+    "contest": "かしこさ",
+    "category": "物理",
+    "base_power": 80,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 248,
+    "move": "みらいよち",
+    "type": "エスパー",
+    "contest": "かしこさ",
+    "category": "特殊",
+    "base_power": 80,
+    "accuracy": 90,
+    "power_point": 10
+  },
+  {
+    "id": 249,
+    "move": "いわくだき",
+    "type": "かくとう",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 20,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 250,
+    "move": "うずしお",
+    "type": "みず",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 15,
+    "accuracy": 70,
+    "power_point": 15
+  },
+  {
+    "id": 251,
+    "move": "ふくろだたき",
+    "type": "あく",
+    "contest": "かしこさ",
+    "category": "特殊",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 252,
+    "move": "ねこだまし",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 253,
+    "move": "さわぐ",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": 50,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 254,
+    "move": "たくわえる",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 255,
+    "move": "はきだす",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 256,
+    "move": "のみこむ",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 257,
+    "move": "ねっぷう",
+    "type": "ほのお",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 100,
+    "accuracy": 90,
+    "power_point": 10
+  },
+  {
+    "id": 258,
+    "move": "あられ",
+    "type": "こおり",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 259,
+    "move": "いちゃもん",
+    "type": "あく",
+    "contest": "たくましさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 260,
+    "move": "おだてる",
+    "type": "あく",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 261,
+    "move": "おにび",
+    "type": "ほのお",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 75,
+    "power_point": 15
+  },
+  {
+    "id": 262,
+    "move": "おきみやげ",
+    "type": "あく",
+    "contest": "たくましさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 263,
+    "move": "からげんき",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": 70,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 264,
+    "move": "きあいパンチ",
+    "type": "かくとう",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 150,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 265,
+    "move": "きつけ",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 60,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 266,
+    "move": "このゆびとまれ",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 267,
+    "move": "しぜんのちから",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 268,
+    "move": "じゅうでん",
+    "type": "でんき",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 269,
+    "move": "ちょうはつ",
+    "type": "あく",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 270,
+    "move": "てだすけ",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 271,
+    "move": "トリック",
+    "type": "エスパー",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 272,
+    "move": "なりきり",
+    "type": "エスパー",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 273,
+    "move": "ねがいごと",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 10
+  },
+  {
+    "id": 274,
+    "move": "ねこのて",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 275,
+    "move": "ねをはる",
+    "type": "くさ",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 276,
+    "move": "ばかぢから",
+    "type": "かくとう",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 120,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 277,
+    "move": "マジックコート",
+    "type": "エスパー",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 15
+  },
+  {
+    "id": 278,
+    "move": "リサイクル",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 279,
+    "move": "リベンジ",
+    "type": "かくとう",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 60,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 280,
+    "move": "かわらわり",
+    "type": "かくとう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 75,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 281,
+    "move": "あくび",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 282,
+    "move": "はたきおとす",
+    "type": "あく",
+    "contest": "かしこさ",
+    "category": "特殊",
+    "base_power": 20,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 283,
+    "move": "がむしゃら",
+    "type": "ノーマル",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 284,
+    "move": "ふんか",
+    "type": "ほのお",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 285,
+    "move": "スキルスワップ",
+    "type": "エスパー",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 286,
+    "move": "ふういん",
+    "type": "エスパー",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 287,
+    "move": "リフレッシュ",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 288,
+    "move": "おんねん",
+    "type": "ゴースト",
+    "contest": "たくましさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 289,
+    "move": "よこどり",
+    "type": "あく",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 290,
+    "move": "ひみつのちから",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "物理",
+    "base_power": 70,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 291,
+    "move": "ダイビング",
+    "type": "みず",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 60,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 292,
+    "move": "つっぱり",
+    "type": "かくとう",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 15,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 293,
+    "move": "ほごしょく",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 294,
+    "move": "ほたるび",
+    "type": "むし",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 295,
+    "move": "ラスターパージ",
+    "type": "エスパー",
+    "contest": "かしこさ",
+    "category": "特殊",
+    "base_power": 70,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 296,
+    "move": "ミストボール",
+    "type": "エスパー",
+    "contest": "かしこさ",
+    "category": "特殊",
+    "base_power": 70,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 297,
+    "move": "フェザーダンス",
+    "type": "ひこう",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 298,
+    "move": "フラフラダンス",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 299,
+    "move": "ブレイズキック",
+    "type": "ほのお",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 85,
+    "accuracy": 90,
+    "power_point": 10
+  },
+  {
+    "id": 300,
+    "move": "どろあそび",
+    "type": "じめん",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 301,
+    "move": "アイスボール",
+    "type": "こおり",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 30,
+    "accuracy": 90,
+    "power_point": 20
+  },
+  {
+    "id": 302,
+    "move": "ニードルアーム",
+    "type": "くさ",
+    "contest": "かしこさ",
+    "category": "特殊",
+    "base_power": 60,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 303,
+    "move": "なまける",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 304,
+    "move": "ハイパーボイス",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 90,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 305,
+    "move": "どくどくのキバ",
+    "type": "どく",
+    "contest": "かしこさ",
+    "category": "物理",
+    "base_power": 50,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 306,
+    "move": "ブレイククロー",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 75,
+    "accuracy": 95,
+    "power_point": 10
+  },
+  {
+    "id": 307,
+    "move": "ブラストバーン",
+    "type": "ほのお",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 150,
+    "accuracy": 90,
+    "power_point": 5
+  },
+  {
+    "id": 308,
+    "move": "ハイドロカノン",
+    "type": "みず",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 150,
+    "accuracy": 90,
+    "power_point": 5
+  },
+  {
+    "id": 309,
+    "move": "コメットパンチ",
+    "type": "はがね",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 100,
+    "accuracy": 85,
+    "power_point": 10
+  },
+  {
+    "id": 310,
+    "move": "おどろかす",
+    "type": "ゴースト",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": 30,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 311,
+    "move": "ウェザーボール",
+    "type": "ノーマル",
+    "contest": "うつくしさ",
+    "category": "物理",
+    "base_power": 50,
+    "accuracy": 100,
+    "power_point": 10
+  },
+  {
+    "id": 312,
+    "move": "アロマセラピー",
+    "type": "くさ",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 5
+  },
+  {
+    "id": 313,
+    "move": "うそなき",
+    "type": "あく",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 314,
+    "move": "エアカッター",
+    "type": "ひこう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 55,
+    "accuracy": 95,
+    "power_point": 25
+  },
+  {
+    "id": 315,
+    "move": "オーバーヒート",
+    "type": "ほのお",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 140,
+    "accuracy": 90,
+    "power_point": 5
+  },
+  {
+    "id": 316,
+    "move": "かぎわける",
+    "type": "ノーマル",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 40
+  },
+  {
+    "id": 317,
+    "move": "がんせきふうじ",
+    "type": "いわ",
+    "contest": "かしこさ",
+    "category": "物理",
+    "base_power": 50,
+    "accuracy": 80,
+    "power_point": 10
+  },
+  {
+    "id": 318,
+    "move": "ぎんいろのかぜ",
+    "type": "むし",
+    "contest": "うつくしさ",
+    "category": "物理",
+    "base_power": 60,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 319,
+    "move": "きんぞくおん",
+    "type": "はがね",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 85,
+    "power_point": 40
+  },
+  {
+    "id": 320,
+    "move": "くさぶえ",
+    "type": "くさ",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 55,
+    "power_point": 15
+  },
+  {
+    "id": 321,
+    "move": "くすぐる",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 322,
+    "move": "コスモパワー",
+    "type": "エスパー",
+    "contest": "うつくしさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 323,
+    "move": "しおふき",
+    "type": "みず",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 324,
+    "move": "シグナルビーム",
+    "type": "むし",
+    "contest": "うつくしさ",
+    "category": "物理",
+    "base_power": 75,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 325,
+    "move": "シャドーパンチ",
+    "type": "ゴースト",
+    "contest": "かしこさ",
+    "category": "物理",
+    "base_power": 60,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 326,
+    "move": "じんつうりき",
+    "type": "エスパー",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 80,
+    "accuracy": 100,
+    "power_point": 30
+  },
+  {
+    "id": 327,
+    "move": "スカイアッパー",
+    "type": "かくとう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 85,
+    "accuracy": 90,
+    "power_point": 15
+  },
+  {
+    "id": 328,
+    "move": "すなじごく",
+    "type": "じめん",
+    "contest": "かしこさ",
+    "category": "物理",
+    "base_power": 15,
+    "accuracy": 70,
+    "power_point": 15
+  },
+  {
+    "id": 329,
+    "move": "ぜったいれいど",
+    "type": "こおり",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 5
+  },
+  {
+    "id": 330,
+    "move": "だくりゅう",
+    "type": "みず",
+    "contest": "たくましさ",
+    "category": "特殊",
+    "base_power": 95,
+    "accuracy": 85,
+    "power_point": 10
+  },
+  {
+    "id": 331,
+    "move": "タネマシンガン",
+    "type": "くさ",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 10,
+    "accuracy": 100,
+    "power_point": 30
+  },
+  {
+    "id": 332,
+    "move": "つばめがえし",
+    "type": "ひこう",
+    "contest": "かっこよさ",
+    "category": "物理",
+    "base_power": 60,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 333,
+    "move": "つららばり",
+    "type": "こおり",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 10,
+    "accuracy": 100,
+    "power_point": 30
+  },
+  {
+    "id": 334,
+    "move": "てっぺき",
+    "type": "はがね",
+    "contest": "たくましさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 15
+  },
+  {
+    "id": 335,
+    "move": "とおせんぼう",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 5
+  },
+  {
+    "id": 336,
+    "move": "とおぼえ",
+    "type": "ノーマル",
+    "contest": "かっこよさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 40
+  },
+  {
+    "id": 337,
+    "move": "ドラゴンクロー",
+    "type": "ドラゴン",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 80,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 338,
+    "move": "ハードプラント",
+    "type": "くさ",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 150,
+    "accuracy": 90,
+    "power_point": 5
+  },
+  {
+    "id": 339,
+    "move": "ビルドアップ",
+    "type": "かくとう",
+    "contest": "かっこよさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 340,
+    "move": "とびはねる",
+    "type": "ひこう",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": 85,
+    "accuracy": 85,
+    "power_point": 5
+  },
+  {
+    "id": 341,
+    "move": "マッドショット",
+    "type": "じめん",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 55,
+    "accuracy": 95,
+    "power_point": 15
+  },
+  {
+    "id": 342,
+    "move": "ポイズンテール",
+    "type": "どく",
+    "contest": "かしこさ",
+    "category": "物理",
+    "base_power": 50,
+    "accuracy": 100,
+    "power_point": 25
+  },
+  {
+    "id": 343,
+    "move": "ほしがる",
+    "type": "ノーマル",
+    "contest": "かわいさ",
+    "category": "物理",
+    "base_power": 40,
+    "accuracy": 100,
+    "power_point": 40
+  },
+  {
+    "id": 344,
+    "move": "ボルテッカー",
+    "type": "でんき",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 120,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 345,
+    "move": "マジカルリーフ",
+    "type": "くさ",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 60,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 346,
+    "move": "みずあそび",
+    "type": "みず",
+    "contest": "かわいさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 347,
+    "move": "めいそう",
+    "type": "エスパー",
+    "contest": "かしこさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 348,
+    "move": "リーフブレード",
+    "type": "くさ",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 70,
+    "accuracy": 100,
+    "power_point": 15
+  },
+  {
+    "id": 349,
+    "move": "りゅうのまい",
+    "type": "ドラゴン",
+    "contest": "かっこよさ",
+    "category": "変化",
+    "base_power": null,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 350,
+    "move": "ロックブラスト",
+    "type": "いわ",
+    "contest": "たくましさ",
+    "category": "物理",
+    "base_power": 25,
+    "accuracy": 80,
+    "power_point": 10
+  },
+  {
+    "id": 351,
+    "move": "でんげきは",
+    "type": "でんき",
+    "contest": "かっこよさ",
+    "category": "特殊",
+    "base_power": 60,
+    "accuracy": null,
+    "power_point": 20
+  },
+  {
+    "id": 352,
+    "move": "みずのはどう",
+    "type": "みず",
+    "contest": "うつくしさ",
+    "category": "特殊",
+    "base_power": 60,
+    "accuracy": 100,
+    "power_point": 20
+  },
+  {
+    "id": 353,
+    "move": "はめつのねがい",
+    "type": "はがね",
+    "contest": "うつくしさ",
+    "category": "物理",
+    "base_power": 120,
+    "accuracy": 85,
+    "power_point": 5
+  },
+  {
+    "id": 354,
+    "move": "サイコブースト",
+    "type": "エスパー",
+    "contest": "かしこさ",
+    "category": "特殊",
+    "base_power": 140,
+    "accuracy": 90,
+    "power_point": 5
+  }
+]
