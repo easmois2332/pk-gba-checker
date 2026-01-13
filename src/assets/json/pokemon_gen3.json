@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "dex": 1,
     "dex_hoenn": 203,
     "pokemon": "フシギダネ",
@@ -20,9 +21,10 @@
     "male": 7,
     "female": 1,
     "weight": 6.9,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 2,
     "dex": 2,
     "dex_hoenn": 204,
     "pokemon": "フシギソウ",
@@ -43,9 +45,10 @@
     "male": 7,
     "female": 1,
     "weight": 13,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 3,
     "dex": 3,
     "dex_hoenn": 205,
     "pokemon": "フシギバナ",
@@ -66,9 +69,10 @@
     "male": 7,
     "female": 1,
     "weight": 100,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 4,
     "dex": 4,
     "dex_hoenn": 206,
     "pokemon": "ヒトカゲ",
@@ -89,9 +93,10 @@
     "male": 7,
     "female": 1,
     "weight": 8.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 5,
     "dex": 5,
     "dex_hoenn": 207,
     "pokemon": "リザード",
@@ -112,9 +117,10 @@
     "male": 7,
     "female": 1,
     "weight": 19,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 6,
     "dex": 6,
     "dex_hoenn": 208,
     "pokemon": "リザードン",
@@ -135,9 +141,10 @@
     "male": 7,
     "female": 1,
     "weight": 90.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 7,
     "dex": 7,
     "dex_hoenn": 209,
     "pokemon": "ゼニガメ",
@@ -158,9 +165,10 @@
     "male": 7,
     "female": 1,
     "weight": 9,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 8,
     "dex": 8,
     "dex_hoenn": 210,
     "pokemon": "カメール",
@@ -181,9 +189,10 @@
     "male": 7,
     "female": 1,
     "weight": 22.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 9,
     "dex": 9,
     "dex_hoenn": 211,
     "pokemon": "カメックス",
@@ -204,9 +213,10 @@
     "male": 7,
     "female": 1,
     "weight": 85.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 10,
     "dex": 10,
     "dex_hoenn": 212,
     "pokemon": "キャタピー",
@@ -227,9 +237,10 @@
     "male": 1,
     "female": 1,
     "weight": 2.9,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 11,
     "dex": 11,
     "dex_hoenn": 213,
     "pokemon": "トランセル",
@@ -250,9 +261,10 @@
     "male": 1,
     "female": 1,
     "weight": 9.9,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 12,
     "dex": 12,
     "dex_hoenn": 214,
     "pokemon": "バタフリー",
@@ -273,9 +285,10 @@
     "male": 1,
     "female": 1,
     "weight": 32,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 13,
     "dex": 13,
     "dex_hoenn": 215,
     "pokemon": "ビードル",
@@ -296,9 +309,10 @@
     "male": 1,
     "female": 1,
     "weight": 3.2,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 14,
     "dex": 14,
     "dex_hoenn": 216,
     "pokemon": "コクーン",
@@ -319,9 +333,10 @@
     "male": 1,
     "female": 1,
     "weight": 10,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 15,
     "dex": 15,
     "dex_hoenn": 217,
     "pokemon": "スピアー",
@@ -342,9 +357,10 @@
     "male": 1,
     "female": 1,
     "weight": 29.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 16,
     "dex": 16,
     "dex_hoenn": 218,
     "pokemon": "ポッポ",
@@ -365,9 +381,10 @@
     "male": 1,
     "female": 1,
     "weight": 1.8,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 17,
     "dex": 17,
     "dex_hoenn": 219,
     "pokemon": "ピジョン",
@@ -388,9 +405,10 @@
     "male": 1,
     "female": 1,
     "weight": 30,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 18,
     "dex": 18,
     "dex_hoenn": 220,
     "pokemon": "ピジョット",
@@ -411,9 +429,10 @@
     "male": 1,
     "female": 1,
     "weight": 39.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 19,
     "dex": 19,
     "dex_hoenn": 221,
     "pokemon": "コラッタ",
@@ -434,9 +453,10 @@
     "male": 1,
     "female": 1,
     "weight": 3.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 20,
     "dex": 20,
     "dex_hoenn": 222,
     "pokemon": "ラッタ",
@@ -457,9 +477,10 @@
     "male": 1,
     "female": 1,
     "weight": 18.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 21,
     "dex": 21,
     "dex_hoenn": 223,
     "pokemon": "オニスズメ",
@@ -480,9 +501,10 @@
     "male": 1,
     "female": 1,
     "weight": 2,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 22,
     "dex": 22,
     "dex_hoenn": 224,
     "pokemon": "オニドリル",
@@ -503,9 +525,10 @@
     "male": 1,
     "female": 1,
     "weight": 38,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 23,
     "dex": 23,
     "dex_hoenn": 225,
     "pokemon": "アーボ",
@@ -526,9 +549,10 @@
     "male": 1,
     "female": 1,
     "weight": 6.9,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 24,
     "dex": 24,
     "dex_hoenn": 226,
     "pokemon": "アーボック",
@@ -549,9 +573,10 @@
     "male": 1,
     "female": 1,
     "weight": 65,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 25,
     "dex": 25,
     "dex_hoenn": 156,
     "pokemon": "ピカチュウ",
@@ -572,9 +597,10 @@
     "male": 1,
     "female": 1,
     "weight": 6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 26,
     "dex": 26,
     "dex_hoenn": 157,
     "pokemon": "ライチュウ",
@@ -595,9 +621,10 @@
     "male": 1,
     "female": 1,
     "weight": 30,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 27,
     "dex": 27,
     "dex_hoenn": 112,
     "pokemon": "サンド",
@@ -618,9 +645,10 @@
     "male": 1,
     "female": 1,
     "weight": 12,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 28,
     "dex": 28,
     "dex_hoenn": 113,
     "pokemon": "サンドパン",
@@ -641,9 +669,10 @@
     "male": 1,
     "female": 1,
     "weight": 29.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 29,
     "dex": 29,
     "dex_hoenn": 227,
     "pokemon": "ニドラン♀",
@@ -664,9 +693,10 @@
     "male": 0,
     "female": 1,
     "weight": 7,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 30,
     "dex": 30,
     "dex_hoenn": 228,
     "pokemon": "ニドリーナ",
@@ -687,9 +717,10 @@
     "male": 0,
     "female": 1,
     "weight": 20,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 31,
     "dex": 31,
     "dex_hoenn": 229,
     "pokemon": "ニドクイン",
@@ -710,9 +741,10 @@
     "male": 0,
     "female": 1,
     "weight": 60,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 32,
     "dex": 32,
     "dex_hoenn": 230,
     "pokemon": "ニドラン♂",
@@ -733,9 +765,10 @@
     "male": 1,
     "female": 0,
     "weight": 9,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 33,
     "dex": 33,
     "dex_hoenn": 231,
     "pokemon": "ニドリーノ",
@@ -756,9 +789,10 @@
     "male": 1,
     "female": 0,
     "weight": 19.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 34,
     "dex": 34,
     "dex_hoenn": 232,
     "pokemon": "ニドキング",
@@ -779,9 +813,10 @@
     "male": 1,
     "female": 0,
     "weight": 62,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 35,
     "dex": 35,
     "dex_hoenn": 233,
     "pokemon": "ピッピ",
@@ -802,9 +837,10 @@
     "male": 1,
     "female": 3,
     "weight": 7.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 36,
     "dex": 36,
     "dex_hoenn": 234,
     "pokemon": "ピクシー",
@@ -825,9 +861,10 @@
     "male": 1,
     "female": 3,
     "weight": 40,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 37,
     "dex": 37,
     "dex_hoenn": 153,
     "pokemon": "ロコン",
@@ -848,9 +885,10 @@
     "male": 1,
     "female": 3,
     "weight": 9.9,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 38,
     "dex": 38,
     "dex_hoenn": 154,
     "pokemon": "キュウコン",
@@ -871,9 +909,10 @@
     "male": 1,
     "female": 3,
     "weight": 19.9,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 39,
     "dex": 39,
     "dex_hoenn": 138,
     "pokemon": "プリン",
@@ -894,9 +933,10 @@
     "male": 1,
     "female": 3,
     "weight": 5.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 40,
     "dex": 40,
     "dex_hoenn": 139,
     "pokemon": "プクリン",
@@ -917,9 +957,10 @@
     "male": 1,
     "female": 3,
     "weight": 12,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 41,
     "dex": 41,
     "dex_hoenn": 63,
     "pokemon": "ズバット",
@@ -940,9 +981,10 @@
     "male": 1,
     "female": 1,
     "weight": 7.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 42,
     "dex": 42,
     "dex_hoenn": 64,
     "pokemon": "ゴルバット",
@@ -963,9 +1005,10 @@
     "male": 1,
     "female": 1,
     "weight": 55,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 43,
     "dex": 43,
     "dex_hoenn": 88,
     "pokemon": "ナゾノクサ",
@@ -986,9 +1029,10 @@
     "male": 1,
     "female": 1,
     "weight": 5.4,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 44,
     "dex": 44,
     "dex_hoenn": 89,
     "pokemon": "クサイハナ",
@@ -1012,9 +1056,10 @@
     "male": 1,
     "female": 1,
     "weight": 8.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 45,
     "dex": 45,
     "dex_hoenn": 90,
     "pokemon": "ラフレシア",
@@ -1035,9 +1080,10 @@
     "male": 1,
     "female": 1,
     "weight": 18.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 46,
     "dex": 46,
     "dex_hoenn": 235,
     "pokemon": "パラス",
@@ -1058,9 +1104,10 @@
     "male": 1,
     "female": 1,
     "weight": 5.4,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 47,
     "dex": 47,
     "dex_hoenn": 236,
     "pokemon": "パラセクト",
@@ -1081,9 +1128,10 @@
     "male": 1,
     "female": 1,
     "weight": 29.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 48,
     "dex": 48,
     "dex_hoenn": 237,
     "pokemon": "コンパン",
@@ -1104,9 +1152,10 @@
     "male": 1,
     "female": 1,
     "weight": 30,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 49,
     "dex": 49,
     "dex_hoenn": 238,
     "pokemon": "モルフォン",
@@ -1127,9 +1176,10 @@
     "male": 1,
     "female": 1,
     "weight": 12.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 50,
     "dex": 50,
     "dex_hoenn": 239,
     "pokemon": "ディグダ",
@@ -1150,9 +1200,10 @@
     "male": 1,
     "female": 1,
     "weight": 0.8,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 51,
     "dex": 51,
     "dex_hoenn": 240,
     "pokemon": "ダグトリオ",
@@ -1173,9 +1224,10 @@
     "male": 1,
     "female": 1,
     "weight": 33.3,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 52,
     "dex": 52,
     "dex_hoenn": 241,
     "pokemon": "ニャース",
@@ -1196,9 +1248,10 @@
     "male": 1,
     "female": 1,
     "weight": 4.2,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 53,
     "dex": 53,
     "dex_hoenn": 242,
     "pokemon": "ペルシアン",
@@ -1219,9 +1272,10 @@
     "male": 1,
     "female": 1,
     "weight": 32,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 54,
     "dex": 54,
     "dex_hoenn": 158,
     "pokemon": "コダック",
@@ -1242,9 +1296,10 @@
     "male": 1,
     "female": 1,
     "weight": 19.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 55,
     "dex": 55,
     "dex_hoenn": 159,
     "pokemon": "ゴルダック",
@@ -1265,9 +1320,10 @@
     "male": 1,
     "female": 1,
     "weight": 76.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 56,
     "dex": 56,
     "dex_hoenn": 243,
     "pokemon": "マンキー",
@@ -1288,9 +1344,10 @@
     "male": 1,
     "female": 1,
     "weight": 28,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 57,
     "dex": 57,
     "dex_hoenn": 244,
     "pokemon": "オコリザル",
@@ -1311,9 +1368,10 @@
     "male": 1,
     "female": 1,
     "weight": 32,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 58,
     "dex": 58,
     "dex_hoenn": 245,
     "pokemon": "ガーディ",
@@ -1334,9 +1392,10 @@
     "male": 3,
     "female": 1,
     "weight": 19,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 59,
     "dex": 59,
     "dex_hoenn": 246,
     "pokemon": "ウインディ",
@@ -1357,9 +1416,10 @@
     "male": 3,
     "female": 1,
     "weight": 155,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 60,
     "dex": 60,
     "dex_hoenn": 247,
     "pokemon": "ニョロモ",
@@ -1380,9 +1440,10 @@
     "male": 1,
     "female": 1,
     "weight": 12.4,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 61,
     "dex": 61,
     "dex_hoenn": 248,
     "pokemon": "ニョロゾ",
@@ -1406,9 +1467,10 @@
     "male": 1,
     "female": 1,
     "weight": 20,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 62,
     "dex": 62,
     "dex_hoenn": 249,
     "pokemon": "ニョロボン",
@@ -1429,9 +1491,10 @@
     "male": 1,
     "female": 1,
     "weight": 54,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 63,
     "dex": 63,
     "dex_hoenn": 39,
     "pokemon": "ケーシィ",
@@ -1452,9 +1515,10 @@
     "male": 3,
     "female": 1,
     "weight": 19.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 64,
     "dex": 64,
     "dex_hoenn": 40,
     "pokemon": "ユンゲラー",
@@ -1475,9 +1539,10 @@
     "male": 3,
     "female": 1,
     "weight": 56.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 65,
     "dex": 65,
     "dex_hoenn": 41,
     "pokemon": "フーディン",
@@ -1498,9 +1563,10 @@
     "male": 3,
     "female": 1,
     "weight": 48,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 66,
     "dex": 66,
     "dex_hoenn": 73,
     "pokemon": "ワンリキー",
@@ -1521,9 +1587,10 @@
     "male": 3,
     "female": 1,
     "weight": 19.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 67,
     "dex": 67,
     "dex_hoenn": 74,
     "pokemon": "ゴーリキー",
@@ -1544,9 +1611,10 @@
     "male": 3,
     "female": 1,
     "weight": 70.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 68,
     "dex": 68,
     "dex_hoenn": 75,
     "pokemon": "カイリキー",
@@ -1567,9 +1635,10 @@
     "male": 3,
     "female": 1,
     "weight": 130,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 69,
     "dex": 69,
     "dex_hoenn": 250,
     "pokemon": "マダツボミ",
@@ -1590,9 +1659,10 @@
     "male": 1,
     "female": 1,
     "weight": 4,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 70,
     "dex": 70,
     "dex_hoenn": 251,
     "pokemon": "ウツドン",
@@ -1613,9 +1683,10 @@
     "male": 1,
     "female": 1,
     "weight": 6.4,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 71,
     "dex": 71,
     "dex_hoenn": 252,
     "pokemon": "ウツボット",
@@ -1636,9 +1707,10 @@
     "male": 1,
     "female": 1,
     "weight": 15.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 72,
     "dex": 72,
     "dex_hoenn": 66,
     "pokemon": "メノクラゲ",
@@ -1659,9 +1731,10 @@
     "male": 1,
     "female": 1,
     "weight": 45.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 73,
     "dex": 73,
     "dex_hoenn": 67,
     "pokemon": "ドククラゲ",
@@ -1682,9 +1755,10 @@
     "male": 1,
     "female": 1,
     "weight": 55,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 74,
     "dex": 74,
     "dex_hoenn": 57,
     "pokemon": "イシツブテ",
@@ -1705,9 +1779,10 @@
     "male": 1,
     "female": 1,
     "weight": 20,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 75,
     "dex": 75,
     "dex_hoenn": 58,
     "pokemon": "ゴローン",
@@ -1728,9 +1803,10 @@
     "male": 1,
     "female": 1,
     "weight": 105,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 76,
     "dex": 76,
     "dex_hoenn": 59,
     "pokemon": "ゴローニャ",
@@ -1751,9 +1827,10 @@
     "male": 1,
     "female": 1,
     "weight": 300,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 77,
     "dex": 77,
     "dex_hoenn": 253,
     "pokemon": "ポニータ",
@@ -1774,9 +1851,10 @@
     "male": 1,
     "female": 1,
     "weight": 30,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 78,
     "dex": 78,
     "dex_hoenn": 254,
     "pokemon": "ギャロップ",
@@ -1797,9 +1875,10 @@
     "male": 1,
     "female": 1,
     "weight": 95,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 79,
     "dex": 79,
     "dex_hoenn": 255,
     "pokemon": "ヤドン",
@@ -1823,9 +1902,10 @@
     "male": 1,
     "female": 1,
     "weight": 36,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 80,
     "dex": 80,
     "dex_hoenn": 256,
     "pokemon": "ヤドラン",
@@ -1846,9 +1926,10 @@
     "male": 1,
     "female": 1,
     "weight": 78.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 81,
     "dex": 81,
     "dex_hoenn": 82,
     "pokemon": "コイル",
@@ -1869,9 +1950,10 @@
     "male": 0,
     "female": 0,
     "weight": 6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 82,
     "dex": 82,
     "dex_hoenn": 83,
     "pokemon": "レアコイル",
@@ -1892,9 +1974,10 @@
     "male": 0,
     "female": 0,
     "weight": 60,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 83,
     "dex": 83,
     "dex_hoenn": 257,
     "pokemon": "カモネギ",
@@ -1915,9 +1998,10 @@
     "male": 1,
     "female": 1,
     "weight": 15,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 84,
     "dex": 84,
     "dex_hoenn": 92,
     "pokemon": "ドードー",
@@ -1938,9 +2022,10 @@
     "male": 1,
     "female": 1,
     "weight": 39.2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 85,
     "dex": 85,
     "dex_hoenn": 93,
     "pokemon": "ドードリオ",
@@ -1961,9 +2046,10 @@
     "male": 1,
     "female": 1,
     "weight": 85.2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 86,
     "dex": 86,
     "dex_hoenn": 258,
     "pokemon": "パウワウ",
@@ -1984,9 +2070,10 @@
     "male": 1,
     "female": 1,
     "weight": 90,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 87,
     "dex": 87,
     "dex_hoenn": 259,
     "pokemon": "ジュゴン",
@@ -2007,9 +2094,10 @@
     "male": 1,
     "female": 1,
     "weight": 120,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 88,
     "dex": 88,
     "dex_hoenn": 106,
     "pokemon": "ベトベター",
@@ -2030,9 +2118,10 @@
     "male": 1,
     "female": 1,
     "weight": 30,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 89,
     "dex": 89,
     "dex_hoenn": 107,
     "pokemon": "ベトベトン",
@@ -2053,9 +2142,10 @@
     "male": 1,
     "female": 1,
     "weight": 30,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 90,
     "dex": 90,
     "dex_hoenn": 260,
     "pokemon": "シェルダー",
@@ -2076,9 +2166,10 @@
     "male": 1,
     "female": 1,
     "weight": 4,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 91,
     "dex": 91,
     "dex_hoenn": 261,
     "pokemon": "パルシェン",
@@ -2099,9 +2190,10 @@
     "male": 1,
     "female": 1,
     "weight": 132.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 92,
     "dex": 92,
     "dex_hoenn": 262,
     "pokemon": "ゴース",
@@ -2122,9 +2214,10 @@
     "male": 1,
     "female": 1,
     "weight": 0.1,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 93,
     "dex": 93,
     "dex_hoenn": 263,
     "pokemon": "ゴースト",
@@ -2145,9 +2238,10 @@
     "male": 1,
     "female": 1,
     "weight": 0.1,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 94,
     "dex": 94,
     "dex_hoenn": 264,
     "pokemon": "ゲンガー",
@@ -2168,9 +2262,10 @@
     "male": 1,
     "female": 1,
     "weight": 40.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 95,
     "dex": 95,
     "dex_hoenn": 265,
     "pokemon": "イワーク",
@@ -2191,9 +2286,10 @@
     "male": 1,
     "female": 1,
     "weight": 210,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 96,
     "dex": 96,
     "dex_hoenn": 266,
     "pokemon": "スリープ",
@@ -2214,9 +2310,10 @@
     "male": 1,
     "female": 1,
     "weight": 32.4,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 97,
     "dex": 97,
     "dex_hoenn": 267,
     "pokemon": "スリーパー",
@@ -2237,9 +2334,10 @@
     "male": 1,
     "female": 1,
     "weight": 75.6,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 98,
     "dex": 98,
     "dex_hoenn": 268,
     "pokemon": "クラブ",
@@ -2260,9 +2358,10 @@
     "male": 1,
     "female": 1,
     "weight": 6.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 99,
     "dex": 99,
     "dex_hoenn": 269,
     "pokemon": "キングラー",
@@ -2283,9 +2382,10 @@
     "male": 1,
     "female": 1,
     "weight": 60,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 100,
     "dex": 100,
     "dex_hoenn": 84,
     "pokemon": "ビリリダマ",
@@ -2306,9 +2406,10 @@
     "male": 0,
     "female": 0,
     "weight": 10.4,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 101,
     "dex": 101,
     "dex_hoenn": 85,
     "pokemon": "マルマイン",
@@ -2329,9 +2430,10 @@
     "male": 0,
     "female": 0,
     "weight": 66.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 102,
     "dex": 102,
     "dex_hoenn": 270,
     "pokemon": "タマタマ",
@@ -2352,9 +2454,10 @@
     "male": 1,
     "female": 1,
     "weight": 2.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 103,
     "dex": 103,
     "dex_hoenn": 271,
     "pokemon": "ナッシー",
@@ -2375,9 +2478,10 @@
     "male": 1,
     "female": 1,
     "weight": 120,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 104,
     "dex": 104,
     "dex_hoenn": 272,
     "pokemon": "カラカラ",
@@ -2398,9 +2502,10 @@
     "male": 1,
     "female": 1,
     "weight": 6.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 105,
     "dex": 105,
     "dex_hoenn": 273,
     "pokemon": "ガラガラ",
@@ -2421,9 +2526,10 @@
     "male": 1,
     "female": 1,
     "weight": 45,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 106,
     "dex": 106,
     "dex_hoenn": 274,
     "pokemon": "サワムラー",
@@ -2444,9 +2550,10 @@
     "male": 1,
     "female": 0,
     "weight": 49.8,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 107,
     "dex": 107,
     "dex_hoenn": 275,
     "pokemon": "エビワラー",
@@ -2467,9 +2574,10 @@
     "male": 1,
     "female": 0,
     "weight": 50.2,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 108,
     "dex": 108,
     "dex_hoenn": 276,
     "pokemon": "ベロリンガ",
@@ -2490,9 +2598,10 @@
     "male": 1,
     "female": 1,
     "weight": 65.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 109,
     "dex": 109,
     "dex_hoenn": 108,
     "pokemon": "ドガース",
@@ -2513,9 +2622,10 @@
     "male": 1,
     "female": 1,
     "weight": 1,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 110,
     "dex": 110,
     "dex_hoenn": 109,
     "pokemon": "マタドガス",
@@ -2536,9 +2646,10 @@
     "male": 1,
     "female": 1,
     "weight": 9.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 111,
     "dex": 111,
     "dex_hoenn": 169,
     "pokemon": "サイホーン",
@@ -2559,9 +2670,10 @@
     "male": 1,
     "female": 1,
     "weight": 115,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 112,
     "dex": 112,
     "dex_hoenn": 170,
     "pokemon": "サイドン",
@@ -2582,9 +2694,10 @@
     "male": 1,
     "female": 1,
     "weight": 120,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 113,
     "dex": 113,
     "dex_hoenn": 277,
     "pokemon": "ラッキー",
@@ -2605,9 +2718,10 @@
     "male": 0,
     "female": 1,
     "weight": 34.6,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 114,
     "dex": 114,
     "dex_hoenn": 278,
     "pokemon": "モンジャラ",
@@ -2628,9 +2742,10 @@
     "male": 1,
     "female": 1,
     "weight": 35,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 115,
     "dex": 115,
     "dex_hoenn": 279,
     "pokemon": "ガルーラ",
@@ -2651,9 +2766,10 @@
     "male": 0,
     "female": 1,
     "weight": 80,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 116,
     "dex": 116,
     "dex_hoenn": 184,
     "pokemon": "タッツー",
@@ -2674,9 +2790,10 @@
     "male": 1,
     "female": 1,
     "weight": 8,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 117,
     "dex": 117,
     "dex_hoenn": 185,
     "pokemon": "シードラ",
@@ -2697,9 +2814,10 @@
     "male": 1,
     "female": 1,
     "weight": 25,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 118,
     "dex": 118,
     "dex_hoenn": 50,
     "pokemon": "トサキント",
@@ -2720,9 +2838,10 @@
     "male": 1,
     "female": 1,
     "weight": 15,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 119,
     "dex": 119,
     "dex_hoenn": 51,
     "pokemon": "アズマオウ",
@@ -2743,9 +2862,10 @@
     "male": 1,
     "female": 1,
     "weight": 39,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 120,
     "dex": 120,
     "dex_hoenn": 143,
     "pokemon": "ヒトデマン",
@@ -2766,9 +2886,10 @@
     "male": 0,
     "female": 0,
     "weight": 34.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 121,
     "dex": 121,
     "dex_hoenn": 144,
     "pokemon": "スターミー",
@@ -2789,9 +2910,10 @@
     "male": 0,
     "female": 0,
     "weight": 80,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 122,
     "dex": 122,
     "dex_hoenn": 280,
     "pokemon": "バリヤード",
@@ -2812,9 +2934,10 @@
     "male": 1,
     "female": 1,
     "weight": 54.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 123,
     "dex": 123,
     "dex_hoenn": 281,
     "pokemon": "ストライク",
@@ -2835,9 +2958,10 @@
     "male": 1,
     "female": 1,
     "weight": 56,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 124,
     "dex": 124,
     "dex_hoenn": 282,
     "pokemon": "ルージュラ",
@@ -2858,9 +2982,10 @@
     "male": 0,
     "female": 1,
     "weight": 40.6,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 125,
     "dex": 125,
     "dex_hoenn": 283,
     "pokemon": "エレブー",
@@ -2881,9 +3006,10 @@
     "male": 3,
     "female": 1,
     "weight": 30,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 126,
     "dex": 126,
     "dex_hoenn": 284,
     "pokemon": "ブーバー",
@@ -2904,9 +3030,10 @@
     "male": 3,
     "female": 1,
     "weight": 44.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 127,
     "dex": 127,
     "dex_hoenn": 167,
     "pokemon": "カイロス",
@@ -2927,9 +3054,10 @@
     "male": 1,
     "female": 1,
     "weight": 55,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 128,
     "dex": 128,
     "dex_hoenn": 285,
     "pokemon": "ケンタロス",
@@ -2950,9 +3078,10 @@
     "male": 1,
     "female": 0,
     "weight": 88.4,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 129,
     "dex": 129,
     "dex_hoenn": 52,
     "pokemon": "コイキング",
@@ -2973,9 +3102,10 @@
     "male": 1,
     "female": 1,
     "weight": 10,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 130,
     "dex": 130,
     "dex_hoenn": 53,
     "pokemon": "ギャラドス",
@@ -2996,9 +3126,10 @@
     "male": 1,
     "female": 1,
     "weight": 235,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 131,
     "dex": 131,
     "dex_hoenn": 286,
     "pokemon": "ラプラス",
@@ -3019,9 +3150,10 @@
     "male": 1,
     "female": 1,
     "weight": 220,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 132,
     "dex": 132,
     "dex_hoenn": 287,
     "pokemon": "メタモン",
@@ -3042,9 +3174,10 @@
     "male": 0,
     "female": 0,
     "weight": 4,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 133,
     "dex": 133,
     "dex_hoenn": 288,
     "pokemon": "イーブイ",
@@ -3071,9 +3204,10 @@
     "male": 7,
     "female": 1,
     "weight": 6.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 134,
     "dex": 134,
     "dex_hoenn": 289,
     "pokemon": "シャワーズ",
@@ -3094,9 +3228,10 @@
     "male": 7,
     "female": 1,
     "weight": 29,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 135,
     "dex": 135,
     "dex_hoenn": 290,
     "pokemon": "サンダース",
@@ -3117,9 +3252,10 @@
     "male": 7,
     "female": 1,
     "weight": 24.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 136,
     "dex": 136,
     "dex_hoenn": 291,
     "pokemon": "ブースター",
@@ -3140,9 +3276,10 @@
     "male": 7,
     "female": 1,
     "weight": 25,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 137,
     "dex": 137,
     "dex_hoenn": 292,
     "pokemon": "ポリゴン",
@@ -3163,9 +3300,10 @@
     "male": 0,
     "female": 0,
     "weight": 36.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 138,
     "dex": 138,
     "dex_hoenn": 293,
     "pokemon": "オムナイト",
@@ -3186,9 +3324,10 @@
     "male": 7,
     "female": 1,
     "weight": 7.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 139,
     "dex": 139,
     "dex_hoenn": 294,
     "pokemon": "オムスター",
@@ -3209,9 +3348,10 @@
     "male": 7,
     "female": 1,
     "weight": 35,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 140,
     "dex": 140,
     "dex_hoenn": 295,
     "pokemon": "カブト",
@@ -3232,9 +3372,10 @@
     "male": 7,
     "female": 1,
     "weight": 11.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 141,
     "dex": 141,
     "dex_hoenn": 296,
     "pokemon": "カブトプス",
@@ -3255,9 +3396,10 @@
     "male": 7,
     "female": 1,
     "weight": 40.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 142,
     "dex": 142,
     "dex_hoenn": 297,
     "pokemon": "プテラ",
@@ -3278,9 +3420,10 @@
     "male": 7,
     "female": 1,
     "weight": 59,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 143,
     "dex": 143,
     "dex_hoenn": 298,
     "pokemon": "カビゴン",
@@ -3301,9 +3444,10 @@
     "male": 7,
     "female": 1,
     "weight": 460,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 144,
     "dex": 144,
     "dex_hoenn": 299,
     "pokemon": "フリーザー",
@@ -3324,9 +3468,10 @@
     "male": 0,
     "female": 0,
     "weight": 55.4,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 145,
     "dex": 145,
     "dex_hoenn": 300,
     "pokemon": "サンダー",
@@ -3347,9 +3492,10 @@
     "male": 0,
     "female": 0,
     "weight": 52.6,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 146,
     "dex": 146,
     "dex_hoenn": 301,
     "pokemon": "ファイヤー",
@@ -3370,9 +3516,10 @@
     "male": 0,
     "female": 0,
     "weight": 60,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 147,
     "dex": 147,
     "dex_hoenn": 302,
     "pokemon": "ミニリュウ",
@@ -3393,9 +3540,10 @@
     "male": 1,
     "female": 1,
     "weight": 3.3,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 148,
     "dex": 148,
     "dex_hoenn": 303,
     "pokemon": "ハクリュー",
@@ -3416,9 +3564,10 @@
     "male": 1,
     "female": 1,
     "weight": 16.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 149,
     "dex": 149,
     "dex_hoenn": 304,
     "pokemon": "カイリュー",
@@ -3439,9 +3588,10 @@
     "male": 1,
     "female": 1,
     "weight": 210,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 150,
     "dex": 150,
     "dex_hoenn": 305,
     "pokemon": "ミュウツー",
@@ -3462,9 +3612,10 @@
     "male": 0,
     "female": 0,
     "weight": 122,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 151,
     "dex": 151,
     "dex_hoenn": 306,
     "pokemon": "ミュウ",
@@ -3485,9 +3636,10 @@
     "male": 0,
     "female": 0,
     "weight": 4,
-    "release_date": "2005-06-24T15:00:00.000Z"
+    "release_date": "2005/06/25"
   },
   {
+    "id": 152,
     "dex": 152,
     "dex_hoenn": 307,
     "pokemon": "チコリータ",
@@ -3508,9 +3660,10 @@
     "male": 7,
     "female": 1,
     "weight": 6.4,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 153,
     "dex": 153,
     "dex_hoenn": 308,
     "pokemon": "ベイリーフ",
@@ -3531,9 +3684,10 @@
     "male": 7,
     "female": 1,
     "weight": 15.8,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 154,
     "dex": 154,
     "dex_hoenn": 309,
     "pokemon": "メガニウム",
@@ -3554,9 +3708,10 @@
     "male": 7,
     "female": 1,
     "weight": 100.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 155,
     "dex": 155,
     "dex_hoenn": 310,
     "pokemon": "ヒノアラシ",
@@ -3577,9 +3732,10 @@
     "male": 7,
     "female": 1,
     "weight": 7.9,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 156,
     "dex": 156,
     "dex_hoenn": 311,
     "pokemon": "マグマラシ",
@@ -3600,9 +3756,10 @@
     "male": 7,
     "female": 1,
     "weight": 19,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 157,
     "dex": 157,
     "dex_hoenn": 312,
     "pokemon": "バクフーン",
@@ -3623,9 +3780,10 @@
     "male": 7,
     "female": 1,
     "weight": 79.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 158,
     "dex": 158,
     "dex_hoenn": 313,
     "pokemon": "ワニノコ",
@@ -3646,9 +3804,10 @@
     "male": 7,
     "female": 1,
     "weight": 9.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 159,
     "dex": 159,
     "dex_hoenn": 314,
     "pokemon": "アリゲイツ",
@@ -3669,9 +3828,10 @@
     "male": 7,
     "female": 1,
     "weight": 25,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 160,
     "dex": 160,
     "dex_hoenn": 315,
     "pokemon": "オーダイル",
@@ -3692,9 +3852,10 @@
     "male": 7,
     "female": 1,
     "weight": 88.8,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 161,
     "dex": 161,
     "dex_hoenn": 316,
     "pokemon": "オタチ",
@@ -3715,9 +3876,10 @@
     "male": 1,
     "female": 1,
     "weight": 6,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 162,
     "dex": 162,
     "dex_hoenn": 317,
     "pokemon": "オオタチ",
@@ -3738,9 +3900,10 @@
     "male": 1,
     "female": 1,
     "weight": 32.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 163,
     "dex": 163,
     "dex_hoenn": 318,
     "pokemon": "ホーホー",
@@ -3761,9 +3924,10 @@
     "male": 1,
     "female": 1,
     "weight": 21.2,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 164,
     "dex": 164,
     "dex_hoenn": 319,
     "pokemon": "ヨルノズク",
@@ -3784,9 +3948,10 @@
     "male": 1,
     "female": 1,
     "weight": 40.8,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 165,
     "dex": 165,
     "dex_hoenn": 320,
     "pokemon": "レディバ",
@@ -3807,9 +3972,10 @@
     "male": 1,
     "female": 1,
     "weight": 10.8,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 166,
     "dex": 166,
     "dex_hoenn": 321,
     "pokemon": "レディアン",
@@ -3830,9 +3996,10 @@
     "male": 1,
     "female": 1,
     "weight": 35.6,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 167,
     "dex": 167,
     "dex_hoenn": 322,
     "pokemon": "イトマル",
@@ -3853,9 +4020,10 @@
     "male": 1,
     "female": 1,
     "weight": 8.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 168,
     "dex": 168,
     "dex_hoenn": 323,
     "pokemon": "アリアドス",
@@ -3876,9 +4044,10 @@
     "male": 1,
     "female": 1,
     "weight": 33.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 169,
     "dex": 169,
     "dex_hoenn": 65,
     "pokemon": "クロバット",
@@ -3899,9 +4068,10 @@
     "male": 1,
     "female": 1,
     "weight": 75,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 170,
     "dex": 170,
     "dex_hoenn": 181,
     "pokemon": "チョンチー",
@@ -3922,9 +4092,10 @@
     "male": 1,
     "female": 1,
     "weight": 12,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 171,
     "dex": 171,
     "dex_hoenn": 182,
     "pokemon": "ランターン",
@@ -3945,9 +4116,10 @@
     "male": 1,
     "female": 1,
     "weight": 22.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 172,
     "dex": 172,
     "dex_hoenn": 155,
     "pokemon": "ピチュー",
@@ -3968,9 +4140,10 @@
     "male": 1,
     "female": 1,
     "weight": 2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 173,
     "dex": 173,
     "dex_hoenn": 324,
     "pokemon": "ピィ",
@@ -3991,9 +4164,10 @@
     "male": 1,
     "female": 3,
     "weight": 3,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 174,
     "dex": 174,
     "dex_hoenn": 137,
     "pokemon": "ププリン",
@@ -4014,9 +4188,10 @@
     "male": 1,
     "female": 3,
     "weight": 1,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 175,
     "dex": 175,
     "dex_hoenn": 325,
     "pokemon": "トゲピー",
@@ -4037,9 +4212,10 @@
     "male": 7,
     "female": 1,
     "weight": 1.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 176,
     "dex": 176,
     "dex_hoenn": 326,
     "pokemon": "トゲチック",
@@ -4060,9 +4236,10 @@
     "male": 7,
     "female": 1,
     "weight": 3.2,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 177,
     "dex": 177,
     "dex_hoenn": 162,
     "pokemon": "ネイティ",
@@ -4083,9 +4260,10 @@
     "male": 1,
     "female": 1,
     "weight": 2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 178,
     "dex": 178,
     "dex_hoenn": 163,
     "pokemon": "ネイティオ",
@@ -4106,9 +4284,10 @@
     "male": 1,
     "female": 1,
     "weight": 15,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 179,
     "dex": 179,
     "dex_hoenn": 327,
     "pokemon": "メリープ",
@@ -4129,9 +4308,10 @@
     "male": 1,
     "female": 1,
     "weight": 7.8,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 180,
     "dex": 180,
     "dex_hoenn": 328,
     "pokemon": "モココ",
@@ -4152,9 +4332,10 @@
     "male": 1,
     "female": 1,
     "weight": 13.3,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 181,
     "dex": 181,
     "dex_hoenn": 329,
     "pokemon": "デンリュウ",
@@ -4175,9 +4356,10 @@
     "male": 1,
     "female": 1,
     "weight": 61.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 182,
     "dex": 182,
     "dex_hoenn": 91,
     "pokemon": "キレイハナ",
@@ -4198,9 +4380,10 @@
     "male": 1,
     "female": 1,
     "weight": 5.8,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 183,
     "dex": 183,
     "dex_hoenn": 55,
     "pokemon": "マリル",
@@ -4221,9 +4404,10 @@
     "male": 1,
     "female": 1,
     "weight": 8.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 184,
     "dex": 184,
     "dex_hoenn": 56,
     "pokemon": "マリルリ",
@@ -4244,9 +4428,10 @@
     "male": 1,
     "female": 1,
     "weight": 28.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 185,
     "dex": 185,
     "dex_hoenn": 330,
     "pokemon": "ウソッキー",
@@ -4267,9 +4452,10 @@
     "male": 1,
     "female": 1,
     "weight": 38,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 186,
     "dex": 186,
     "dex_hoenn": 331,
     "pokemon": "ニョロトノ",
@@ -4290,9 +4476,10 @@
     "male": 1,
     "female": 1,
     "weight": 33.9,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 187,
     "dex": 187,
     "dex_hoenn": 332,
     "pokemon": "ハネッコ",
@@ -4313,9 +4500,10 @@
     "male": 1,
     "female": 1,
     "weight": 0.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 188,
     "dex": 188,
     "dex_hoenn": 333,
     "pokemon": "ポポッコ",
@@ -4336,9 +4524,10 @@
     "male": 1,
     "female": 1,
     "weight": 1,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 189,
     "dex": 189,
     "dex_hoenn": 334,
     "pokemon": "ワタッコ",
@@ -4359,9 +4548,10 @@
     "male": 1,
     "female": 1,
     "weight": 3,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 190,
     "dex": 190,
     "dex_hoenn": 335,
     "pokemon": "エイパム",
@@ -4382,9 +4572,10 @@
     "male": 1,
     "female": 1,
     "weight": 11.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 191,
     "dex": 191,
     "dex_hoenn": 336,
     "pokemon": "ヒマナッツ",
@@ -4405,9 +4596,10 @@
     "male": 1,
     "female": 1,
     "weight": 1.8,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 192,
     "dex": 192,
     "dex_hoenn": 337,
     "pokemon": "キマワリ",
@@ -4428,9 +4620,10 @@
     "male": 1,
     "female": 1,
     "weight": 8.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 193,
     "dex": 193,
     "dex_hoenn": 338,
     "pokemon": "ヤンヤンマ",
@@ -4451,9 +4644,10 @@
     "male": 1,
     "female": 1,
     "weight": 38,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 194,
     "dex": 194,
     "dex_hoenn": 339,
     "pokemon": "ウパー",
@@ -4474,9 +4668,10 @@
     "male": 1,
     "female": 1,
     "weight": 8.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 195,
     "dex": 195,
     "dex_hoenn": 340,
     "pokemon": "ヌオー",
@@ -4497,9 +4692,10 @@
     "male": 1,
     "female": 1,
     "weight": 75,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 196,
     "dex": 196,
     "dex_hoenn": 341,
     "pokemon": "エーフィ",
@@ -4520,9 +4716,10 @@
     "male": 7,
     "female": 1,
     "weight": 26.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 197,
     "dex": 197,
     "dex_hoenn": 342,
     "pokemon": "ブラッキー",
@@ -4543,9 +4740,10 @@
     "male": 7,
     "female": 1,
     "weight": 27,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 198,
     "dex": 198,
     "dex_hoenn": 343,
     "pokemon": "ヤミカラス",
@@ -4566,9 +4764,10 @@
     "male": 1,
     "female": 1,
     "weight": 2.1,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 199,
     "dex": 199,
     "dex_hoenn": 344,
     "pokemon": "ヤドキング",
@@ -4589,9 +4788,10 @@
     "male": 1,
     "female": 1,
     "weight": 79.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 200,
     "dex": 200,
     "dex_hoenn": 345,
     "pokemon": "ムウマ",
@@ -4612,9 +4812,10 @@
     "male": 1,
     "female": 1,
     "weight": 1,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 201,
     "dex": 201,
     "dex_hoenn": 346,
     "pokemon": "アンノーン",
@@ -4635,9 +4836,10 @@
     "male": 0,
     "female": 0,
     "weight": 5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 202,
     "dex": 202,
     "dex_hoenn": 161,
     "pokemon": "ソーナンス",
@@ -4658,9 +4860,10 @@
     "male": 1,
     "female": 1,
     "weight": 28.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 203,
     "dex": 203,
     "dex_hoenn": 164,
     "pokemon": "キリンリキ",
@@ -4681,9 +4884,10 @@
     "male": 1,
     "female": 1,
     "weight": 41.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 204,
     "dex": 204,
     "dex_hoenn": 347,
     "pokemon": "クヌギダマ",
@@ -4704,9 +4908,10 @@
     "male": 1,
     "female": 1,
     "weight": 7.2,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 205,
     "dex": 205,
     "dex_hoenn": 348,
     "pokemon": "フォレトス",
@@ -4727,9 +4932,10 @@
     "male": 1,
     "female": 1,
     "weight": 125.8,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 206,
     "dex": 206,
     "dex_hoenn": 349,
     "pokemon": "ノコッチ",
@@ -4750,9 +4956,10 @@
     "male": 1,
     "female": 1,
     "weight": 14,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 207,
     "dex": 207,
     "dex_hoenn": 350,
     "pokemon": "グライガー",
@@ -4773,9 +4980,10 @@
     "male": 1,
     "female": 1,
     "weight": 64.8,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 208,
     "dex": 208,
     "dex_hoenn": 351,
     "pokemon": "ハガネール",
@@ -4796,9 +5004,10 @@
     "male": 1,
     "female": 1,
     "weight": 400,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 209,
     "dex": 209,
     "dex_hoenn": 352,
     "pokemon": "ブルー",
@@ -4819,9 +5028,10 @@
     "male": 1,
     "female": 3,
     "weight": 7.8,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 210,
     "dex": 210,
     "dex_hoenn": 353,
     "pokemon": "グランブル",
@@ -4842,9 +5052,10 @@
     "male": 1,
     "female": 3,
     "weight": 48.7,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 211,
     "dex": 211,
     "dex_hoenn": 354,
     "pokemon": "ハリーセン",
@@ -4865,9 +5076,10 @@
     "male": 1,
     "female": 1,
     "weight": 3.9,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 212,
     "dex": 212,
     "dex_hoenn": 355,
     "pokemon": "ハッサム",
@@ -4888,9 +5100,10 @@
     "male": 1,
     "female": 1,
     "weight": 118,
-    "release_date": "2003-12-24T15:00:00.000Z"
+    "release_date": "2003/12/25"
   },
   {
+    "id": 213,
     "dex": 213,
     "dex_hoenn": 356,
     "pokemon": "ツボツボ",
@@ -4911,9 +5124,10 @@
     "male": 1,
     "female": 1,
     "weight": 20.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 214,
     "dex": 214,
     "dex_hoenn": 168,
     "pokemon": "ヘラクロス",
@@ -4934,9 +5148,10 @@
     "male": 1,
     "female": 1,
     "weight": 54,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 215,
     "dex": 215,
     "dex_hoenn": 357,
     "pokemon": "ニューラ",
@@ -4957,9 +5172,10 @@
     "male": 1,
     "female": 1,
     "weight": 28,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 216,
     "dex": 216,
     "dex_hoenn": 358,
     "pokemon": "ヒメグマ",
@@ -4980,9 +5196,10 @@
     "male": 1,
     "female": 1,
     "weight": 8.8,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 217,
     "dex": 217,
     "dex_hoenn": 359,
     "pokemon": "リングマ",
@@ -5003,9 +5220,10 @@
     "male": 1,
     "female": 1,
     "weight": 125.8,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 218,
     "dex": 218,
     "dex_hoenn": 103,
     "pokemon": "マグマッグ",
@@ -5026,9 +5244,10 @@
     "male": 1,
     "female": 1,
     "weight": 35,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 219,
     "dex": 219,
     "dex_hoenn": 104,
     "pokemon": "マグカルゴ",
@@ -5049,9 +5268,10 @@
     "male": 1,
     "female": 1,
     "weight": 55,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 220,
     "dex": 220,
     "dex_hoenn": 360,
     "pokemon": "ウリムー",
@@ -5072,9 +5292,10 @@
     "male": 1,
     "female": 1,
     "weight": 6.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 221,
     "dex": 221,
     "dex_hoenn": 361,
     "pokemon": "イノムー",
@@ -5095,9 +5316,10 @@
     "male": 1,
     "female": 1,
     "weight": 55.8,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 222,
     "dex": 222,
     "dex_hoenn": 180,
     "pokemon": "サニーゴ",
@@ -5118,9 +5340,10 @@
     "male": 1,
     "female": 3,
     "weight": 5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 223,
     "dex": 223,
     "dex_hoenn": 362,
     "pokemon": "テッポウオ",
@@ -5141,9 +5364,10 @@
     "male": 1,
     "female": 1,
     "weight": 12,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 224,
     "dex": 224,
     "dex_hoenn": 363,
     "pokemon": "オクタン",
@@ -5164,9 +5388,10 @@
     "male": 1,
     "female": 1,
     "weight": 28.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 225,
     "dex": 225,
     "dex_hoenn": 364,
     "pokemon": "デリバード",
@@ -5187,9 +5412,10 @@
     "male": 1,
     "female": 1,
     "weight": 16,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 226,
     "dex": 226,
     "dex_hoenn": 365,
     "pokemon": "マンタイン",
@@ -5210,9 +5436,10 @@
     "male": 1,
     "female": 1,
     "weight": 220,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 227,
     "dex": 227,
     "dex_hoenn": 115,
     "pokemon": "エアームド",
@@ -5233,9 +5460,10 @@
     "male": 1,
     "female": 1,
     "weight": 50.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 228,
     "dex": 228,
     "dex_hoenn": 366,
     "pokemon": "デルビル",
@@ -5256,9 +5484,10 @@
     "male": 1,
     "female": 1,
     "weight": 10.8,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 229,
     "dex": 229,
     "dex_hoenn": 367,
     "pokemon": "ヘルガー",
@@ -5279,9 +5508,10 @@
     "male": 1,
     "female": 1,
     "weight": 35,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 230,
     "dex": 230,
     "dex_hoenn": 186,
     "pokemon": "キングドラ",
@@ -5302,9 +5532,10 @@
     "male": 1,
     "female": 1,
     "weight": 152,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 231,
     "dex": 231,
     "dex_hoenn": 165,
     "pokemon": "ゴマゾウ",
@@ -5325,9 +5556,10 @@
     "male": 1,
     "female": 1,
     "weight": 33.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 232,
     "dex": 232,
     "dex_hoenn": 166,
     "pokemon": "ドンファン",
@@ -5348,9 +5580,10 @@
     "male": 1,
     "female": 1,
     "weight": 120,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 233,
     "dex": 233,
     "dex_hoenn": 368,
     "pokemon": "ポリゴン２",
@@ -5371,9 +5604,10 @@
     "male": 0,
     "female": 0,
     "weight": 32.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 234,
     "dex": 234,
     "dex_hoenn": 369,
     "pokemon": "オドシシ",
@@ -5394,9 +5628,10 @@
     "male": 1,
     "female": 1,
     "weight": 71.2,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 235,
     "dex": 235,
     "dex_hoenn": 370,
     "pokemon": "ドーブル",
@@ -5417,9 +5652,10 @@
     "male": 1,
     "female": 1,
     "weight": 58,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 236,
     "dex": 236,
     "dex_hoenn": 371,
     "pokemon": "バルキー",
@@ -5444,9 +5680,10 @@
     "male": 1,
     "female": 0,
     "weight": 21,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 237,
     "dex": 237,
     "dex_hoenn": 372,
     "pokemon": "カポエラー",
@@ -5467,9 +5704,10 @@
     "male": 1,
     "female": 0,
     "weight": 48,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 238,
     "dex": 238,
     "dex_hoenn": 373,
     "pokemon": "ムチュール",
@@ -5490,9 +5728,10 @@
     "male": 0,
     "female": 1,
     "weight": 6,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 239,
     "dex": 239,
     "dex_hoenn": 374,
     "pokemon": "エレキッド",
@@ -5513,9 +5752,10 @@
     "male": 3,
     "female": 1,
     "weight": 23.5,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 240,
     "dex": 240,
     "dex_hoenn": 375,
     "pokemon": "ブビィ",
@@ -5536,9 +5776,10 @@
     "male": 3,
     "female": 1,
     "weight": 21.4,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 241,
     "dex": 241,
     "dex_hoenn": 376,
     "pokemon": "ミルタンク",
@@ -5559,9 +5800,10 @@
     "male": 0,
     "female": 1,
     "weight": 75.5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 242,
     "dex": 242,
     "dex_hoenn": 377,
     "pokemon": "ハピナス",
@@ -5582,9 +5824,10 @@
     "male": 0,
     "female": 1,
     "weight": 46.8,
-    "release_date": "2004-01-28T15:00:00.000Z"
+    "release_date": "2004/01/29"
   },
   {
+    "id": 243,
     "dex": 243,
     "dex_hoenn": 378,
     "pokemon": "ライコウ",
@@ -5605,9 +5848,10 @@
     "male": 0,
     "female": 0,
     "weight": 178,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 244,
     "dex": 244,
     "dex_hoenn": 379,
     "pokemon": "エンテイ",
@@ -5628,9 +5872,10 @@
     "male": 0,
     "female": 0,
     "weight": 198,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 245,
     "dex": 245,
     "dex_hoenn": 380,
     "pokemon": "スイクン",
@@ -5651,9 +5896,10 @@
     "male": 0,
     "female": 0,
     "weight": 187,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 246,
     "dex": 246,
     "dex_hoenn": 381,
     "pokemon": "ヨーギラス",
@@ -5674,9 +5920,10 @@
     "male": 1,
     "female": 1,
     "weight": 72,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 247,
     "dex": 247,
     "dex_hoenn": 382,
     "pokemon": "サナギラス",
@@ -5697,9 +5944,10 @@
     "male": 1,
     "female": 1,
     "weight": 152,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 248,
     "dex": 248,
     "dex_hoenn": 383,
     "pokemon": "バンギラス",
@@ -5720,9 +5968,10 @@
     "male": 1,
     "female": 1,
     "weight": 202,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 249,
     "dex": 249,
     "dex_hoenn": 384,
     "pokemon": "ルギア",
@@ -5743,9 +5992,10 @@
     "male": 0,
     "female": 0,
     "weight": 216,
-    "release_date": "2004-07-16T15:00:00.000Z"
+    "release_date": "2004/07/17"
   },
   {
+    "id": 250,
     "dex": 250,
     "dex_hoenn": 385,
     "pokemon": "ホウオウ",
@@ -5766,9 +6016,10 @@
     "male": 0,
     "female": 0,
     "weight": 199,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 251,
     "dex": 251,
     "dex_hoenn": 386,
     "pokemon": "セレビィ",
@@ -5789,9 +6040,10 @@
     "male": 0,
     "female": 0,
     "weight": 5,
-    "release_date": "2003-11-20T15:00:00.000Z"
+    "release_date": "2003/11/21"
   },
   {
+    "id": 252,
     "dex": 252,
     "dex_hoenn": 1,
     "pokemon": "キモリ",
@@ -5812,9 +6064,10 @@
     "male": 7,
     "female": 1,
     "weight": 5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 253,
     "dex": 253,
     "dex_hoenn": 2,
     "pokemon": "ジュプトル",
@@ -5835,9 +6088,10 @@
     "male": 7,
     "female": 1,
     "weight": 21.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 254,
     "dex": 254,
     "dex_hoenn": 3,
     "pokemon": "ジュカイン",
@@ -5858,9 +6112,10 @@
     "male": 7,
     "female": 1,
     "weight": 52.2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 255,
     "dex": 255,
     "dex_hoenn": 4,
     "pokemon": "アチャモ",
@@ -5881,9 +6136,10 @@
     "male": 7,
     "female": 1,
     "weight": 2.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 256,
     "dex": 256,
     "dex_hoenn": 5,
     "pokemon": "ワカシャモ",
@@ -5904,9 +6160,10 @@
     "male": 7,
     "female": 1,
     "weight": 19.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 257,
     "dex": 257,
     "dex_hoenn": 6,
     "pokemon": "バシャーモ",
@@ -5927,9 +6184,10 @@
     "male": 7,
     "female": 1,
     "weight": 52,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 258,
     "dex": 258,
     "dex_hoenn": 7,
     "pokemon": "ミズゴロウ",
@@ -5950,9 +6208,10 @@
     "male": 7,
     "female": 1,
     "weight": 7.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 259,
     "dex": 259,
     "dex_hoenn": 8,
     "pokemon": "ヌマクロー",
@@ -5973,9 +6232,10 @@
     "male": 7,
     "female": 1,
     "weight": 28,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 260,
     "dex": 260,
     "dex_hoenn": 9,
     "pokemon": "ラグラージ",
@@ -5996,9 +6256,10 @@
     "male": 7,
     "female": 1,
     "weight": 81.9,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 261,
     "dex": 261,
     "dex_hoenn": 10,
     "pokemon": "ポチエナ",
@@ -6019,9 +6280,10 @@
     "male": 1,
     "female": 1,
     "weight": 13.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 262,
     "dex": 262,
     "dex_hoenn": 11,
     "pokemon": "グラエナ",
@@ -6042,9 +6304,10 @@
     "male": 1,
     "female": 1,
     "weight": 37,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 263,
     "dex": 263,
     "dex_hoenn": 12,
     "pokemon": "ジグザグマ",
@@ -6065,9 +6328,10 @@
     "male": 1,
     "female": 1,
     "weight": 17.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 264,
     "dex": 264,
     "dex_hoenn": 13,
     "pokemon": "マッスグマ",
@@ -6088,9 +6352,10 @@
     "male": 1,
     "female": 1,
     "weight": 32.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 265,
     "dex": 265,
     "dex_hoenn": 14,
     "pokemon": "ケムッソ",
@@ -6114,9 +6379,10 @@
     "male": 1,
     "female": 1,
     "weight": 3.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 266,
     "dex": 266,
     "dex_hoenn": 15,
     "pokemon": "カラサリス",
@@ -6137,9 +6403,10 @@
     "male": 1,
     "female": 1,
     "weight": 10,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 267,
     "dex": 267,
     "dex_hoenn": 16,
     "pokemon": "アゲハント",
@@ -6160,9 +6427,10 @@
     "male": 1,
     "female": 1,
     "weight": 28.4,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 268,
     "dex": 268,
     "dex_hoenn": 17,
     "pokemon": "マユルド",
@@ -6183,9 +6451,10 @@
     "male": 1,
     "female": 1,
     "weight": 11.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 269,
     "dex": 269,
     "dex_hoenn": 18,
     "pokemon": "ドクケイル",
@@ -6206,9 +6475,10 @@
     "male": 1,
     "female": 1,
     "weight": 31.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 270,
     "dex": 270,
     "dex_hoenn": 19,
     "pokemon": "ハスボー",
@@ -6229,9 +6499,10 @@
     "male": 1,
     "female": 1,
     "weight": 2.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 271,
     "dex": 271,
     "dex_hoenn": 20,
     "pokemon": "ハスブレロ",
@@ -6252,9 +6523,10 @@
     "male": 1,
     "female": 1,
     "weight": 32.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 272,
     "dex": 272,
     "dex_hoenn": 21,
     "pokemon": "ルンパッパ",
@@ -6275,9 +6547,10 @@
     "male": 1,
     "female": 1,
     "weight": 55,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 273,
     "dex": 273,
     "dex_hoenn": 22,
     "pokemon": "タネボー",
@@ -6298,9 +6571,10 @@
     "male": 1,
     "female": 1,
     "weight": 4,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 274,
     "dex": 274,
     "dex_hoenn": 23,
     "pokemon": "コノハナ",
@@ -6321,9 +6595,10 @@
     "male": 1,
     "female": 1,
     "weight": 28,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 275,
     "dex": 275,
     "dex_hoenn": 24,
     "pokemon": "ダーテング",
@@ -6344,9 +6619,10 @@
     "male": 1,
     "female": 1,
     "weight": 59.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 276,
     "dex": 276,
     "dex_hoenn": 25,
     "pokemon": "スバメ",
@@ -6367,9 +6643,10 @@
     "male": 1,
     "female": 1,
     "weight": 2.3,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 277,
     "dex": 277,
     "dex_hoenn": 26,
     "pokemon": "オオスバメ",
@@ -6390,9 +6667,10 @@
     "male": 1,
     "female": 1,
     "weight": 19.8,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 278,
     "dex": 278,
     "dex_hoenn": 27,
     "pokemon": "キャモメ",
@@ -6413,9 +6691,10 @@
     "male": 1,
     "female": 1,
     "weight": 9.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 279,
     "dex": 279,
     "dex_hoenn": 28,
     "pokemon": "ペリッパー",
@@ -6436,9 +6715,10 @@
     "male": 1,
     "female": 1,
     "weight": 28,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 280,
     "dex": 280,
     "dex_hoenn": 29,
     "pokemon": "ラルトス",
@@ -6459,9 +6739,10 @@
     "male": 1,
     "female": 1,
     "weight": 6.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 281,
     "dex": 281,
     "dex_hoenn": 30,
     "pokemon": "キルリア",
@@ -6482,9 +6763,10 @@
     "male": 1,
     "female": 1,
     "weight": 20.2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 282,
     "dex": 282,
     "dex_hoenn": 31,
     "pokemon": "サーナイト",
@@ -6505,9 +6787,10 @@
     "male": 1,
     "female": 1,
     "weight": 48.4,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 283,
     "dex": 283,
     "dex_hoenn": 32,
     "pokemon": "アメタマ",
@@ -6528,9 +6811,10 @@
     "male": 1,
     "female": 1,
     "weight": 1.7,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 284,
     "dex": 284,
     "dex_hoenn": 33,
     "pokemon": "アメモース",
@@ -6551,9 +6835,10 @@
     "male": 1,
     "female": 1,
     "weight": 3.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 285,
     "dex": 285,
     "dex_hoenn": 34,
     "pokemon": "キノココ",
@@ -6574,9 +6859,10 @@
     "male": 1,
     "female": 1,
     "weight": 4.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 286,
     "dex": 286,
     "dex_hoenn": 35,
     "pokemon": "キノガッサ",
@@ -6597,9 +6883,10 @@
     "male": 1,
     "female": 1,
     "weight": 39.2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 287,
     "dex": 287,
     "dex_hoenn": 36,
     "pokemon": "ナマケロ",
@@ -6620,9 +6907,10 @@
     "male": 1,
     "female": 1,
     "weight": 24,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 288,
     "dex": 288,
     "dex_hoenn": 37,
     "pokemon": "ヤルキモノ",
@@ -6643,9 +6931,10 @@
     "male": 1,
     "female": 1,
     "weight": 46.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 289,
     "dex": 289,
     "dex_hoenn": 38,
     "pokemon": "ケッキング",
@@ -6666,9 +6955,10 @@
     "male": 1,
     "female": 1,
     "weight": 130.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 290,
     "dex": 290,
     "dex_hoenn": 42,
     "pokemon": "ツチニン",
@@ -6689,9 +6979,10 @@
     "male": 1,
     "female": 1,
     "weight": 5.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 291,
     "dex": 291,
     "dex_hoenn": 43,
     "pokemon": "テッカニン",
@@ -6712,9 +7003,10 @@
     "male": 1,
     "female": 1,
     "weight": 12,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 292,
     "dex": 292,
     "dex_hoenn": 44,
     "pokemon": "ヌケニン",
@@ -6735,9 +7027,10 @@
     "male": 0,
     "female": 0,
     "weight": 1.2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 293,
     "dex": 293,
     "dex_hoenn": 45,
     "pokemon": "ゴニョニョ",
@@ -6758,9 +7051,10 @@
     "male": 1,
     "female": 1,
     "weight": 16.3,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 294,
     "dex": 294,
     "dex_hoenn": 46,
     "pokemon": "ドゴーム",
@@ -6781,9 +7075,10 @@
     "male": 1,
     "female": 1,
     "weight": 40.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 295,
     "dex": 295,
     "dex_hoenn": 47,
     "pokemon": "バクオング",
@@ -6804,9 +7099,10 @@
     "male": 1,
     "female": 1,
     "weight": 84,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 296,
     "dex": 296,
     "dex_hoenn": 48,
     "pokemon": "マクノシタ",
@@ -6827,9 +7123,10 @@
     "male": 3,
     "female": 1,
     "weight": 86.4,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 297,
     "dex": 297,
     "dex_hoenn": 49,
     "pokemon": "ハリテヤマ",
@@ -6850,9 +7147,10 @@
     "male": 3,
     "female": 1,
     "weight": 253.8,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 298,
     "dex": 298,
     "dex_hoenn": 54,
     "pokemon": "ルリリ",
@@ -6873,9 +7171,10 @@
     "male": 1,
     "female": 3,
     "weight": 2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 299,
     "dex": 299,
     "dex_hoenn": 60,
     "pokemon": "ノズパス",
@@ -6896,9 +7195,10 @@
     "male": 1,
     "female": 1,
     "weight": 97,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 300,
     "dex": 300,
     "dex_hoenn": 61,
     "pokemon": "エネコ",
@@ -6919,9 +7219,10 @@
     "male": 1,
     "female": 3,
     "weight": 11,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 301,
     "dex": 301,
     "dex_hoenn": 62,
     "pokemon": "エネコロロ",
@@ -6942,9 +7243,10 @@
     "male": 1,
     "female": 3,
     "weight": 32.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 302,
     "dex": 302,
     "dex_hoenn": 68,
     "pokemon": "ヤミラミ",
@@ -6965,9 +7267,10 @@
     "male": 1,
     "female": 1,
     "weight": 11,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 303,
     "dex": 303,
     "dex_hoenn": 69,
     "pokemon": "クチート",
@@ -6988,9 +7291,10 @@
     "male": 1,
     "female": 1,
     "weight": 11.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 304,
     "dex": 304,
     "dex_hoenn": 70,
     "pokemon": "ココドラ",
@@ -7011,9 +7315,10 @@
     "male": 1,
     "female": 1,
     "weight": 60,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 305,
     "dex": 305,
     "dex_hoenn": 71,
     "pokemon": "コドラ",
@@ -7034,9 +7339,10 @@
     "male": 1,
     "female": 1,
     "weight": 120,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 306,
     "dex": 306,
     "dex_hoenn": 72,
     "pokemon": "ボスゴドラ",
@@ -7057,9 +7363,10 @@
     "male": 1,
     "female": 1,
     "weight": 360,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 307,
     "dex": 307,
     "dex_hoenn": 76,
     "pokemon": "アサナン",
@@ -7080,9 +7387,10 @@
     "male": 1,
     "female": 1,
     "weight": 11.2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 308,
     "dex": 308,
     "dex_hoenn": 77,
     "pokemon": "チャーレム",
@@ -7103,9 +7411,10 @@
     "male": 1,
     "female": 1,
     "weight": 31.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 309,
     "dex": 309,
     "dex_hoenn": 78,
     "pokemon": "ラクライ",
@@ -7126,9 +7435,10 @@
     "male": 1,
     "female": 1,
     "weight": 15.2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 310,
     "dex": 310,
     "dex_hoenn": 79,
     "pokemon": "ライボルト",
@@ -7149,9 +7459,10 @@
     "male": 1,
     "female": 1,
     "weight": 40.2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 311,
     "dex": 311,
     "dex_hoenn": 80,
     "pokemon": "プラスル",
@@ -7172,9 +7483,10 @@
     "male": 1,
     "female": 1,
     "weight": 4.2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 312,
     "dex": 312,
     "dex_hoenn": 81,
     "pokemon": "マイナン",
@@ -7195,9 +7507,10 @@
     "male": 1,
     "female": 1,
     "weight": 4.2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 313,
     "dex": 313,
     "dex_hoenn": 86,
     "pokemon": "バルビート",
@@ -7218,9 +7531,10 @@
     "male": 1,
     "female": 0,
     "weight": 17.7,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 314,
     "dex": 314,
     "dex_hoenn": 87,
     "pokemon": "イルミーゼ",
@@ -7241,9 +7555,10 @@
     "male": 0,
     "female": 1,
     "weight": 17.7,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 315,
     "dex": 315,
     "dex_hoenn": 94,
     "pokemon": "ロゼリア",
@@ -7264,9 +7579,10 @@
     "male": 1,
     "female": 1,
     "weight": 2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 316,
     "dex": 316,
     "dex_hoenn": 95,
     "pokemon": "ゴクリン",
@@ -7287,9 +7603,10 @@
     "male": 1,
     "female": 1,
     "weight": 10.3,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 317,
     "dex": 317,
     "dex_hoenn": 96,
     "pokemon": "マルノーム",
@@ -7310,9 +7627,10 @@
     "male": 1,
     "female": 1,
     "weight": 80,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 318,
     "dex": 318,
     "dex_hoenn": 97,
     "pokemon": "キバニア",
@@ -7333,9 +7651,10 @@
     "male": 1,
     "female": 1,
     "weight": 20.8,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 319,
     "dex": 319,
     "dex_hoenn": 98,
     "pokemon": "サメハダー",
@@ -7356,9 +7675,10 @@
     "male": 1,
     "female": 1,
     "weight": 88.8,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 320,
     "dex": 320,
     "dex_hoenn": 99,
     "pokemon": "ホエルコ",
@@ -7379,9 +7699,10 @@
     "male": 1,
     "female": 1,
     "weight": 130,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 321,
     "dex": 321,
     "dex_hoenn": 100,
     "pokemon": "ホエルオー",
@@ -7402,9 +7723,10 @@
     "male": 1,
     "female": 1,
     "weight": 398,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 322,
     "dex": 322,
     "dex_hoenn": 101,
     "pokemon": "ドンメル",
@@ -7425,9 +7747,10 @@
     "male": 1,
     "female": 1,
     "weight": 24,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 323,
     "dex": 323,
     "dex_hoenn": 102,
     "pokemon": "バクーダ",
@@ -7448,9 +7771,10 @@
     "male": 1,
     "female": 1,
     "weight": 220,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 324,
     "dex": 324,
     "dex_hoenn": 105,
     "pokemon": "コータス",
@@ -7471,9 +7795,10 @@
     "male": 1,
     "female": 1,
     "weight": 80.4,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 325,
     "dex": 325,
     "dex_hoenn": 110,
     "pokemon": "バネブー",
@@ -7494,9 +7819,10 @@
     "male": 1,
     "female": 1,
     "weight": 30.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 326,
     "dex": 326,
     "dex_hoenn": 111,
     "pokemon": "ブーピッグ",
@@ -7517,9 +7843,10 @@
     "male": 1,
     "female": 1,
     "weight": 71.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 327,
     "dex": 327,
     "dex_hoenn": 114,
     "pokemon": "パッチール",
@@ -7540,9 +7867,10 @@
     "male": 1,
     "female": 1,
     "weight": 5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 328,
     "dex": 328,
     "dex_hoenn": 116,
     "pokemon": "ナックラー",
@@ -7563,9 +7891,10 @@
     "male": 1,
     "female": 1,
     "weight": 15,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 329,
     "dex": 329,
     "dex_hoenn": 117,
     "pokemon": "ビブラーバ",
@@ -7586,9 +7915,10 @@
     "male": 1,
     "female": 1,
     "weight": 15.3,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 330,
     "dex": 330,
     "dex_hoenn": 118,
     "pokemon": "フライゴン",
@@ -7609,9 +7939,10 @@
     "male": 1,
     "female": 1,
     "weight": 82,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 331,
     "dex": 331,
     "dex_hoenn": 119,
     "pokemon": "サボネア",
@@ -7632,9 +7963,10 @@
     "male": 1,
     "female": 1,
     "weight": 51.3,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 332,
     "dex": 332,
     "dex_hoenn": 120,
     "pokemon": "ノクタス",
@@ -7655,9 +7987,10 @@
     "male": 1,
     "female": 1,
     "weight": 77.4,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 333,
     "dex": 333,
     "dex_hoenn": 121,
     "pokemon": "チルット",
@@ -7678,9 +8011,10 @@
     "male": 1,
     "female": 1,
     "weight": 1.2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 334,
     "dex": 334,
     "dex_hoenn": 122,
     "pokemon": "チルタリス",
@@ -7701,9 +8035,10 @@
     "male": 1,
     "female": 1,
     "weight": 20.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 335,
     "dex": 335,
     "dex_hoenn": 123,
     "pokemon": "ザングース",
@@ -7724,9 +8059,10 @@
     "male": 1,
     "female": 1,
     "weight": 40.3,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 336,
     "dex": 336,
     "dex_hoenn": 124,
     "pokemon": "ハブネーク",
@@ -7747,9 +8083,10 @@
     "male": 1,
     "female": 1,
     "weight": 52.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 337,
     "dex": 337,
     "dex_hoenn": 125,
     "pokemon": "ルナトーン",
@@ -7770,9 +8107,10 @@
     "male": 0,
     "female": 0,
     "weight": 168,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 338,
     "dex": 338,
     "dex_hoenn": 126,
     "pokemon": "ソルロック",
@@ -7793,9 +8131,10 @@
     "male": 0,
     "female": 0,
     "weight": 154,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 339,
     "dex": 339,
     "dex_hoenn": 127,
     "pokemon": "ドジョッチ",
@@ -7816,9 +8155,10 @@
     "male": 1,
     "female": 1,
     "weight": 1.9,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 340,
     "dex": 340,
     "dex_hoenn": 128,
     "pokemon": "ナマズン",
@@ -7839,9 +8179,10 @@
     "male": 1,
     "female": 1,
     "weight": 23.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 341,
     "dex": 341,
     "dex_hoenn": 129,
     "pokemon": "ヘイガニ",
@@ -7862,9 +8203,10 @@
     "male": 1,
     "female": 1,
     "weight": 11.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 342,
     "dex": 342,
     "dex_hoenn": 130,
     "pokemon": "シザリガー",
@@ -7885,9 +8227,10 @@
     "male": 1,
     "female": 1,
     "weight": 32.8,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 343,
     "dex": 343,
     "dex_hoenn": 131,
     "pokemon": "ヤジロン",
@@ -7908,9 +8251,10 @@
     "male": 0,
     "female": 0,
     "weight": 21.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 344,
     "dex": 344,
     "dex_hoenn": 132,
     "pokemon": "ネンドール",
@@ -7931,9 +8275,10 @@
     "male": 0,
     "female": 0,
     "weight": 108,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 345,
     "dex": 345,
     "dex_hoenn": 133,
     "pokemon": "リリーラ",
@@ -7954,9 +8299,10 @@
     "male": 7,
     "female": 1,
     "weight": 23.8,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 346,
     "dex": 346,
     "dex_hoenn": 134,
     "pokemon": "ユレイドル",
@@ -7977,9 +8323,10 @@
     "male": 7,
     "female": 1,
     "weight": 60.4,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 347,
     "dex": 347,
     "dex_hoenn": 135,
     "pokemon": "アノプス",
@@ -8000,9 +8347,10 @@
     "male": 7,
     "female": 1,
     "weight": 12.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 348,
     "dex": 348,
     "dex_hoenn": 136,
     "pokemon": "アーマルド",
@@ -8023,9 +8371,10 @@
     "male": 7,
     "female": 1,
     "weight": 68.2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 349,
     "dex": 349,
     "dex_hoenn": 140,
     "pokemon": "ヒンバス",
@@ -8046,9 +8395,10 @@
     "male": 1,
     "female": 1,
     "weight": 7.4,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 350,
     "dex": 350,
     "dex_hoenn": 141,
     "pokemon": "ミロカロス",
@@ -8069,9 +8419,10 @@
     "male": 1,
     "female": 1,
     "weight": 162,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 351,
     "dex": 351,
     "dex_hoenn": 142,
     "pokemon": "ポワルン",
@@ -8092,9 +8443,10 @@
     "male": 1,
     "female": 1,
     "weight": 0.8,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 352,
     "dex": 352,
     "dex_hoenn": 145,
     "pokemon": "カクレオン",
@@ -8115,9 +8467,10 @@
     "male": 1,
     "female": 1,
     "weight": 22,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 353,
     "dex": 353,
     "dex_hoenn": 146,
     "pokemon": "カゲボウズ",
@@ -8138,9 +8491,10 @@
     "male": 1,
     "female": 1,
     "weight": 2.3,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 354,
     "dex": 354,
     "dex_hoenn": 147,
     "pokemon": "ジュペッタ",
@@ -8161,9 +8515,10 @@
     "male": 1,
     "female": 1,
     "weight": 12.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 355,
     "dex": 355,
     "dex_hoenn": 148,
     "pokemon": "ヨマワル",
@@ -8184,9 +8539,10 @@
     "male": 1,
     "female": 1,
     "weight": 15,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 356,
     "dex": 356,
     "dex_hoenn": 149,
     "pokemon": "サマヨール",
@@ -8207,9 +8563,10 @@
     "male": 1,
     "female": 1,
     "weight": 30.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 357,
     "dex": 357,
     "dex_hoenn": 150,
     "pokemon": "トロピウス",
@@ -8230,9 +8587,10 @@
     "male": 1,
     "female": 1,
     "weight": 100,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 358,
     "dex": 358,
     "dex_hoenn": 151,
     "pokemon": "チリーン",
@@ -8253,9 +8611,10 @@
     "male": 1,
     "female": 1,
     "weight": 1,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 359,
     "dex": 359,
     "dex_hoenn": 152,
     "pokemon": "アブソル",
@@ -8276,9 +8635,10 @@
     "male": 1,
     "female": 1,
     "weight": 47,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 360,
     "dex": 360,
     "dex_hoenn": 160,
     "pokemon": "ソーナノ",
@@ -8299,9 +8659,10 @@
     "male": 1,
     "female": 1,
     "weight": 14,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 361,
     "dex": 361,
     "dex_hoenn": 171,
     "pokemon": "ユキワラシ",
@@ -8322,9 +8683,10 @@
     "male": 1,
     "female": 1,
     "weight": 16.8,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 362,
     "dex": 362,
     "dex_hoenn": 172,
     "pokemon": "オニゴーリ",
@@ -8345,9 +8707,10 @@
     "male": 1,
     "female": 1,
     "weight": 256.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 363,
     "dex": 363,
     "dex_hoenn": 173,
     "pokemon": "タマザラシ",
@@ -8368,9 +8731,10 @@
     "male": 1,
     "female": 1,
     "weight": 39.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 364,
     "dex": 364,
     "dex_hoenn": 174,
     "pokemon": "トドグラー",
@@ -8391,9 +8755,10 @@
     "male": 1,
     "female": 1,
     "weight": 87.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 365,
     "dex": 365,
     "dex_hoenn": 175,
     "pokemon": "トドゼルガ",
@@ -8414,9 +8779,10 @@
     "male": 1,
     "female": 1,
     "weight": 150.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 366,
     "dex": 366,
     "dex_hoenn": 176,
     "pokemon": "パールル",
@@ -8440,9 +8806,10 @@
     "male": 1,
     "female": 1,
     "weight": 52.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 367,
     "dex": 367,
     "dex_hoenn": 177,
     "pokemon": "ハンテール",
@@ -8463,9 +8830,10 @@
     "male": 1,
     "female": 1,
     "weight": 27,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 368,
     "dex": 368,
     "dex_hoenn": 178,
     "pokemon": "サクラビス",
@@ -8486,9 +8854,10 @@
     "male": 1,
     "female": 1,
     "weight": 22.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 369,
     "dex": 369,
     "dex_hoenn": 179,
     "pokemon": "ジーランス",
@@ -8509,9 +8878,10 @@
     "male": 7,
     "female": 1,
     "weight": 23.4,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 370,
     "dex": 370,
     "dex_hoenn": 183,
     "pokemon": "ラブカス",
@@ -8532,9 +8902,10 @@
     "male": 1,
     "female": 3,
     "weight": 8.7,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 371,
     "dex": 371,
     "dex_hoenn": 187,
     "pokemon": "タツベイ",
@@ -8555,9 +8926,10 @@
     "male": 1,
     "female": 1,
     "weight": 42.1,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 372,
     "dex": 372,
     "dex_hoenn": 188,
     "pokemon": "コモルー",
@@ -8578,9 +8950,10 @@
     "male": 1,
     "female": 1,
     "weight": 110.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 373,
     "dex": 373,
     "dex_hoenn": 189,
     "pokemon": "ボーマンダ",
@@ -8601,9 +8974,10 @@
     "male": 1,
     "female": 1,
     "weight": 102.6,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 374,
     "dex": 374,
     "dex_hoenn": 190,
     "pokemon": "ダンバル",
@@ -8624,9 +8998,10 @@
     "male": 0,
     "female": 0,
     "weight": 95.2,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 375,
     "dex": 375,
     "dex_hoenn": 191,
     "pokemon": "メタング",
@@ -8647,9 +9022,10 @@
     "male": 0,
     "female": 0,
     "weight": 202.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 376,
     "dex": 376,
     "dex_hoenn": 192,
     "pokemon": "メタグロス",
@@ -8670,9 +9046,10 @@
     "male": 0,
     "female": 0,
     "weight": 550,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 377,
     "dex": 377,
     "dex_hoenn": 193,
     "pokemon": "レジロック",
@@ -8693,9 +9070,10 @@
     "male": 0,
     "female": 0,
     "weight": 230,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 378,
     "dex": 378,
     "dex_hoenn": 194,
     "pokemon": "レジアイス",
@@ -8716,9 +9094,10 @@
     "male": 0,
     "female": 0,
     "weight": 175,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 379,
     "dex": 379,
     "dex_hoenn": 195,
     "pokemon": "レジスチル",
@@ -8739,9 +9118,10 @@
     "male": 0,
     "female": 0,
     "weight": 205,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 380,
     "dex": 380,
     "dex_hoenn": 196,
     "pokemon": "ラティアス",
@@ -8762,9 +9142,10 @@
     "male": 0,
     "female": 1,
     "weight": 40,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 381,
     "dex": 381,
     "dex_hoenn": 197,
     "pokemon": "ラティオス",
@@ -8785,9 +9166,10 @@
     "male": 1,
     "female": 0,
     "weight": 60,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 382,
     "dex": 382,
     "dex_hoenn": 198,
     "pokemon": "カイオーガ",
@@ -8808,9 +9190,10 @@
     "male": 0,
     "female": 0,
     "weight": 352,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 383,
     "dex": 383,
     "dex_hoenn": 199,
     "pokemon": "グラードン",
@@ -8831,9 +9214,10 @@
     "male": 0,
     "female": 0,
     "weight": 950,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 384,
     "dex": 384,
     "dex_hoenn": 200,
     "pokemon": "レックウザ",
@@ -8854,9 +9238,10 @@
     "male": 0,
     "female": 0,
     "weight": 206.5,
-    "release_date": "2002-11-20T15:00:00.000Z"
+    "release_date": "2002/11/21"
   },
   {
+    "id": 385,
     "dex": 385,
     "dex_hoenn": 201,
     "pokemon": "ジラーチ",
@@ -8877,9 +9262,10 @@
     "male": 0,
     "female": 0,
     "weight": 1.1,
-    "release_date": "2003-07-18T15:00:00.000Z"
+    "release_date": "2003/07/19"
   },
   {
+    "id": 386,
     "dex": 386,
     "dex_hoenn": 202,
     "pokemon": "デオキシス",
@@ -8900,9 +9286,10 @@
     "male": 0,
     "female": 0,
     "weight": 60.8,
-    "release_date": "2004-06-18T15:00:00.000Z"
+    "release_date": "2004/06/19"
   },
   {
+    "id": 387,
     "dex": 386,
     "dex_hoenn": 202,
     "pokemon": "デオキシス（アタックフォルム）",
@@ -8923,9 +9310,10 @@
     "male": 0,
     "female": 0,
     "weight": 60.8,
-    "release_date": "2004-06-18T15:00:00.000Z"
+    "release_date": "2004/06/19"
   },
   {
+    "id": 388,
     "dex": 386,
     "dex_hoenn": 202,
     "pokemon": "デオキシス（ディフェンスフォルム）",
@@ -8946,9 +9334,10 @@
     "male": 0,
     "female": 0,
     "weight": 60.8,
-    "release_date": "2004-06-18T15:00:00.000Z"
+    "release_date": "2004/06/19"
   },
   {
+    "id": 389,
     "dex": 386,
     "dex_hoenn": 202,
     "pokemon": "デオキシス（スピードフォルム）",
@@ -8969,6 +9358,6 @@
     "male": 0,
     "female": 0,
     "weight": 60.8,
-    "release_date": "2004-09-15T15:00:00.000Z"
+    "release_date": "2004/09/16"
   }
 ]
