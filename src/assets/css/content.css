@@ -1,0 +1,127 @@
+.dex-pager-area {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding-bottom: 16px;
+}
+
+.pre-dex {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+}
+
+.next-dex {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+}
+
+.dex-detail-area {
+    display: flex;
+    flex-direction: row;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+
+    @media (max-width: 600px) {
+        flex-direction: column;
+    }
+}
+
+.left-dex-detail-area {
+    width: 25%;
+
+    @media (max-width: 1000px) and (min-width: 601px) {
+        width: 30%;
+    }
+
+    @media (max-width: 600px) {
+        width: 100%;
+    }
+}
+
+.right-dex-detail-area {
+    width: 75%;
+
+    @media (max-width: 1000px) and (min-width: 601px) {
+        width: 70%;
+    }
+
+    @media (max-width: 600px) {
+        width: 100%;
+    }
+}
+
+
+.base-data-area, .base-status-area {
+    padding-bottom: 32px;
+
+    table {
+        width: 100%;
+        border: 1px solid #004D40;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        border: 1px solid #004D40;
+        padding: 8px 16px;
+    }
+
+    thead th {
+        background: #00695C;
+        color: #FFFFFF;
+    }
+
+    tbody th {
+        width: 50%;
+    }
+
+    th {
+        background: #26A69A;
+        color: #FFFFFF;
+    }
+}
+
+.move-area {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+
+    table {
+        border: 1px solid #004D40;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        border: 1px solid #004D40;
+        padding: 4px 8px;
+    }
+
+    thead th {
+        background: #00695C;
+        color: #FFFFFF;
+    }
+
+    th {
+        background: #26A69A;
+        color: #FFFFFF;
+    }
+
+    th.head-level {
+        width: 40px;
+    }
+
+    th.head-machine {
+        width: 64px;
+    }
+
+    th.head-move {
+        width: 160px;
+    }
+}
