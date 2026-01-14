@@ -118,10 +118,14 @@
     }
 
     th.head-machine {
-        width: 64px;
+        width: 60px;
     }
 
     th.head-move {
         width: 160px;
+    }
+
+    td:hover {
+        background: #A7FFEB;
     }
 }
