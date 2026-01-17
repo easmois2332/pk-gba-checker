@@ -56,7 +56,7 @@
 }
 
 
-.base-data-area, .base-status-area {
+.base-data-area, .base-status-area, .evolution_area {
     padding-bottom: 32px;
 
     table {

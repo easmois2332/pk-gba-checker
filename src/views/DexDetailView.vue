@@ -147,6 +147,144 @@ const getLowKickPower = (weight) => {
                 </tbody>
               </table>
             </div>
+            <div class="base-status-area" v-if="pokemonDetail.dex === 386">
+              <table>
+                <thead>
+                <tr>
+                  <th colspan="2"><span class="text-no-wrap">種族値（アタックフォルム）</span></th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">ＨＰ</span></th>
+                  <td class="text-start"><span class="text-no-wrap">50</span></td>
+                </tr>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">こうげき</span></th>
+                  <td class="text-start"><span class="text-no-wrap">180</span></td>
+                </tr>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">ぼうぎょ</span></th>
+                  <td class="text-start"><span class="text-no-wrap">20</span></td>
+                </tr>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">とくこう</span></th>
+                  <td class="text-start"><span class="text-no-wrap">180</span></td>
+                </tr>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">とくぼう</span></th>
+                  <td class="text-start"><span class="text-no-wrap">20</span></td>
+                </tr>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">すばやさ</span></th>
+                  <td class="text-start"><span class="text-no-wrap">150</span></td>
+                </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="base-status-area" v-if="pokemonDetail.dex === 386">
+              <table>
+                <thead>
+                <tr>
+                  <th colspan="2"><span class="text-no-wrap">種族値（ディフェンスフォルム）</span></th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">ＨＰ</span></th>
+                  <td class="text-start"><span class="text-no-wrap">50</span></td>
+                </tr>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">こうげき</span></th>
+                  <td class="text-start"><span class="text-no-wrap">70</span></td>
+                </tr>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">ぼうぎょ</span></th>
+                  <td class="text-start"><span class="text-no-wrap">160</span></td>
+                </tr>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">とくこう</span></th>
+                  <td class="text-start"><span class="text-no-wrap">70</span></td>
+                </tr>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">とくぼう</span></th>
+                  <td class="text-start"><span class="text-no-wrap">160</span></td>
+                </tr>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">すばやさ</span></th>
+                  <td class="text-start"><span class="text-no-wrap">90</span></td>
+                </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="base-status-area" v-if="pokemonDetail.dex === 386">
+              <table>
+                <thead>
+                <tr>
+                  <th colspan="2"><span class="text-no-wrap">種族値（スピードフォルム）</span></th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">ＨＰ</span></th>
+                  <td class="text-start"><span class="text-no-wrap">50</span></td>
+                </tr>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">こうげき</span></th>
+                  <td class="text-start"><span class="text-no-wrap">95</span></td>
+                </tr>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">ぼうぎょ</span></th>
+                  <td class="text-start"><span class="text-no-wrap">90</span></td>
+                </tr>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">とくこう</span></th>
+                  <td class="text-start"><span class="text-no-wrap">95</span></td>
+                </tr>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">とくぼう</span></th>
+                  <td class="text-start"><span class="text-no-wrap">90</span></td>
+                </tr>
+                <tr>
+                  <th class="text-start"><span class="text-no-wrap">すばやさ</span></th>
+                  <td class="text-start"><span class="text-no-wrap">180</span></td>
+                </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="evolution_area" v-if="pokemonDetail.evolution_before !== null || pokemonDetail.evolution_after !== null">
+              <table>
+                <thead>
+                <tr>
+                  <th colspan="2"><span class="text-no-wrap">進化チャート</span></th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr v-if="pokemonDetail.evolution_before !== null">
+                  <th class="text-start"><span class="text-no-wrap">進化前</span></th>
+                  <td class="text-start">
+                    <div class="evolution-before">
+                      <img v-bind:src="getImage(pkClass.getPokemonForName(pokemonDetail.evolution_before).dex)" v-bind:alt="pkClass.getPokemonForName(pokemonDetail.evolution_before).pokemon" width="32px" height="32px">
+                      <router-link v-bind:to="'/dex-detail/' + pkClass.getPokemonForName(pokemonDetail.evolution_before).dex">{{ pkClass.getPokemonForName(pokemonDetail.evolution_before).pokemon }}</router-link>
+                    </div>
+                  </td>
+                </tr>
+                <tr v-if="pokemonDetail.evolution_after !== null">
+                  <th class="text-start"><span class="text-no-wrap">進化後</span></th>
+                  <td class="text-start">
+                    <div class="evolution-before" v-if="!Array.isArray(pokemonDetail.evolution_after)">
+                      <img v-bind:src="getImage(pkClass.getPokemonForName(pokemonDetail.evolution_after).dex)" v-bind:alt="pkClass.getPokemonForName(pokemonDetail.evolution_after).pokemon" width="32px" height="32px">
+                      <router-link v-bind:to="'/dex-detail/' + pkClass.getPokemonForName(pokemonDetail.evolution_after).dex">{{ pkClass.getPokemonForName(pokemonDetail.evolution_after).pokemon }}</router-link>
+                    </div>
+                    <div class="evolution-before" v-if="Array.isArray(pokemonDetail.evolution_after)" v-for="evolution in pokemonDetail.evolution_after">
+                      <img v-bind:src="getImage(pkClass.getPokemonForName(evolution).dex)" v-bind:alt="pkClass.getPokemonForName(evolution).pokemon" width="32px" height="32px">
+                      <router-link v-bind:to="'/dex-detail/' + pkClass.getPokemonForName(evolution).dex">{{ pkClass.getPokemonForName(evolution).pokemon }}</router-link>
+                    </div>
+                  </td>
+                </tr>
+                </tbody>
+              </table>
+            </div>
           </div>
           <div class="right-dex-detail-area">
             <div class="move-area">
@@ -329,6 +467,40 @@ const getLowKickPower = (weight) => {
                 </tbody>
               </table>
             </div>
+          </div>
+        </div>
+        <div class="dex-pager-area">
+          <div class="pre-dex">
+            <div class="image-area" v-if="pokemonDetail.id > 1">
+              <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#26a69a">
+                <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z"/>
+              </svg>
+              <img v-bind:src="getImage(pokemonDetailPre.dex)" width="32px" height="32px">
+            </div>
+            <router-link v-if="pokemonDetail.id > 1" v-bind:to="'/dex-detail/' + pokemonDetailPre.dex">{{ pokemonDetailPre.pokemon }}</router-link>
+            <div class="image-area" v-if="pokemonDetail.id === 1">
+              <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#26a69a">
+                <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z"/>
+              </svg>
+              <img v-bind:src="getImage(386)" width="32px" height="32px">
+            </div>
+            <router-link v-if="pokemonDetail.id === 1" v-bind:to="'/dex-detail/386'">デオキシス</router-link>
+          </div>
+          <div class="next-dex">
+            <div class="image-area" v-if="pokemonDetail.id < 386">
+              <img v-bind:src="getImage(pokemonDetailNext.dex)" width="32px" height="32px">
+              <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#26a69a">
+                <path d="M647-440H160v-80h487L423-744l57-56 320 320-320 320-57-56 224-224Z"/>
+              </svg>
+            </div>
+            <router-link v-if="pokemonDetail.id < 386" v-bind:to="'/dex-detail/' + pokemonDetailNext.dex">{{ pokemonDetailNext.pokemon }}</router-link>
+            <div class="image-area" v-if="pokemonDetail.id === 386">
+              <img v-bind:src="getImage(1)" width="32px" height="32px">
+              <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#26a69a">
+                <path d="M647-440H160v-80h487L423-744l57-56 320 320-320 320-57-56 224-224Z"/>
+              </svg>
+            </div>
+            <router-link v-if="pokemonDetail.id === 386" v-bind:to="'/dex-detail/1'">フシギダネ</router-link>
           </div>
         </div>
       </v-card-text>

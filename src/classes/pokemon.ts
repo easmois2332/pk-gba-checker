@@ -16,6 +16,10 @@ export default class Pokemon {
         return this.pokemon.find((obj: any) => obj.id == id);
     }
 
+    getPokemonForName(name: string) {
+        return this.pokemon.find((obj: any) => obj.pokemon == name);
+    }
+
     getPokemonMove(pokemon: string) {
         return this.moveList.find((obj: any) => obj.pokemon == pokemon);
     }

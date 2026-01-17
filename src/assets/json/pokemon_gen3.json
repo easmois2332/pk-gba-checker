@@ -6975,7 +6975,10 @@
     "egg_group_1": "虫",
     "egg_group_2": "虫",
     "evolution_before": null,
-    "evolution_after": "テッカニン",
+    "evolution_after": [
+      "テッカニン",
+      "ヌケニン"
+    ],
     "male": 1,
     "female": 1,
     "weight": 5.5,
