@@ -21,7 +21,7 @@
     "male": 7,
     "female": 1,
     "weight": 6.9,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 2,
@@ -45,7 +45,7 @@
     "male": 7,
     "female": 1,
     "weight": 13,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 3,
@@ -69,7 +69,7 @@
     "male": 7,
     "female": 1,
     "weight": 100,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 4,
@@ -93,7 +93,7 @@
     "male": 7,
     "female": 1,
     "weight": 8.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 5,
@@ -117,7 +117,7 @@
     "male": 7,
     "female": 1,
     "weight": 19,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 6,
@@ -141,7 +141,7 @@
     "male": 7,
     "female": 1,
     "weight": 90.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 7,
@@ -165,7 +165,7 @@
     "male": 7,
     "female": 1,
     "weight": 9,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 8,
@@ -189,7 +189,7 @@
     "male": 7,
     "female": 1,
     "weight": 22.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 9,
@@ -213,7 +213,7 @@
     "male": 7,
     "female": 1,
     "weight": 85.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 10,
@@ -237,7 +237,7 @@
     "male": 1,
     "female": 1,
     "weight": 2.9,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 11,
@@ -261,7 +261,7 @@
     "male": 1,
     "female": 1,
     "weight": 9.9,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 12,
@@ -285,7 +285,7 @@
     "male": 1,
     "female": 1,
     "weight": 32,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 13,
@@ -309,7 +309,7 @@
     "male": 1,
     "female": 1,
     "weight": 3.2,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 14,
@@ -333,7 +333,7 @@
     "male": 1,
     "female": 1,
     "weight": 10,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 15,
@@ -357,7 +357,7 @@
     "male": 1,
     "female": 1,
     "weight": 29.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 16,
@@ -381,7 +381,7 @@
     "male": 1,
     "female": 1,
     "weight": 1.8,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 17,
@@ -405,7 +405,7 @@
     "male": 1,
     "female": 1,
     "weight": 30,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 18,
@@ -429,7 +429,7 @@
     "male": 1,
     "female": 1,
     "weight": 39.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 19,
@@ -453,7 +453,7 @@
     "male": 1,
     "female": 1,
     "weight": 3.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 20,
@@ -477,7 +477,7 @@
     "male": 1,
     "female": 1,
     "weight": 18.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 21,
@@ -501,7 +501,7 @@
     "male": 1,
     "female": 1,
     "weight": 2,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 22,
@@ -525,7 +525,7 @@
     "male": 1,
     "female": 1,
     "weight": 38,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 23,
@@ -549,7 +549,7 @@
     "male": 1,
     "female": 1,
     "weight": 6.9,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 24,
@@ -573,7 +573,7 @@
     "male": 1,
     "female": 1,
     "weight": 65,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 25,
@@ -597,7 +597,7 @@
     "male": 1,
     "female": 1,
     "weight": 6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 26,
@@ -621,7 +621,7 @@
     "male": 1,
     "female": 1,
     "weight": 30,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 27,
@@ -645,7 +645,7 @@
     "male": 1,
     "female": 1,
     "weight": 12,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 28,
@@ -669,7 +669,7 @@
     "male": 1,
     "female": 1,
     "weight": 29.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 29,
@@ -693,7 +693,7 @@
     "male": 0,
     "female": 1,
     "weight": 7,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 30,
@@ -717,7 +717,7 @@
     "male": 0,
     "female": 1,
     "weight": 20,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 31,
@@ -741,7 +741,7 @@
     "male": 0,
     "female": 1,
     "weight": 60,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 32,
@@ -765,7 +765,7 @@
     "male": 1,
     "female": 0,
     "weight": 9,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 33,
@@ -789,7 +789,7 @@
     "male": 1,
     "female": 0,
     "weight": 19.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 34,
@@ -813,7 +813,7 @@
     "male": 1,
     "female": 0,
     "weight": 62,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 35,
@@ -837,7 +837,7 @@
     "male": 1,
     "female": 3,
     "weight": 7.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 36,
@@ -861,7 +861,7 @@
     "male": 1,
     "female": 3,
     "weight": 40,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 37,
@@ -885,7 +885,7 @@
     "male": 1,
     "female": 3,
     "weight": 9.9,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 38,
@@ -909,7 +909,7 @@
     "male": 1,
     "female": 3,
     "weight": 19.9,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 39,
@@ -933,7 +933,7 @@
     "male": 1,
     "female": 3,
     "weight": 5.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 40,
@@ -957,7 +957,7 @@
     "male": 1,
     "female": 3,
     "weight": 12,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 41,
@@ -981,7 +981,7 @@
     "male": 1,
     "female": 1,
     "weight": 7.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 42,
@@ -1005,7 +1005,7 @@
     "male": 1,
     "female": 1,
     "weight": 55,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 43,
@@ -1029,7 +1029,7 @@
     "male": 1,
     "female": 1,
     "weight": 5.4,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 44,
@@ -1056,7 +1056,7 @@
     "male": 1,
     "female": 1,
     "weight": 8.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 45,
@@ -1080,7 +1080,7 @@
     "male": 1,
     "female": 1,
     "weight": 18.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 46,
@@ -1104,7 +1104,7 @@
     "male": 1,
     "female": 1,
     "weight": 5.4,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 47,
@@ -1128,7 +1128,7 @@
     "male": 1,
     "female": 1,
     "weight": 29.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 48,
@@ -1152,7 +1152,7 @@
     "male": 1,
     "female": 1,
     "weight": 30,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 49,
@@ -1176,7 +1176,7 @@
     "male": 1,
     "female": 1,
     "weight": 12.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 50,
@@ -1200,7 +1200,7 @@
     "male": 1,
     "female": 1,
     "weight": 0.8,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 51,
@@ -1224,7 +1224,7 @@
     "male": 1,
     "female": 1,
     "weight": 33.3,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 52,
@@ -1248,7 +1248,7 @@
     "male": 1,
     "female": 1,
     "weight": 4.2,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 53,
@@ -1272,7 +1272,7 @@
     "male": 1,
     "female": 1,
     "weight": 32,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 54,
@@ -1296,7 +1296,7 @@
     "male": 1,
     "female": 1,
     "weight": 19.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 55,
@@ -1320,7 +1320,7 @@
     "male": 1,
     "female": 1,
     "weight": 76.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 56,
@@ -1344,7 +1344,7 @@
     "male": 1,
     "female": 1,
     "weight": 28,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 57,
@@ -1368,7 +1368,7 @@
     "male": 1,
     "female": 1,
     "weight": 32,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 58,
@@ -1392,7 +1392,7 @@
     "male": 3,
     "female": 1,
     "weight": 19,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 59,
@@ -1416,7 +1416,7 @@
     "male": 3,
     "female": 1,
     "weight": 155,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 60,
@@ -1440,7 +1440,7 @@
     "male": 1,
     "female": 1,
     "weight": 12.4,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 61,
@@ -1467,7 +1467,7 @@
     "male": 1,
     "female": 1,
     "weight": 20,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 62,
@@ -1491,7 +1491,7 @@
     "male": 1,
     "female": 1,
     "weight": 54,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 63,
@@ -1515,7 +1515,7 @@
     "male": 3,
     "female": 1,
     "weight": 19.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 64,
@@ -1539,7 +1539,7 @@
     "male": 3,
     "female": 1,
     "weight": 56.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 65,
@@ -1563,7 +1563,7 @@
     "male": 3,
     "female": 1,
     "weight": 48,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 66,
@@ -1587,7 +1587,7 @@
     "male": 3,
     "female": 1,
     "weight": 19.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 67,
@@ -1611,7 +1611,7 @@
     "male": 3,
     "female": 1,
     "weight": 70.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 68,
@@ -1635,7 +1635,7 @@
     "male": 3,
     "female": 1,
     "weight": 130,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 69,
@@ -1659,7 +1659,7 @@
     "male": 1,
     "female": 1,
     "weight": 4,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 70,
@@ -1683,7 +1683,7 @@
     "male": 1,
     "female": 1,
     "weight": 6.4,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 71,
@@ -1707,7 +1707,7 @@
     "male": 1,
     "female": 1,
     "weight": 15.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 72,
@@ -1731,7 +1731,7 @@
     "male": 1,
     "female": 1,
     "weight": 45.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 73,
@@ -1755,7 +1755,7 @@
     "male": 1,
     "female": 1,
     "weight": 55,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 74,
@@ -1779,7 +1779,7 @@
     "male": 1,
     "female": 1,
     "weight": 20,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 75,
@@ -1803,7 +1803,7 @@
     "male": 1,
     "female": 1,
     "weight": 105,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 76,
@@ -1827,7 +1827,7 @@
     "male": 1,
     "female": 1,
     "weight": 300,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 77,
@@ -1851,7 +1851,7 @@
     "male": 1,
     "female": 1,
     "weight": 30,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 78,
@@ -1875,7 +1875,7 @@
     "male": 1,
     "female": 1,
     "weight": 95,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 79,
@@ -1902,7 +1902,7 @@
     "male": 1,
     "female": 1,
     "weight": 36,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 80,
@@ -1926,7 +1926,7 @@
     "male": 1,
     "female": 1,
     "weight": 78.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 81,
@@ -1950,7 +1950,7 @@
     "male": 0,
     "female": 0,
     "weight": 6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 82,
@@ -1974,7 +1974,7 @@
     "male": 0,
     "female": 0,
     "weight": 60,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 83,
@@ -1998,7 +1998,7 @@
     "male": 1,
     "female": 1,
     "weight": 15,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 84,
@@ -2022,7 +2022,7 @@
     "male": 1,
     "female": 1,
     "weight": 39.2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 85,
@@ -2046,7 +2046,7 @@
     "male": 1,
     "female": 1,
     "weight": 85.2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 86,
@@ -2070,7 +2070,7 @@
     "male": 1,
     "female": 1,
     "weight": 90,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 87,
@@ -2094,7 +2094,7 @@
     "male": 1,
     "female": 1,
     "weight": 120,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 88,
@@ -2118,7 +2118,7 @@
     "male": 1,
     "female": 1,
     "weight": 30,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 89,
@@ -2142,7 +2142,7 @@
     "male": 1,
     "female": 1,
     "weight": 30,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 90,
@@ -2166,7 +2166,7 @@
     "male": 1,
     "female": 1,
     "weight": 4,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 91,
@@ -2190,7 +2190,7 @@
     "male": 1,
     "female": 1,
     "weight": 132.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 92,
@@ -2214,7 +2214,7 @@
     "male": 1,
     "female": 1,
     "weight": 0.1,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 93,
@@ -2238,7 +2238,7 @@
     "male": 1,
     "female": 1,
     "weight": 0.1,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 94,
@@ -2262,7 +2262,7 @@
     "male": 1,
     "female": 1,
     "weight": 40.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 95,
@@ -2286,7 +2286,7 @@
     "male": 1,
     "female": 1,
     "weight": 210,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 96,
@@ -2310,7 +2310,7 @@
     "male": 1,
     "female": 1,
     "weight": 32.4,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 97,
@@ -2334,7 +2334,7 @@
     "male": 1,
     "female": 1,
     "weight": 75.6,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 98,
@@ -2358,7 +2358,7 @@
     "male": 1,
     "female": 1,
     "weight": 6.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 99,
@@ -2382,7 +2382,7 @@
     "male": 1,
     "female": 1,
     "weight": 60,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 100,
@@ -2406,7 +2406,7 @@
     "male": 0,
     "female": 0,
     "weight": 10.4,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 101,
@@ -2430,7 +2430,7 @@
     "male": 0,
     "female": 0,
     "weight": 66.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 102,
@@ -2454,7 +2454,7 @@
     "male": 1,
     "female": 1,
     "weight": 2.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 103,
@@ -2478,7 +2478,7 @@
     "male": 1,
     "female": 1,
     "weight": 120,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 104,
@@ -2502,7 +2502,7 @@
     "male": 1,
     "female": 1,
     "weight": 6.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 105,
@@ -2526,7 +2526,7 @@
     "male": 1,
     "female": 1,
     "weight": 45,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 106,
@@ -2550,7 +2550,7 @@
     "male": 1,
     "female": 0,
     "weight": 49.8,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 107,
@@ -2574,7 +2574,7 @@
     "male": 1,
     "female": 0,
     "weight": 50.2,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 108,
@@ -2598,7 +2598,7 @@
     "male": 1,
     "female": 1,
     "weight": 65.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 109,
@@ -2622,7 +2622,7 @@
     "male": 1,
     "female": 1,
     "weight": 1,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 110,
@@ -2646,7 +2646,7 @@
     "male": 1,
     "female": 1,
     "weight": 9.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 111,
@@ -2670,7 +2670,7 @@
     "male": 1,
     "female": 1,
     "weight": 115,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 112,
@@ -2694,7 +2694,7 @@
     "male": 1,
     "female": 1,
     "weight": 120,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 113,
@@ -2718,7 +2718,7 @@
     "male": 0,
     "female": 1,
     "weight": 34.6,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 114,
@@ -2742,7 +2742,7 @@
     "male": 1,
     "female": 1,
     "weight": 35,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 115,
@@ -2766,7 +2766,7 @@
     "male": 0,
     "female": 1,
     "weight": 80,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 116,
@@ -2790,7 +2790,7 @@
     "male": 1,
     "female": 1,
     "weight": 8,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 117,
@@ -2814,7 +2814,7 @@
     "male": 1,
     "female": 1,
     "weight": 25,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 118,
@@ -2838,7 +2838,7 @@
     "male": 1,
     "female": 1,
     "weight": 15,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 119,
@@ -2862,7 +2862,7 @@
     "male": 1,
     "female": 1,
     "weight": 39,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 120,
@@ -2886,7 +2886,7 @@
     "male": 0,
     "female": 0,
     "weight": 34.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 121,
@@ -2910,7 +2910,7 @@
     "male": 0,
     "female": 0,
     "weight": 80,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 122,
@@ -2934,7 +2934,7 @@
     "male": 1,
     "female": 1,
     "weight": 54.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 123,
@@ -2958,7 +2958,7 @@
     "male": 1,
     "female": 1,
     "weight": 56,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 124,
@@ -2982,7 +2982,7 @@
     "male": 0,
     "female": 1,
     "weight": 40.6,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 125,
@@ -3006,7 +3006,7 @@
     "male": 3,
     "female": 1,
     "weight": 30,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 126,
@@ -3030,7 +3030,7 @@
     "male": 3,
     "female": 1,
     "weight": 44.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 127,
@@ -3054,7 +3054,7 @@
     "male": 1,
     "female": 1,
     "weight": 55,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 128,
@@ -3078,7 +3078,7 @@
     "male": 1,
     "female": 0,
     "weight": 88.4,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 129,
@@ -3102,7 +3102,7 @@
     "male": 1,
     "female": 1,
     "weight": 10,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 130,
@@ -3126,7 +3126,7 @@
     "male": 1,
     "female": 1,
     "weight": 235,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 131,
@@ -3150,7 +3150,7 @@
     "male": 1,
     "female": 1,
     "weight": 220,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 132,
@@ -3174,7 +3174,7 @@
     "male": 0,
     "female": 0,
     "weight": 4,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 133,
@@ -3204,7 +3204,7 @@
     "male": 7,
     "female": 1,
     "weight": 6.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 134,
@@ -3228,7 +3228,7 @@
     "male": 7,
     "female": 1,
     "weight": 29,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 135,
@@ -3252,7 +3252,7 @@
     "male": 7,
     "female": 1,
     "weight": 24.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 136,
@@ -3276,7 +3276,7 @@
     "male": 7,
     "female": 1,
     "weight": 25,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 137,
@@ -3300,7 +3300,7 @@
     "male": 0,
     "female": 0,
     "weight": 36.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 138,
@@ -3324,7 +3324,7 @@
     "male": 7,
     "female": 1,
     "weight": 7.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 139,
@@ -3348,7 +3348,7 @@
     "male": 7,
     "female": 1,
     "weight": 35,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 140,
@@ -3372,7 +3372,7 @@
     "male": 7,
     "female": 1,
     "weight": 11.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 141,
@@ -3396,7 +3396,7 @@
     "male": 7,
     "female": 1,
     "weight": 40.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 142,
@@ -3420,7 +3420,7 @@
     "male": 7,
     "female": 1,
     "weight": 59,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 143,
@@ -3444,7 +3444,7 @@
     "male": 7,
     "female": 1,
     "weight": 460,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 144,
@@ -3468,7 +3468,7 @@
     "male": 0,
     "female": 0,
     "weight": 55.4,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 145,
@@ -3492,7 +3492,7 @@
     "male": 0,
     "female": 0,
     "weight": 52.6,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 146,
@@ -3516,7 +3516,7 @@
     "male": 0,
     "female": 0,
     "weight": 60,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 147,
@@ -3540,7 +3540,7 @@
     "male": 1,
     "female": 1,
     "weight": 3.3,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 148,
@@ -3564,7 +3564,7 @@
     "male": 1,
     "female": 1,
     "weight": 16.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 149,
@@ -3588,7 +3588,7 @@
     "male": 1,
     "female": 1,
     "weight": 210,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 150,
@@ -3612,7 +3612,7 @@
     "male": 0,
     "female": 0,
     "weight": 122,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 151,
@@ -3636,7 +3636,7 @@
     "male": 0,
     "female": 0,
     "weight": 4,
-    "release_date": "2005/06/25"
+    "release_date": "2005-06-25"
   },
   {
     "id": 152,
@@ -3660,7 +3660,7 @@
     "male": 7,
     "female": 1,
     "weight": 6.4,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 153,
@@ -3684,7 +3684,7 @@
     "male": 7,
     "female": 1,
     "weight": 15.8,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 154,
@@ -3708,7 +3708,7 @@
     "male": 7,
     "female": 1,
     "weight": 100.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 155,
@@ -3732,7 +3732,7 @@
     "male": 7,
     "female": 1,
     "weight": 7.9,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 156,
@@ -3756,7 +3756,7 @@
     "male": 7,
     "female": 1,
     "weight": 19,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 157,
@@ -3780,7 +3780,7 @@
     "male": 7,
     "female": 1,
     "weight": 79.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 158,
@@ -3804,7 +3804,7 @@
     "male": 7,
     "female": 1,
     "weight": 9.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 159,
@@ -3828,7 +3828,7 @@
     "male": 7,
     "female": 1,
     "weight": 25,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 160,
@@ -3852,7 +3852,7 @@
     "male": 7,
     "female": 1,
     "weight": 88.8,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 161,
@@ -3876,7 +3876,7 @@
     "male": 1,
     "female": 1,
     "weight": 6,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 162,
@@ -3900,7 +3900,7 @@
     "male": 1,
     "female": 1,
     "weight": 32.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 163,
@@ -3924,7 +3924,7 @@
     "male": 1,
     "female": 1,
     "weight": 21.2,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 164,
@@ -3948,7 +3948,7 @@
     "male": 1,
     "female": 1,
     "weight": 40.8,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 165,
@@ -3972,7 +3972,7 @@
     "male": 1,
     "female": 1,
     "weight": 10.8,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 166,
@@ -3996,7 +3996,7 @@
     "male": 1,
     "female": 1,
     "weight": 35.6,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 167,
@@ -4020,7 +4020,7 @@
     "male": 1,
     "female": 1,
     "weight": 8.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 168,
@@ -4044,7 +4044,7 @@
     "male": 1,
     "female": 1,
     "weight": 33.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 169,
@@ -4068,7 +4068,7 @@
     "male": 1,
     "female": 1,
     "weight": 75,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 170,
@@ -4092,7 +4092,7 @@
     "male": 1,
     "female": 1,
     "weight": 12,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 171,
@@ -4116,7 +4116,7 @@
     "male": 1,
     "female": 1,
     "weight": 22.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 172,
@@ -4140,7 +4140,7 @@
     "male": 1,
     "female": 1,
     "weight": 2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 173,
@@ -4164,7 +4164,7 @@
     "male": 1,
     "female": 3,
     "weight": 3,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 174,
@@ -4188,7 +4188,7 @@
     "male": 1,
     "female": 3,
     "weight": 1,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 175,
@@ -4212,7 +4212,7 @@
     "male": 7,
     "female": 1,
     "weight": 1.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 176,
@@ -4236,7 +4236,7 @@
     "male": 7,
     "female": 1,
     "weight": 3.2,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 177,
@@ -4260,7 +4260,7 @@
     "male": 1,
     "female": 1,
     "weight": 2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 178,
@@ -4284,7 +4284,7 @@
     "male": 1,
     "female": 1,
     "weight": 15,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 179,
@@ -4308,7 +4308,7 @@
     "male": 1,
     "female": 1,
     "weight": 7.8,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 180,
@@ -4332,7 +4332,7 @@
     "male": 1,
     "female": 1,
     "weight": 13.3,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 181,
@@ -4356,7 +4356,7 @@
     "male": 1,
     "female": 1,
     "weight": 61.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 182,
@@ -4380,7 +4380,7 @@
     "male": 1,
     "female": 1,
     "weight": 5.8,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 183,
@@ -4404,7 +4404,7 @@
     "male": 1,
     "female": 1,
     "weight": 8.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 184,
@@ -4428,7 +4428,7 @@
     "male": 1,
     "female": 1,
     "weight": 28.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 185,
@@ -4452,7 +4452,7 @@
     "male": 1,
     "female": 1,
     "weight": 38,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 186,
@@ -4476,7 +4476,7 @@
     "male": 1,
     "female": 1,
     "weight": 33.9,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 187,
@@ -4500,7 +4500,7 @@
     "male": 1,
     "female": 1,
     "weight": 0.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 188,
@@ -4524,7 +4524,7 @@
     "male": 1,
     "female": 1,
     "weight": 1,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 189,
@@ -4548,7 +4548,7 @@
     "male": 1,
     "female": 1,
     "weight": 3,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 190,
@@ -4572,7 +4572,7 @@
     "male": 1,
     "female": 1,
     "weight": 11.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 191,
@@ -4596,7 +4596,7 @@
     "male": 1,
     "female": 1,
     "weight": 1.8,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 192,
@@ -4620,7 +4620,7 @@
     "male": 1,
     "female": 1,
     "weight": 8.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 193,
@@ -4644,7 +4644,7 @@
     "male": 1,
     "female": 1,
     "weight": 38,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 194,
@@ -4668,7 +4668,7 @@
     "male": 1,
     "female": 1,
     "weight": 8.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 195,
@@ -4692,7 +4692,7 @@
     "male": 1,
     "female": 1,
     "weight": 75,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 196,
@@ -4716,7 +4716,7 @@
     "male": 7,
     "female": 1,
     "weight": 26.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 197,
@@ -4740,7 +4740,7 @@
     "male": 7,
     "female": 1,
     "weight": 27,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 198,
@@ -4764,7 +4764,7 @@
     "male": 1,
     "female": 1,
     "weight": 2.1,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 199,
@@ -4788,7 +4788,7 @@
     "male": 1,
     "female": 1,
     "weight": 79.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 200,
@@ -4812,7 +4812,7 @@
     "male": 1,
     "female": 1,
     "weight": 1,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 201,
@@ -4836,7 +4836,7 @@
     "male": 0,
     "female": 0,
     "weight": 5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 202,
@@ -4860,7 +4860,7 @@
     "male": 1,
     "female": 1,
     "weight": 28.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 203,
@@ -4884,7 +4884,7 @@
     "male": 1,
     "female": 1,
     "weight": 41.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 204,
@@ -4908,7 +4908,7 @@
     "male": 1,
     "female": 1,
     "weight": 7.2,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 205,
@@ -4932,7 +4932,7 @@
     "male": 1,
     "female": 1,
     "weight": 125.8,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 206,
@@ -4956,7 +4956,7 @@
     "male": 1,
     "female": 1,
     "weight": 14,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 207,
@@ -4980,7 +4980,7 @@
     "male": 1,
     "female": 1,
     "weight": 64.8,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 208,
@@ -5004,7 +5004,7 @@
     "male": 1,
     "female": 1,
     "weight": 400,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 209,
@@ -5028,7 +5028,7 @@
     "male": 1,
     "female": 3,
     "weight": 7.8,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 210,
@@ -5052,7 +5052,7 @@
     "male": 1,
     "female": 3,
     "weight": 48.7,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 211,
@@ -5076,7 +5076,7 @@
     "male": 1,
     "female": 1,
     "weight": 3.9,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 212,
@@ -5100,7 +5100,7 @@
     "male": 1,
     "female": 1,
     "weight": 118,
-    "release_date": "2003/12/25"
+    "release_date": "2003-12-25"
   },
   {
     "id": 213,
@@ -5124,7 +5124,7 @@
     "male": 1,
     "female": 1,
     "weight": 20.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 214,
@@ -5148,7 +5148,7 @@
     "male": 1,
     "female": 1,
     "weight": 54,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 215,
@@ -5172,7 +5172,7 @@
     "male": 1,
     "female": 1,
     "weight": 28,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 216,
@@ -5196,7 +5196,7 @@
     "male": 1,
     "female": 1,
     "weight": 8.8,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 217,
@@ -5220,7 +5220,7 @@
     "male": 1,
     "female": 1,
     "weight": 125.8,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 218,
@@ -5244,7 +5244,7 @@
     "male": 1,
     "female": 1,
     "weight": 35,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 219,
@@ -5268,7 +5268,7 @@
     "male": 1,
     "female": 1,
     "weight": 55,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 220,
@@ -5292,7 +5292,7 @@
     "male": 1,
     "female": 1,
     "weight": 6.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 221,
@@ -5316,7 +5316,7 @@
     "male": 1,
     "female": 1,
     "weight": 55.8,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 222,
@@ -5340,7 +5340,7 @@
     "male": 1,
     "female": 3,
     "weight": 5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 223,
@@ -5364,7 +5364,7 @@
     "male": 1,
     "female": 1,
     "weight": 12,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 224,
@@ -5388,7 +5388,7 @@
     "male": 1,
     "female": 1,
     "weight": 28.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 225,
@@ -5412,7 +5412,7 @@
     "male": 1,
     "female": 1,
     "weight": 16,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 226,
@@ -5436,7 +5436,7 @@
     "male": 1,
     "female": 1,
     "weight": 220,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 227,
@@ -5460,7 +5460,7 @@
     "male": 1,
     "female": 1,
     "weight": 50.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 228,
@@ -5484,7 +5484,7 @@
     "male": 1,
     "female": 1,
     "weight": 10.8,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 229,
@@ -5508,7 +5508,7 @@
     "male": 1,
     "female": 1,
     "weight": 35,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 230,
@@ -5532,7 +5532,7 @@
     "male": 1,
     "female": 1,
     "weight": 152,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 231,
@@ -5556,7 +5556,7 @@
     "male": 1,
     "female": 1,
     "weight": 33.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 232,
@@ -5580,7 +5580,7 @@
     "male": 1,
     "female": 1,
     "weight": 120,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 233,
@@ -5604,7 +5604,7 @@
     "male": 0,
     "female": 0,
     "weight": 32.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 234,
@@ -5628,7 +5628,7 @@
     "male": 1,
     "female": 1,
     "weight": 71.2,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 235,
@@ -5652,7 +5652,7 @@
     "male": 1,
     "female": 1,
     "weight": 58,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 236,
@@ -5680,7 +5680,7 @@
     "male": 1,
     "female": 0,
     "weight": 21,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 237,
@@ -5704,7 +5704,7 @@
     "male": 1,
     "female": 0,
     "weight": 48,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 238,
@@ -5728,7 +5728,7 @@
     "male": 0,
     "female": 1,
     "weight": 6,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 239,
@@ -5752,7 +5752,7 @@
     "male": 3,
     "female": 1,
     "weight": 23.5,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 240,
@@ -5776,7 +5776,7 @@
     "male": 3,
     "female": 1,
     "weight": 21.4,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 241,
@@ -5800,7 +5800,7 @@
     "male": 0,
     "female": 1,
     "weight": 75.5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 242,
@@ -5824,7 +5824,7 @@
     "male": 0,
     "female": 1,
     "weight": 46.8,
-    "release_date": "2004/01/29"
+    "release_date": "2004-01-29"
   },
   {
     "id": 243,
@@ -5848,7 +5848,7 @@
     "male": 0,
     "female": 0,
     "weight": 178,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 244,
@@ -5872,7 +5872,7 @@
     "male": 0,
     "female": 0,
     "weight": 198,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 245,
@@ -5896,7 +5896,7 @@
     "male": 0,
     "female": 0,
     "weight": 187,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 246,
@@ -5920,7 +5920,7 @@
     "male": 1,
     "female": 1,
     "weight": 72,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 247,
@@ -5944,7 +5944,7 @@
     "male": 1,
     "female": 1,
     "weight": 152,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 248,
@@ -5968,7 +5968,7 @@
     "male": 1,
     "female": 1,
     "weight": 202,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 249,
@@ -5992,7 +5992,7 @@
     "male": 0,
     "female": 0,
     "weight": 216,
-    "release_date": "2004/07/17"
+    "release_date": "2004-07-17"
   },
   {
     "id": 250,
@@ -6016,7 +6016,7 @@
     "male": 0,
     "female": 0,
     "weight": 199,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 251,
@@ -6040,7 +6040,7 @@
     "male": 0,
     "female": 0,
     "weight": 5,
-    "release_date": "2003/11/21"
+    "release_date": "2003-11-21"
   },
   {
     "id": 252,
@@ -6064,7 +6064,7 @@
     "male": 7,
     "female": 1,
     "weight": 5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 253,
@@ -6088,7 +6088,7 @@
     "male": 7,
     "female": 1,
     "weight": 21.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 254,
@@ -6112,7 +6112,7 @@
     "male": 7,
     "female": 1,
     "weight": 52.2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 255,
@@ -6136,7 +6136,7 @@
     "male": 7,
     "female": 1,
     "weight": 2.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 256,
@@ -6160,7 +6160,7 @@
     "male": 7,
     "female": 1,
     "weight": 19.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 257,
@@ -6184,7 +6184,7 @@
     "male": 7,
     "female": 1,
     "weight": 52,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 258,
@@ -6208,7 +6208,7 @@
     "male": 7,
     "female": 1,
     "weight": 7.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 259,
@@ -6232,7 +6232,7 @@
     "male": 7,
     "female": 1,
     "weight": 28,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 260,
@@ -6256,7 +6256,7 @@
     "male": 7,
     "female": 1,
     "weight": 81.9,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 261,
@@ -6280,7 +6280,7 @@
     "male": 1,
     "female": 1,
     "weight": 13.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 262,
@@ -6304,7 +6304,7 @@
     "male": 1,
     "female": 1,
     "weight": 37,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 263,
@@ -6328,7 +6328,7 @@
     "male": 1,
     "female": 1,
     "weight": 17.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 264,
@@ -6352,7 +6352,7 @@
     "male": 1,
     "female": 1,
     "weight": 32.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 265,
@@ -6379,7 +6379,7 @@
     "male": 1,
     "female": 1,
     "weight": 3.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 266,
@@ -6403,7 +6403,7 @@
     "male": 1,
     "female": 1,
     "weight": 10,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 267,
@@ -6427,7 +6427,7 @@
     "male": 1,
     "female": 1,
     "weight": 28.4,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 268,
@@ -6451,7 +6451,7 @@
     "male": 1,
     "female": 1,
     "weight": 11.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 269,
@@ -6475,7 +6475,7 @@
     "male": 1,
     "female": 1,
     "weight": 31.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 270,
@@ -6499,7 +6499,7 @@
     "male": 1,
     "female": 1,
     "weight": 2.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 271,
@@ -6523,7 +6523,7 @@
     "male": 1,
     "female": 1,
     "weight": 32.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 272,
@@ -6547,7 +6547,7 @@
     "male": 1,
     "female": 1,
     "weight": 55,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 273,
@@ -6571,7 +6571,7 @@
     "male": 1,
     "female": 1,
     "weight": 4,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 274,
@@ -6595,7 +6595,7 @@
     "male": 1,
     "female": 1,
     "weight": 28,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 275,
@@ -6619,7 +6619,7 @@
     "male": 1,
     "female": 1,
     "weight": 59.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 276,
@@ -6643,7 +6643,7 @@
     "male": 1,
     "female": 1,
     "weight": 2.3,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 277,
@@ -6667,7 +6667,7 @@
     "male": 1,
     "female": 1,
     "weight": 19.8,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 278,
@@ -6691,7 +6691,7 @@
     "male": 1,
     "female": 1,
     "weight": 9.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 279,
@@ -6715,7 +6715,7 @@
     "male": 1,
     "female": 1,
     "weight": 28,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 280,
@@ -6739,7 +6739,7 @@
     "male": 1,
     "female": 1,
     "weight": 6.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 281,
@@ -6763,7 +6763,7 @@
     "male": 1,
     "female": 1,
     "weight": 20.2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 282,
@@ -6787,7 +6787,7 @@
     "male": 1,
     "female": 1,
     "weight": 48.4,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 283,
@@ -6811,7 +6811,7 @@
     "male": 1,
     "female": 1,
     "weight": 1.7,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 284,
@@ -6835,7 +6835,7 @@
     "male": 1,
     "female": 1,
     "weight": 3.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 285,
@@ -6859,7 +6859,7 @@
     "male": 1,
     "female": 1,
     "weight": 4.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 286,
@@ -6883,7 +6883,7 @@
     "male": 1,
     "female": 1,
     "weight": 39.2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 287,
@@ -6907,7 +6907,7 @@
     "male": 1,
     "female": 1,
     "weight": 24,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 288,
@@ -6931,7 +6931,7 @@
     "male": 1,
     "female": 1,
     "weight": 46.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 289,
@@ -6955,7 +6955,7 @@
     "male": 1,
     "female": 1,
     "weight": 130.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 290,
@@ -6982,7 +6982,7 @@
     "male": 1,
     "female": 1,
     "weight": 5.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 291,
@@ -7006,7 +7006,7 @@
     "male": 1,
     "female": 1,
     "weight": 12,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 292,
@@ -7030,7 +7030,7 @@
     "male": 0,
     "female": 0,
     "weight": 1.2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 293,
@@ -7054,7 +7054,7 @@
     "male": 1,
     "female": 1,
     "weight": 16.3,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 294,
@@ -7078,7 +7078,7 @@
     "male": 1,
     "female": 1,
     "weight": 40.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 295,
@@ -7102,7 +7102,7 @@
     "male": 1,
     "female": 1,
     "weight": 84,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 296,
@@ -7126,7 +7126,7 @@
     "male": 3,
     "female": 1,
     "weight": 86.4,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 297,
@@ -7150,7 +7150,7 @@
     "male": 3,
     "female": 1,
     "weight": 253.8,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 298,
@@ -7174,7 +7174,7 @@
     "male": 1,
     "female": 3,
     "weight": 2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 299,
@@ -7198,7 +7198,7 @@
     "male": 1,
     "female": 1,
     "weight": 97,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 300,
@@ -7222,7 +7222,7 @@
     "male": 1,
     "female": 3,
     "weight": 11,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 301,
@@ -7246,7 +7246,7 @@
     "male": 1,
     "female": 3,
     "weight": 32.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 302,
@@ -7270,7 +7270,7 @@
     "male": 1,
     "female": 1,
     "weight": 11,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 303,
@@ -7294,7 +7294,7 @@
     "male": 1,
     "female": 1,
     "weight": 11.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 304,
@@ -7318,7 +7318,7 @@
     "male": 1,
     "female": 1,
     "weight": 60,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 305,
@@ -7342,7 +7342,7 @@
     "male": 1,
     "female": 1,
     "weight": 120,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 306,
@@ -7366,7 +7366,7 @@
     "male": 1,
     "female": 1,
     "weight": 360,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 307,
@@ -7390,7 +7390,7 @@
     "male": 1,
     "female": 1,
     "weight": 11.2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 308,
@@ -7414,7 +7414,7 @@
     "male": 1,
     "female": 1,
     "weight": 31.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 309,
@@ -7438,7 +7438,7 @@
     "male": 1,
     "female": 1,
     "weight": 15.2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 310,
@@ -7462,7 +7462,7 @@
     "male": 1,
     "female": 1,
     "weight": 40.2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 311,
@@ -7486,7 +7486,7 @@
     "male": 1,
     "female": 1,
     "weight": 4.2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 312,
@@ -7510,7 +7510,7 @@
     "male": 1,
     "female": 1,
     "weight": 4.2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 313,
@@ -7534,7 +7534,7 @@
     "male": 1,
     "female": 0,
     "weight": 17.7,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 314,
@@ -7558,7 +7558,7 @@
     "male": 0,
     "female": 1,
     "weight": 17.7,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 315,
@@ -7582,7 +7582,7 @@
     "male": 1,
     "female": 1,
     "weight": 2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 316,
@@ -7606,7 +7606,7 @@
     "male": 1,
     "female": 1,
     "weight": 10.3,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 317,
@@ -7630,7 +7630,7 @@
     "male": 1,
     "female": 1,
     "weight": 80,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 318,
@@ -7654,7 +7654,7 @@
     "male": 1,
     "female": 1,
     "weight": 20.8,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 319,
@@ -7678,7 +7678,7 @@
     "male": 1,
     "female": 1,
     "weight": 88.8,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 320,
@@ -7702,7 +7702,7 @@
     "male": 1,
     "female": 1,
     "weight": 130,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 321,
@@ -7726,7 +7726,7 @@
     "male": 1,
     "female": 1,
     "weight": 398,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 322,
@@ -7750,7 +7750,7 @@
     "male": 1,
     "female": 1,
     "weight": 24,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 323,
@@ -7774,7 +7774,7 @@
     "male": 1,
     "female": 1,
     "weight": 220,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 324,
@@ -7798,7 +7798,7 @@
     "male": 1,
     "female": 1,
     "weight": 80.4,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 325,
@@ -7822,7 +7822,7 @@
     "male": 1,
     "female": 1,
     "weight": 30.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 326,
@@ -7846,7 +7846,7 @@
     "male": 1,
     "female": 1,
     "weight": 71.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 327,
@@ -7870,7 +7870,7 @@
     "male": 1,
     "female": 1,
     "weight": 5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 328,
@@ -7894,7 +7894,7 @@
     "male": 1,
     "female": 1,
     "weight": 15,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 329,
@@ -7918,7 +7918,7 @@
     "male": 1,
     "female": 1,
     "weight": 15.3,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 330,
@@ -7942,7 +7942,7 @@
     "male": 1,
     "female": 1,
     "weight": 82,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 331,
@@ -7966,7 +7966,7 @@
     "male": 1,
     "female": 1,
     "weight": 51.3,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 332,
@@ -7990,7 +7990,7 @@
     "male": 1,
     "female": 1,
     "weight": 77.4,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 333,
@@ -8014,7 +8014,7 @@
     "male": 1,
     "female": 1,
     "weight": 1.2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 334,
@@ -8038,7 +8038,7 @@
     "male": 1,
     "female": 1,
     "weight": 20.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 335,
@@ -8062,7 +8062,7 @@
     "male": 1,
     "female": 1,
     "weight": 40.3,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 336,
@@ -8086,7 +8086,7 @@
     "male": 1,
     "female": 1,
     "weight": 52.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 337,
@@ -8110,7 +8110,7 @@
     "male": 0,
     "female": 0,
     "weight": 168,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 338,
@@ -8134,7 +8134,7 @@
     "male": 0,
     "female": 0,
     "weight": 154,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 339,
@@ -8158,7 +8158,7 @@
     "male": 1,
     "female": 1,
     "weight": 1.9,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 340,
@@ -8182,7 +8182,7 @@
     "male": 1,
     "female": 1,
     "weight": 23.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 341,
@@ -8206,7 +8206,7 @@
     "male": 1,
     "female": 1,
     "weight": 11.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 342,
@@ -8230,7 +8230,7 @@
     "male": 1,
     "female": 1,
     "weight": 32.8,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 343,
@@ -8254,7 +8254,7 @@
     "male": 0,
     "female": 0,
     "weight": 21.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 344,
@@ -8278,7 +8278,7 @@
     "male": 0,
     "female": 0,
     "weight": 108,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 345,
@@ -8302,7 +8302,7 @@
     "male": 7,
     "female": 1,
     "weight": 23.8,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 346,
@@ -8326,7 +8326,7 @@
     "male": 7,
     "female": 1,
     "weight": 60.4,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 347,
@@ -8350,7 +8350,7 @@
     "male": 7,
     "female": 1,
     "weight": 12.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 348,
@@ -8374,7 +8374,7 @@
     "male": 7,
     "female": 1,
     "weight": 68.2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 349,
@@ -8398,7 +8398,7 @@
     "male": 1,
     "female": 1,
     "weight": 7.4,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 350,
@@ -8422,7 +8422,7 @@
     "male": 1,
     "female": 1,
     "weight": 162,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 351,
@@ -8446,7 +8446,7 @@
     "male": 1,
     "female": 1,
     "weight": 0.8,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 352,
@@ -8470,7 +8470,7 @@
     "male": 1,
     "female": 1,
     "weight": 22,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 353,
@@ -8494,7 +8494,7 @@
     "male": 1,
     "female": 1,
     "weight": 2.3,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 354,
@@ -8518,7 +8518,7 @@
     "male": 1,
     "female": 1,
     "weight": 12.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 355,
@@ -8542,7 +8542,7 @@
     "male": 1,
     "female": 1,
     "weight": 15,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 356,
@@ -8566,7 +8566,7 @@
     "male": 1,
     "female": 1,
     "weight": 30.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 357,
@@ -8590,7 +8590,7 @@
     "male": 1,
     "female": 1,
     "weight": 100,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 358,
@@ -8614,7 +8614,7 @@
     "male": 1,
     "female": 1,
     "weight": 1,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 359,
@@ -8638,7 +8638,7 @@
     "male": 1,
     "female": 1,
     "weight": 47,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 360,
@@ -8662,7 +8662,7 @@
     "male": 1,
     "female": 1,
     "weight": 14,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 361,
@@ -8686,7 +8686,7 @@
     "male": 1,
     "female": 1,
     "weight": 16.8,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 362,
@@ -8710,7 +8710,7 @@
     "male": 1,
     "female": 1,
     "weight": 256.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 363,
@@ -8734,7 +8734,7 @@
     "male": 1,
     "female": 1,
     "weight": 39.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 364,
@@ -8758,7 +8758,7 @@
     "male": 1,
     "female": 1,
     "weight": 87.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 365,
@@ -8782,7 +8782,7 @@
     "male": 1,
     "female": 1,
     "weight": 150.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 366,
@@ -8809,7 +8809,7 @@
     "male": 1,
     "female": 1,
     "weight": 52.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 367,
@@ -8833,7 +8833,7 @@
     "male": 1,
     "female": 1,
     "weight": 27,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 368,
@@ -8857,7 +8857,7 @@
     "male": 1,
     "female": 1,
     "weight": 22.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 369,
@@ -8881,7 +8881,7 @@
     "male": 7,
     "female": 1,
     "weight": 23.4,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 370,
@@ -8905,7 +8905,7 @@
     "male": 1,
     "female": 3,
     "weight": 8.7,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 371,
@@ -8929,7 +8929,7 @@
     "male": 1,
     "female": 1,
     "weight": 42.1,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 372,
@@ -8953,7 +8953,7 @@
     "male": 1,
     "female": 1,
     "weight": 110.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 373,
@@ -8977,7 +8977,7 @@
     "male": 1,
     "female": 1,
     "weight": 102.6,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 374,
@@ -9001,7 +9001,7 @@
     "male": 0,
     "female": 0,
     "weight": 95.2,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 375,
@@ -9025,7 +9025,7 @@
     "male": 0,
     "female": 0,
     "weight": 202.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 376,
@@ -9049,7 +9049,7 @@
     "male": 0,
     "female": 0,
     "weight": 550,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 377,
@@ -9073,7 +9073,7 @@
     "male": 0,
     "female": 0,
     "weight": 230,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 378,
@@ -9097,7 +9097,7 @@
     "male": 0,
     "female": 0,
     "weight": 175,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 379,
@@ -9121,7 +9121,7 @@
     "male": 0,
     "female": 0,
     "weight": 205,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 380,
@@ -9145,7 +9145,7 @@
     "male": 0,
     "female": 1,
     "weight": 40,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 381,
@@ -9169,7 +9169,7 @@
     "male": 1,
     "female": 0,
     "weight": 60,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 382,
@@ -9193,7 +9193,7 @@
     "male": 0,
     "female": 0,
     "weight": 352,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 383,
@@ -9217,7 +9217,7 @@
     "male": 0,
     "female": 0,
     "weight": 950,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 384,
@@ -9241,7 +9241,7 @@
     "male": 0,
     "female": 0,
     "weight": 206.5,
-    "release_date": "2002/11/21"
+    "release_date": "2002-11-21"
   },
   {
     "id": 385,
@@ -9265,7 +9265,7 @@
     "male": 0,
     "female": 0,
     "weight": 1.1,
-    "release_date": "2003/06/21"
+    "release_date": "2003-06-21"
   },
   {
     "id": 386,
@@ -9289,7 +9289,7 @@
     "male": 0,
     "female": 0,
     "weight": 60.8,
-    "release_date": "2004/06/19"
+    "release_date": "2004-06-19"
   },
   {
     "id": 387,
@@ -9313,7 +9313,7 @@
     "male": 0,
     "female": 0,
     "weight": 60.8,
-    "release_date": "2004/06/19"
+    "release_date": "2004-06-19"
   },
   {
     "id": 388,
@@ -9337,7 +9337,7 @@
     "male": 0,
     "female": 0,
     "weight": 60.8,
-    "release_date": "2004/06/19"
+    "release_date": "2004-06-19"
   },
   {
     "id": 389,
@@ -9361,6 +9361,6 @@
     "male": 0,
     "female": 0,
     "weight": 60.8,
-    "release_date": "2004/09/16"
+    "release_date": "2004-09-16"
   }
 ]
