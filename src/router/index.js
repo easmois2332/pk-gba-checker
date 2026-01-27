@@ -2,6 +2,7 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import HomeView from "@/views/HomeView.vue";
 import DexListView from "@/views/DexListView.vue";
 import DexDetailView from "@/views/DexDetailView.vue";
+import RegulationCheckerView from "@/views/RegulationCheckerView.vue";
 import ErrorView from "@/views/ErrorView.vue";
 
 const router = createRouter({
@@ -21,6 +22,11 @@ const router = createRouter({
             path: '/dex-detail/:id(\\d+)',
             name: 'dex-detail',
             component: DexDetailView,
+        },
+        {
+            path: '/regulation-checker',
+            name: 'regulation-checker',
+            component: RegulationCheckerView,
         },
         {
             path: '/:error(.*)',

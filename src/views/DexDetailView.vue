@@ -28,36 +28,36 @@ const getLowKickPower = (weight) => {
       <v-card-text>
         <div class="dex-pager-area">
           <div class="pre-dex">
-            <div class="image-area" v-if="pokemonDetail.id > 1">
+            <div class="image-area" v-if="pokemonDetail.dex > 1">
               <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#26a69a">
                 <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z"/>
               </svg>
               <img v-bind:src="getImage(pokemonDetailPre.dex)" width="32px" height="32px">
             </div>
-            <router-link v-if="pokemonDetail.id > 1" v-bind:to="'/dex-detail/' + pokemonDetailPre.dex">{{ pokemonDetailPre.pokemon }}</router-link>
-            <div class="image-area" v-if="pokemonDetail.id === 1">
+            <router-link v-if="pokemonDetail.dex > 1" v-bind:to="'/dex-detail/' + pokemonDetailPre.dex">{{ pokemonDetailPre.pokemon }}</router-link>
+            <div class="image-area" v-if="pokemonDetail.dex === 1">
               <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#26a69a">
                 <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z"/>
               </svg>
               <img v-bind:src="getImage(386)" width="32px" height="32px">
             </div>
-            <router-link v-if="pokemonDetail.id === 1" v-bind:to="'/dex-detail/386'">デオキシス</router-link>
+            <router-link v-if="pokemonDetail.dex === 1" v-bind:to="'/dex-detail/386'">デオキシス</router-link>
           </div>
           <div class="next-dex">
-            <div class="image-area" v-if="pokemonDetail.id < 386">
+            <div class="image-area" v-if="pokemonDetail.dex < 386">
               <img v-bind:src="getImage(pokemonDetailNext.dex)" width="32px" height="32px">
               <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#26a69a">
                 <path d="M647-440H160v-80h487L423-744l57-56 320 320-320 320-57-56 224-224Z"/>
               </svg>
             </div>
-            <router-link v-if="pokemonDetail.id < 386" v-bind:to="'/dex-detail/' + pokemonDetailNext.dex">{{ pokemonDetailNext.pokemon }}</router-link>
-            <div class="image-area" v-if="pokemonDetail.id === 386">
+            <router-link v-if="pokemonDetail.dex < 386" v-bind:to="'/dex-detail/' + pokemonDetailNext.dex">{{ pokemonDetailNext.pokemon }}</router-link>
+            <div class="image-area" v-if="pokemonDetail.dex === 386">
               <img v-bind:src="getImage(1)" width="32px" height="32px">
               <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#26a69a">
                 <path d="M647-440H160v-80h487L423-744l57-56 320 320-320 320-57-56 224-224Z"/>
               </svg>
             </div>
-            <router-link v-if="pokemonDetail.id === 386" v-bind:to="'/dex-detail/1'">フシギダネ</router-link>
+            <router-link v-if="pokemonDetail.dex === 386" v-bind:to="'/dex-detail/1'">フシギダネ</router-link>
           </div>
         </div>
         <div class="dex-detail-area">
@@ -386,6 +386,9 @@ const getLowKickPower = (weight) => {
                 <tr v-for="egg in pokemonMove.egg" :key="egg.move">
                   <td class="text-start"><span class="text-no-wrap">{{ egg.move }}</span></td>
                 </tr>
+                <tr v-if="pokemonDetail.dex === 172" v-for="egg_em in pokemonMove.egg_em" :key="egg_em.move">
+                  <td class="text-start"><span class="text-no-wrap">{{ egg_em.move }}</span></td>
+                </tr>
                 <tr v-if="pokemonMove.egg.length === 0">
                   <td class="text-start"><span class="text-no-wrap">取得なし</span></td>
                 </tr>
@@ -394,7 +397,7 @@ const getLowKickPower = (weight) => {
               <table class="tutor-frlg">
                 <thead>
                 <tr>
-                  <th class="head-move text-start"><span class="text-no-wrap">おしえわざ (FRLG)</span></th>
+                  <th class="head-move text-start"><span class="text-no-wrap">教えわざ (FRLG)</span></th>
                 </tr>
                 </thead>
                 <tbody>
@@ -409,7 +412,7 @@ const getLowKickPower = (weight) => {
               <table class="tutor-em">
                 <thead>
                 <tr>
-                  <th class="head-move text-start"><span class="text-no-wrap">おしえわざ (E)</span></th>
+                  <th class="head-move text-start"><span class="text-no-wrap">教えわざ (E)</span></th>
                 </tr>
                 </thead>
                 <tbody>
@@ -424,7 +427,7 @@ const getLowKickPower = (weight) => {
               <table class="tutor-xd">
                 <thead>
                 <tr>
-                  <th class="head-move text-start"><span class="text-no-wrap">おしえわざ (XD)</span></th>
+                  <th class="head-move text-start"><span class="text-no-wrap">教えわざ (XD)</span></th>
                 </tr>
                 </thead>
                 <tbody>
@@ -454,7 +457,7 @@ const getLowKickPower = (weight) => {
               <table class="special">
                 <thead>
                 <tr>
-                  <th class="head-move text-start"><span class="text-no-wrap">とくべつなわざ</span></th>
+                  <th class="head-move text-start"><span class="text-no-wrap">特別なわざ</span></th>
                 </tr>
                 </thead>
                 <tbody>
@@ -471,36 +474,36 @@ const getLowKickPower = (weight) => {
         </div>
         <div class="dex-pager-area">
           <div class="pre-dex">
-            <div class="image-area" v-if="pokemonDetail.id > 1">
+            <div class="image-area" v-if="pokemonDetail.dex > 1">
               <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#26a69a">
                 <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z"/>
               </svg>
               <img v-bind:src="getImage(pokemonDetailPre.dex)" width="32px" height="32px">
             </div>
-            <router-link v-if="pokemonDetail.id > 1" v-bind:to="'/dex-detail/' + pokemonDetailPre.dex">{{ pokemonDetailPre.pokemon }}</router-link>
-            <div class="image-area" v-if="pokemonDetail.id === 1">
+            <router-link v-if="pokemonDetail.dex > 1" v-bind:to="'/dex-detail/' + pokemonDetailPre.dex">{{ pokemonDetailPre.pokemon }}</router-link>
+            <div class="image-area" v-if="pokemonDetail.dex === 1">
               <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#26a69a">
                 <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z"/>
               </svg>
               <img v-bind:src="getImage(386)" width="32px" height="32px">
             </div>
-            <router-link v-if="pokemonDetail.id === 1" v-bind:to="'/dex-detail/386'">デオキシス</router-link>
+            <router-link v-if="pokemonDetail.dex === 1" v-bind:to="'/dex-detail/386'">デオキシス</router-link>
           </div>
           <div class="next-dex">
-            <div class="image-area" v-if="pokemonDetail.id < 386">
+            <div class="image-area" v-if="pokemonDetail.dex < 386">
               <img v-bind:src="getImage(pokemonDetailNext.dex)" width="32px" height="32px">
               <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#26a69a">
                 <path d="M647-440H160v-80h487L423-744l57-56 320 320-320 320-57-56 224-224Z"/>
               </svg>
             </div>
-            <router-link v-if="pokemonDetail.id < 386" v-bind:to="'/dex-detail/' + pokemonDetailNext.dex">{{ pokemonDetailNext.pokemon }}</router-link>
-            <div class="image-area" v-if="pokemonDetail.id === 386">
+            <router-link v-if="pokemonDetail.dex < 386" v-bind:to="'/dex-detail/' + pokemonDetailNext.dex">{{ pokemonDetailNext.pokemon }}</router-link>
+            <div class="image-area" v-if="pokemonDetail.dex === 386">
               <img v-bind:src="getImage(1)" width="32px" height="32px">
               <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#26a69a">
                 <path d="M647-440H160v-80h487L423-744l57-56 320 320-320 320-57-56 224-224Z"/>
               </svg>
             </div>
-            <router-link v-if="pokemonDetail.id === 386" v-bind:to="'/dex-detail/1'">フシギダネ</router-link>
+            <router-link v-if="pokemonDetail.dex === 386" v-bind:to="'/dex-detail/1'">フシギダネ</router-link>
           </div>
         </div>
       </v-card-text>
