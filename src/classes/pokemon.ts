@@ -839,7 +839,7 @@ export default class Pokemon {
                     result[`${i}_text`] = "取得可能";
                 }
             } else if (movesCategory[i].includes('sketch')) {
-                if (this.checkSketchLegal(eggMoves[i], startDate, endDate)) {
+                if (this.checkSketchLegal(moves[i], startDate, endDate)) {
                     result[i] = true;
                     result[`${i}_text`] = "取得可能";
                 } else {
@@ -1000,7 +1000,6 @@ export default class Pokemon {
             }
             let legal = false;
             for (let j in eggMoves) {
-                console.log(pokemonSearchList[i], eggMoves[j]);
                 if (eggMoves[j] === null) {
                     continue;
                 }
