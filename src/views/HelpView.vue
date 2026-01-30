@@ -47,6 +47,14 @@
     <v-card class="mb-4" title="更新履歴">
       <v-card-text>
         <div>
+          <span class="font-bold">v1.0.1</span><br>
+          <span>
+            「ニョロボン」のこうげき種族値を85に修正
+          </span>
+        </div>
+      </v-card-text>
+      <v-card-text>
+        <div>
           <span class="font-bold">v1.0.0</span><br>
           <span>
             リリース
