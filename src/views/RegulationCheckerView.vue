@@ -324,7 +324,7 @@ const buttonReset = () => {
         </v-row>
         <v-row>
           <v-col class="text-center">
-            <v-btn class="text-white" color="teal-lighten-1" size="x-large" :disabled="pokemonInput.pokemon === ''" :loading="loading" @click="buttonCheck">
+            <v-btn class="text-white" color="teal-lighten-1" size="x-large" :disabled="pokemonInput.pokemon === '' || pokemonInput.pokemon === null" :loading="loading" @click="buttonCheck">
               チェック
             </v-btn>
           </v-col>

@@ -83,7 +83,10 @@ export default class Pokemon {
         };
 
         // 入力チェック
-        if (!startDate || !endDate || (pokemon === '') || !level) {
+        if (!startDate || !endDate || !pokemon || !level) {
+            return result;
+        }
+        if (pokemon == '' || pokemon == null) {
             return result;
         }
 
@@ -242,7 +245,7 @@ export default class Pokemon {
         let learnsetAzurillOnlyMove = false;
 
         for (let i in moves) {
-            if (moves[i] === '') {
+            if (moves[i] == '' || moves[i] == null) {
                 movesCategory[i].push('empty');
                 continue;
             }
