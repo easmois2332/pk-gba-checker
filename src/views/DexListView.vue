@@ -20,13 +20,13 @@ let pokemonList = pkClass.getPokemonList();
 
 const getImage = (id) => {
   if (id === 387) {
-    return '/image/pokemon/icon/386-attack.png'
+    return './image/pokemon/icon/386-attack.png'
   } else if (id === 388) {
-    return '/image/pokemon/icon/386-defense.png'
+    return './image/pokemon/icon/386-defense.png'
   } else if (id === 389) {
-    return '/image/pokemon/icon/386-speed.png'
+    return './image/pokemon/icon/386-speed.png'
   } else {
-    return '/image/pokemon/icon/' + String(id).padStart(3, '0') + '.png'
+    return './image/pokemon/icon/' + String(id).padStart(3, '0') + '.png'
   }
 }
 </script>

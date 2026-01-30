@@ -15,7 +15,7 @@ let pokemonDetailNext = pkClass.getPokemon(Number(param.id) + 1);
 let pokemonMove = pkClass.getPokemonMove(pokemonDetail.pokemon);
 
 const getImage = (dex) => {
-  return '/image/pokemon/icon/' + String(dex).padStart(3, '0') + '.png'
+  return './image/pokemon/icon/' + String(dex).padStart(3, '0') + '.png'
 }
 const getLowKickPower = (weight) => {
   return pkClass.getLowKickPower(weight);
