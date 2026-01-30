@@ -18,9 +18,9 @@ watch(() => route.params, (to, from) => {
         <v-app-bar-nav-icon @click.stop="navDrawer = !navDrawer"></v-app-bar-nav-icon>
       </template>
       <v-app-bar-title><router-link class="app-header-link" to="/">GBAチェッカー</router-link></v-app-bar-title>
-      <template v-slot:append>
-        <v-btn icon="mdi-magnify" to="/dex-search"></v-btn>
-      </template>
+<!--      <template v-slot:append>-->
+<!--        <v-btn icon="mdi-magnify" to="/dex-search"></v-btn>-->
+<!--      </template>-->
     </v-app-bar>
     <v-navigation-drawer v-model="navDrawer">
       <v-list-item link prepend-icon="mdi-home" title="トップ" to="/"></v-list-item>

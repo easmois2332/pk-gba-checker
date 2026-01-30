@@ -3,6 +3,7 @@ import HomeView from "@/views/HomeView.vue";
 import DexListView from "@/views/DexListView.vue";
 import DexDetailView from "@/views/DexDetailView.vue";
 import RegulationCheckerView from "@/views/RegulationCheckerView.vue";
+import HelpView from "@/views/HelpView.vue";
 import ErrorView from "@/views/ErrorView.vue";
 
 const router = createRouter({
@@ -27,6 +28,11 @@ const router = createRouter({
             path: '/regulation-checker',
             name: 'regulation-checker',
             component: RegulationCheckerView,
+        },
+        {
+            path: '/help',
+            name: 'help',
+            component: HelpView,
         },
         {
             path: '/:error(.*)',
