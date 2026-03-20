@@ -1114,6 +1114,7 @@ export default class Pokemon {
                     evolutionBase.push(pokemonSearchList[i].evolution_base);
                     if (this.searchEggMoves(pokemonSearchList[i], [eggMoves[j]], startDate, endDate, evolutionBase)) {
                         legal = true;
+                        evolutionBase = [evolutionBase[0]];
                         continue;
                     }
                 }
@@ -1123,6 +1124,7 @@ export default class Pokemon {
                     evolutionBase.push(evolutionBeforeSearchPokemon1.evolution_base);
                     if (this.searchEggMoves(evolutionBeforeSearchPokemon1, [eggMoves[j]], startDate, endDate, evolutionBase)) {
                         legal = true;
+                        evolutionBase = [evolutionBase[0]];
                         continue;
                     }
                 }
@@ -1132,6 +1134,7 @@ export default class Pokemon {
                     evolutionBase.push(evolutionBeforeSearchPokemon2.evolution_base);
                     if (this.searchEggMoves(evolutionBeforeSearchPokemon2, [eggMoves[j]], startDate, endDate, evolutionBase)) {
                         legal = true;
+                        evolutionBase = [evolutionBase[0]];
                         continue;
                     }
                 }

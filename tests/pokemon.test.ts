@@ -616,6 +616,35 @@ describe('checkRegulation 前期シングル', () => {
         );
     });
 
+    test('遺伝わざ複数あり 戻るルート', () => {
+        expect(
+            pkClass.checkRegulation(
+                '2002-11-21', '2003-11-20', ['ラティオス・ラティアス', '禁止伝説', '幻',],
+                'アブソル',
+                50,
+                'バトンタッチ',
+                'みがわり',
+                '',
+                '',
+            )
+        ).toEqual(
+            {
+                pokemon: true,
+                level: true,
+                move1: true,
+                move2: true,
+                move3: true,
+                move4: true,
+                pokemon_text: '使用可能',
+                level_text: '使用可能',
+                move1_text: '取得可能',
+                move2_text: '取得可能',
+                move3_text: '',
+                move4_text: '',
+            }
+        );
+    });
+
     test('遺伝不可', () => {
         expect(
             pkClass.checkRegulation(
