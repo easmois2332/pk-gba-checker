@@ -200,10 +200,10 @@ describe('checkRegulation ポケモンリーグ2004', () => {
                 move4: false,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得不能なわざです',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得不能なわざです',
             }
         );
     });
@@ -229,10 +229,10 @@ describe('checkRegulation ポケモンリーグ2004', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -258,10 +258,10 @@ describe('checkRegulation ポケモンリーグ2004', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '遺伝経路のない取得不能なわざです',
-                move3_text: '取得不能なわざです',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '遺伝経路のない習得不能なわざです',
+                move3_text: '習得不能なわざです',
+                move4_text: '習得可能',
             }
         );
     });
@@ -287,10 +287,10 @@ describe('checkRegulation ポケモンリーグ2004', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得不能なわざです',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得不能なわざです',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -316,10 +316,10 @@ describe('checkRegulation ポケモンリーグ2004', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得不能なわざです',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得不能なわざです',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -550,10 +550,10 @@ describe('checkRegulation 前期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -579,10 +579,10 @@ describe('checkRegulation 前期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -608,10 +608,10 @@ describe('checkRegulation 前期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -637,8 +637,8 @@ describe('checkRegulation 前期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
                 move3_text: '',
                 move4_text: '',
             }
@@ -666,10 +666,10 @@ describe('checkRegulation 前期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '遺伝経路のない取得不能なわざです',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '遺伝経路のない習得不能なわざです',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -695,10 +695,10 @@ describe('checkRegulation 前期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '遺伝経路のない取得不能なわざです',
-                move3_text: '遺伝経路のない取得不能なわざです',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '遺伝経路のない習得不能なわざです',
+                move3_text: '遺伝経路のない習得不能なわざです',
+                move4_text: '習得可能',
             }
         );
     });
@@ -724,10 +724,10 @@ describe('checkRegulation 前期シングル', () => {
                 move4: false,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '遺伝経路のない取得不能なわざです',
-                move2_text: '遺伝経路のない取得不能なわざです',
-                move3_text: '遺伝経路のない取得不能なわざです',
-                move4_text: '遺伝経路のない取得不能なわざです',
+                move1_text: '遺伝経路のない習得不能なわざです',
+                move2_text: '遺伝経路のない習得不能なわざです',
+                move3_text: '遺伝経路のない習得不能なわざです',
+                move4_text: '遺伝経路のない習得不能なわざです',
             }
         );
     });
@@ -753,10 +753,10 @@ describe('checkRegulation 前期シングル', () => {
                 move4: false,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: 'オーバーレベルのため取得不能なわざです',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: 'オーバーレベルのため習得不能なわざです',
             }
         );
     });
@@ -782,10 +782,10 @@ describe('checkRegulation 前期シングル', () => {
                 move4: false,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '野生で入手したポケモンのため取得不能なわざです',
-                move2_text: '取得可能',
-                move3_text: '野生で入手したポケモンのため取得不能なわざです',
-                move4_text: '野生で入手したポケモンのため取得不能なわざです',
+                move1_text: '野生で入手したポケモンのため習得不能なわざです',
+                move2_text: '習得可能',
+                move3_text: '野生で入手したポケモンのため習得不能なわざです',
+                move4_text: '野生で入手したポケモンのため習得不能なわざです',
             }
         );
     });
@@ -811,10 +811,10 @@ describe('checkRegulation 前期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -840,10 +840,10 @@ describe('checkRegulation 前期シングル', () => {
                 move4: false,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '他の進化わざと同時に取得不能なわざです',
-                move4_text: '他の進化わざと同時に取得不能なわざです',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '他の進化わざと同時に習得不能なわざです',
+                move4_text: '他の進化わざと同時に習得不能なわざです',
             }
         );
     });
@@ -869,10 +869,10 @@ describe('checkRegulation 前期シングル', () => {
                 move4: false,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: 'ルリリでしか取得できないわざと同時に取得不能なわざです',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: 'ルリリでしか習得できないわざと同時に習得不能なわざです',
             }
         );
     });
@@ -898,10 +898,10 @@ describe('checkRegulation 前期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -927,10 +927,10 @@ describe('checkRegulation 前期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -956,10 +956,10 @@ describe('checkRegulation 前期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: 'タマゴわざと同時に取得不能なわざです',
-                move3_text: '特別なわざと同時に取得不能なわざです',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: 'タマゴわざと同時に習得不能なわざです',
+                move3_text: '特別なわざと同時に習得不能なわざです',
+                move4_text: '習得可能',
             }
         );
     });
@@ -985,10 +985,10 @@ describe('checkRegulation 前期シングル', () => {
                 move4: false,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得不能なわざです',
-                move4_text: '取得不能なわざです',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得不能なわざです',
+                move4_text: '習得不能なわざです',
             }
         );
     });
@@ -1014,10 +1014,10 @@ describe('checkRegulation 前期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得不能なわざです',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得不能なわざです',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -1074,10 +1074,10 @@ describe('checkRegulation 後期シングル', () => {
                 move4: false,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: 'オーバーレベルのため取得不能なわざです',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: 'オーバーレベルのため習得不能なわざです',
             }
         );
     });
@@ -1103,10 +1103,10 @@ describe('checkRegulation 後期シングル', () => {
                 move4: false,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '遺伝経路のない取得不能なわざです',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '遺伝経路のない習得不能なわざです',
             }
         );
     });
@@ -1132,10 +1132,10 @@ describe('checkRegulation 後期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -1161,10 +1161,10 @@ describe('checkRegulation 後期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -1190,10 +1190,10 @@ describe('checkRegulation 後期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -1219,10 +1219,10 @@ describe('checkRegulation 後期シングル', () => {
                 move4: false,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: 'オーバーレベルのため取得不能なわざです',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: 'オーバーレベルのため習得不能なわざです',
             }
         );
     });
@@ -1248,10 +1248,10 @@ describe('checkRegulation 後期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -1277,10 +1277,10 @@ describe('checkRegulation 後期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -1306,10 +1306,10 @@ describe('checkRegulation 後期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -1335,10 +1335,10 @@ describe('checkRegulation 後期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });
@@ -1364,10 +1364,10 @@ describe('checkRegulation 後期シングル', () => {
                 move4: false,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: 'タマゴわざと同時に取得不能なわざです',
-                move4_text: 'リライブわざと同時に取得不能なわざです',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: 'タマゴわざと同時に習得不能なわざです',
+                move4_text: 'リライブわざと同時に習得不能なわざです',
             }
         );
     });
@@ -1393,10 +1393,10 @@ describe('checkRegulation 後期シングル', () => {
                 move4: true,
                 pokemon_text: '使用可能',
                 level_text: '使用可能',
-                move1_text: '取得可能',
-                move2_text: '取得可能',
-                move3_text: '取得可能',
-                move4_text: '取得可能',
+                move1_text: '習得可能',
+                move2_text: '習得可能',
+                move3_text: '習得可能',
+                move4_text: '習得可能',
             }
         );
     });

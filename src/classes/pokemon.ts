@@ -490,32 +490,32 @@ export default class Pokemon {
         for (let i in movesCategory) {
             if (movesCategory[i].length === 0) {
                 result[i] = false;
-                result[`${i}_text`] = "取得不能なわざです";
+                result[`${i}_text`] = "習得不能なわざです";
             } else if (movesCategory[i].includes('empty')) {
                 result[i] = true;
                 result[`${i}_text`] = "";
             } else if (movesCategory[i].includes('level_rs')) {
                 result[i] = true;
-                result[`${i}_text`] = "取得可能";
+                result[`${i}_text`] = "習得可能";
             } else if (movesCategory[i].includes('level_frlg')) {
                 result[i] = true;
-                result[`${i}_text`] = "取得可能";
+                result[`${i}_text`] = "習得可能";
             } else if (movesCategory[i].includes('machine')) {
                 result[i] = true;
-                result[`${i}_text`] = "取得可能";
+                result[`${i}_text`] = "習得可能";
             } else if (movesCategory[i].includes('tutor_frlg')) {
                 result[i] = true;
-                result[`${i}_text`] = "取得可能";
+                result[`${i}_text`] = "習得可能";
             } else if (movesCategory[i].includes('tutor_em')) {
                 result[i] = true;
-                result[`${i}_text`] = "取得可能";
+                result[`${i}_text`] = "習得可能";
             } else if (movesCategory[i].includes('tutor_xd')) {
                 result[i] = true;
-                result[`${i}_text`] = "取得可能";
+                result[`${i}_text`] = "習得可能";
             } else if (movesCategory[i].includes('over_level_rs')) {
                 if (wildEncounter) {
                     result[i] = false;
-                    result[`${i}_text`] = "野生で入手したポケモンのため取得不能なわざです";
+                    result[`${i}_text`] = "野生で入手したポケモンのため習得不能なわざです";
                 } else if (pokemonDetail.dex === 30 || pokemonDetail.dex === 31) {
                     if (evolutionBeforePokemon1 !== null && evolutionBeforePokemon1.evolution_before === null && evolutionBeforePokemonMove1 !== null && evolutionBeforePokemonMove1.level_rs.find((obj: any) => obj.move == moves[i])) {
                         eggMoves[i] = moves[i];
@@ -523,7 +523,7 @@ export default class Pokemon {
                         eggMoves[i] = moves[i];
                     } else {
                         result[i] = false;
-                        result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                        result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                     }
                 } else if (pokemonDetail.dex === 32 || pokemonDetail.dex === 33 || pokemonDetail.dex === 34) {
                     let nidoranFe = this.getPokemon(29);
@@ -532,17 +532,17 @@ export default class Pokemon {
                         let nidoranFeMove = this.getPokemonMove(nidoranFe.pokemon);
                         if (nidoranFeMove.level_rs.find((obj: any) => obj.move == moves[i])) {
                             result[i] = true;
-                            result[`${i}_text`] = "取得可能";
+                            result[`${i}_text`] = "習得可能";
                         } else if ((startDate <= (new Date('2004-01-29')).getTime()) && ((new Date('2004-01-29')).getTime() <= endDate) && nidoranFeMove.level_frlg.find((obj: any) => obj.move == moves[i])) {
                             result[i] = true;
-                            result[`${i}_text`] = "取得可能";
+                            result[`${i}_text`] = "習得可能";
                         } else {
                             result[i] = false;
-                            result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                            result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                         }
                     } else {
                         result[i] = false;
-                        result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                        result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                     }
                 } else if (pokemonDetail.dex === 183 || pokemonDetail.dex === 184) {
                     if (learnsetAzurillOnlyMove) {
@@ -552,21 +552,21 @@ export default class Pokemon {
                             let azurillMove = this.getPokemonMove(azurill.pokemon);
                             if (azurillMove.level_rs.find((obj: any) => obj.move == moves[i])) {
                                 result[i] = true;
-                                result[`${i}_text`] = "取得可能";
+                                result[`${i}_text`] = "習得可能";
                             } else if ((startDate <= (new Date('2004-01-29')).getTime()) && ((new Date('2004-01-29')).getTime() <= endDate) && azurillMove.level_frlg.find((obj: any) => obj.move == moves[i])) {
                                 result[i] = true;
-                                result[`${i}_text`] = "取得可能";
+                                result[`${i}_text`] = "習得可能";
                             } else {
                                 result[i] = false;
-                                result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                                result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                             }
                         } else {
                             result[i] = false;
-                            result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                            result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                         }
                     } else {
                         result[i] = true;
-                        result[`${i}_text`] = "取得可能";
+                        result[`${i}_text`] = "習得可能";
                     }
                 } else if (pokemonDetail.dex === 292) {
                     let nincada = this.getPokemon(290);
@@ -575,17 +575,17 @@ export default class Pokemon {
                         let nincadaMove = this.getPokemonMove(nincada.pokemon);
                         if (nincadaMove.level_rs.find((obj: any) => obj.move == moves[i])) {
                             result[i] = true;
-                            result[`${i}_text`] = "取得可能";
+                            result[`${i}_text`] = "習得可能";
                         } else if ((startDate <= (new Date('2004-01-29')).getTime()) && ((new Date('2004-01-29')).getTime() <= endDate) && nincadaMove.level_frlg.find((obj: any) => obj.move == moves[i])) {
                             result[i] = true;
-                            result[`${i}_text`] = "取得可能";
+                            result[`${i}_text`] = "習得可能";
                         } else {
                             result[i] = false;
-                            result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                            result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                         }
                     } else {
                         result[i] = false;
-                        result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                        result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                     }
                 } else if (pokemonDetail.dex === 313) {
                     let illumise = this.getPokemon(314);
@@ -594,43 +594,43 @@ export default class Pokemon {
                         let illumiseMove = this.getPokemonMove(illumise.pokemon);
                         if (illumiseMove.level_rs.find((obj: any) => obj.move == moves[i])) {
                             result[i] = true;
-                            result[`${i}_text`] = "取得可能";
+                            result[`${i}_text`] = "習得可能";
                         } else if ((startDate <= (new Date('2004-01-29')).getTime()) && ((new Date('2004-01-29')).getTime() <= endDate) && illumiseMove.level_frlg.find((obj: any) => obj.move == moves[i])) {
                             result[i] = true;
-                            result[`${i}_text`] = "取得可能";
+                            result[`${i}_text`] = "習得可能";
                         } else {
                             result[i] = false;
-                            result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                            result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                         }
                     } else {
                         result[i] = false;
-                        result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                        result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                     }
                 } else if ((pokemonDetail.egg_group_1 === '未発見' || pokemonDetail.egg_group_2 === '未発見') && pokemonDetail.evolution_after === null) {
                     result[i] = false;
-                    result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                    result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                 } else if (pokemonDetail.female === 0) {
                     result[i] = false;
-                    result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                    result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                 } else if (pokemonDetail.male !== 0 && pokemonDetail.female !== 0) {
                     if (learnsetSpecialXDMove) {
                         result[i] = false;
-                        result[`${i}_text`] = "リライブわざと同時に取得不能なわざです";
+                        result[`${i}_text`] = "リライブわざと同時に習得不能なわざです";
                     } else if (learnsetSpecialMove) {
                         result[i] = false;
-                        result[`${i}_text`] = "特別なわざと同時に取得不能なわざです";
+                        result[`${i}_text`] = "特別なわざと同時に習得不能なわざです";
                     } else if (pokemonDetail.evolution_before === null && pokemonMove.level_rs.find((obj: any) => obj.move == moves[i])) {
                         result[i] = true;
-                        result[`${i}_text`] = "取得可能";
+                        result[`${i}_text`] = "習得可能";
                     } else if (evolutionBeforePokemon1 !== null && evolutionBeforePokemon1.evolution_before === null && evolutionBeforePokemonMove1 !== null && evolutionBeforePokemonMove1.level_rs.find((obj: any) => obj.move == moves[i])) {
                         result[i] = true;
-                        result[`${i}_text`] = "取得可能";
+                        result[`${i}_text`] = "習得可能";
                     } else if (evolutionBeforePokemon2 !== null && evolutionBeforePokemon2.evolution_before === null && evolutionBeforePokemonMove2 !== null && evolutionBeforePokemonMove2.level_rs.find((obj: any) => obj.move == moves[i])) {
                         result[i] = true;
-                        result[`${i}_text`] = "取得可能";
+                        result[`${i}_text`] = "習得可能";
                     } else {
                         result[i] = false;
-                        result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                        result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                     }
                 } else {
                     eggMoves[i] = moves[i];
@@ -638,7 +638,7 @@ export default class Pokemon {
             } else if (movesCategory[i].includes('over_level_frlg')) {
                 if (wildEncounter) {
                     result[i] = false;
-                    result[`${i}_text`] = "野生で入手したポケモンのため取得不能なわざです";
+                    result[`${i}_text`] = "野生で入手したポケモンのため習得不能なわざです";
                 } else if (pokemonDetail.dex === 30 || pokemonDetail.dex === 31) {
                     if (evolutionBeforePokemon1 !== null && evolutionBeforePokemon1.evolution_before === null && evolutionBeforePokemonMove1 !== null && evolutionBeforePokemonMove1.level_rs.find((obj: any) => obj.move == moves[i])) {
                         eggMoves[i] = moves[i];
@@ -646,7 +646,7 @@ export default class Pokemon {
                         eggMoves[i] = moves[i];
                     } else {
                         result[i] = false;
-                        result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                        result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                     }
                 } else if (pokemonDetail.dex === 32 || pokemonDetail.dex === 33 || pokemonDetail.dex === 34) {
                     let nidoranFe = this.getPokemon(29);
@@ -655,17 +655,17 @@ export default class Pokemon {
                         let nidoranFeMove = this.getPokemonMove(nidoranFe.pokemon);
                         if (nidoranFeMove.level_rs.find((obj: any) => obj.move == moves[i])) {
                             result[i] = true;
-                            result[`${i}_text`] = "取得可能";
+                            result[`${i}_text`] = "習得可能";
                         } else if ((startDate <= (new Date('2004-01-29')).getTime()) && ((new Date('2004-01-29')).getTime() <= endDate) && nidoranFeMove.level_frlg.find((obj: any) => obj.move == moves[i])) {
                             result[i] = true;
-                            result[`${i}_text`] = "取得可能";
+                            result[`${i}_text`] = "習得可能";
                         } else {
                             result[i] = false;
-                            result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                            result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                         }
                     } else {
                         result[i] = false;
-                        result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                        result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                     }
                 } else if (pokemonDetail.dex === 183 || pokemonDetail.dex === 184) {
                     if (learnsetAzurillOnlyMove) {
@@ -675,21 +675,21 @@ export default class Pokemon {
                             let azurillMove = this.getPokemonMove(azurill.pokemon);
                             if (azurillMove.level_rs.find((obj: any) => obj.move == moves[i])) {
                                 result[i] = true;
-                                result[`${i}_text`] = "取得可能";
+                                result[`${i}_text`] = "習得可能";
                             } else if ((startDate <= (new Date('2004-01-29')).getTime()) && ((new Date('2004-01-29')).getTime() <= endDate) && azurillMove.level_frlg.find((obj: any) => obj.move == moves[i])) {
                                 result[i] = true;
-                                result[`${i}_text`] = "取得可能";
+                                result[`${i}_text`] = "習得可能";
                             } else {
                                 result[i] = false;
-                                result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                                result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                             }
                         } else {
                             result[i] = false;
-                            result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                            result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                         }
                     } else {
                         result[i] = true;
-                        result[`${i}_text`] = "取得可能";
+                        result[`${i}_text`] = "習得可能";
                     }
                 } else if (pokemonDetail.dex === 292) {
                     let nincada = this.getPokemon(290);
@@ -698,17 +698,17 @@ export default class Pokemon {
                         let nincadaMove = this.getPokemonMove(nincada.pokemon);
                         if (nincadaMove.level_rs.find((obj: any) => obj.move == moves[i])) {
                             result[i] = true;
-                            result[`${i}_text`] = "取得可能";
+                            result[`${i}_text`] = "習得可能";
                         } else if ((startDate <= (new Date('2004-01-29')).getTime()) && ((new Date('2004-01-29')).getTime() <= endDate) && nincadaMove.level_frlg.find((obj: any) => obj.move == moves[i])) {
                             result[i] = true;
-                            result[`${i}_text`] = "取得可能";
+                            result[`${i}_text`] = "習得可能";
                         } else {
                             result[i] = false;
-                            result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                            result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                         }
                     } else {
                         result[i] = false;
-                        result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                        result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                     }
                 } else if (pokemonDetail.dex === 313) {
                     let illumise = this.getPokemon(314);
@@ -717,43 +717,43 @@ export default class Pokemon {
                         let illumiseMove = this.getPokemonMove(illumise.pokemon);
                         if (illumiseMove.level_rs.find((obj: any) => obj.move == moves[i])) {
                             result[i] = true;
-                            result[`${i}_text`] = "取得可能";
+                            result[`${i}_text`] = "習得可能";
                         } else if ((startDate <= (new Date('2004-01-29')).getTime()) && ((new Date('2004-01-29')).getTime() <= endDate) && illumiseMove.level_frlg.find((obj: any) => obj.move == moves[i])) {
                             result[i] = true;
-                            result[`${i}_text`] = "取得可能";
+                            result[`${i}_text`] = "習得可能";
                         } else {
                             result[i] = false;
-                            result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                            result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                         }
                     } else {
                         result[i] = false;
-                        result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                        result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                     }
                 } else if ((pokemonDetail.egg_group_1 === '未発見' || pokemonDetail.egg_group_2 === '未発見') && pokemonDetail.evolution_after === null) {
                     result[i] = false;
-                    result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                    result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                 } else if (pokemonDetail.female === 0) {
                     result[i] = false;
-                    result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                    result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                 } else if (pokemonDetail.male !== 0 && pokemonDetail.female !== 0) {
                     if (learnsetSpecialXDMove) {
                         result[i] = false;
-                        result[`${i}_text`] = "リライブわざと同時に取得不能なわざです";
+                        result[`${i}_text`] = "リライブわざと同時に習得不能なわざです";
                     } else if (learnsetSpecialMove) {
                         result[i] = false;
-                        result[`${i}_text`] = "特別なわざと同時に取得不能なわざです";
+                        result[`${i}_text`] = "特別なわざと同時に習得不能なわざです";
                     } else if (pokemonDetail.evolution_before === null && pokemonMove.level_frlg.find((obj: any) => obj.move == moves[i])) {
                         result[i] = true;
-                        result[`${i}_text`] = "取得可能";
+                        result[`${i}_text`] = "習得可能";
                     } else if (evolutionBeforePokemon1 !== null && evolutionBeforePokemon1.evolution_before === null && evolutionBeforePokemonMove1 !== null && evolutionBeforePokemonMove1.level_frlg.find((obj: any) => obj.move == moves[i])) {
                         result[i] = true;
-                        result[`${i}_text`] = "取得可能";
+                        result[`${i}_text`] = "習得可能";
                     } else if (evolutionBeforePokemon2 !== null && evolutionBeforePokemon2.evolution_before === null && evolutionBeforePokemonMove2 !== null && evolutionBeforePokemonMove2.level_frlg.find((obj: any) => obj.move == moves[i])) {
                         result[i] = true;
-                        result[`${i}_text`] = "取得可能";
+                        result[`${i}_text`] = "習得可能";
                     } else {
                         result[i] = false;
-                        result[`${i}_text`] = "オーバーレベルのため取得不能なわざです";
+                        result[`${i}_text`] = "オーバーレベルのため習得不能なわざです";
                     }
                 } else {
                     eggMoves[i] = moves[i];
@@ -761,93 +761,93 @@ export default class Pokemon {
             } else if (movesCategory[i].includes('egg')) {
                 if (wildEncounter) {
                     result[i] = false;
-                    result[`${i}_text`] = "野生で入手したポケモンのため取得不能なわざです";
+                    result[`${i}_text`] = "野生で入手したポケモンのため習得不能なわざです";
                 } else if (learnsetSpecialXDMove) {
                     result[i] = false;
-                    result[`${i}_text`] = "リライブわざと同時に取得不能なわざです";
+                    result[`${i}_text`] = "リライブわざと同時に習得不能なわざです";
                 } else if (learnsetSpecialMove) {
                     result[i] = false;
-                    result[`${i}_text`] = "特別なわざと同時に取得不能なわざです";
+                    result[`${i}_text`] = "特別なわざと同時に習得不能なわざです";
                 } else {
                     eggMoves[i] = moves[i];
                 }
             } else if (movesCategory[i].includes('egg_em')) {
                 if (wildEncounter) {
                     result[i] = false;
-                    result[`${i}_text`] = "野生で入手したポケモンのため取得不能なわざです";
+                    result[`${i}_text`] = "野生で入手したポケモンのため習得不能なわざです";
                 } else if (learnsetSpecialXDMove) {
                     result[i] = false;
-                    result[`${i}_text`] = "リライブわざと同時に取得不能なわざです";
+                    result[`${i}_text`] = "リライブわざと同時に習得不能なわざです";
                 } else if (learnsetSpecialMove) {
                     result[i] = false;
-                    result[`${i}_text`] = "特別なわざと同時に取得不能なわざです";
+                    result[`${i}_text`] = "特別なわざと同時に習得不能なわざです";
                 } else {
                     result[i] = true;
-                    result[`${i}_text`] = "取得可能";
+                    result[`${i}_text`] = "習得可能";
                 }
             } else if (movesCategory[i].includes('egg_marill')) {
                 if (wildEncounter) {
                     result[i] = false;
-                    result[`${i}_text`] = "野生で入手したポケモンのため取得不能なわざです";
+                    result[`${i}_text`] = "野生で入手したポケモンのため習得不能なわざです";
                 } else if (learnsetAzurillOnlyMove) {
                     result[i] = false;
-                    result[`${i}_text`] = "ルリリでしか取得できないわざと同時に取得不能なわざです";
+                    result[`${i}_text`] = "ルリリでしか習得できないわざと同時に習得不能なわざです";
                 } else if (learnsetSpecialXDMove) {
                     result[i] = false;
-                    result[`${i}_text`] = "リライブわざと同時に取得不能なわざです";
+                    result[`${i}_text`] = "リライブわざと同時に習得不能なわざです";
                 } else if (learnsetSpecialMove) {
                     result[i] = false;
-                    result[`${i}_text`] = "特別なわざと同時に取得不能なわざです";
+                    result[`${i}_text`] = "特別なわざと同時に習得不能なわざです";
                 } else {
                     result[i] = true;
-                    result[`${i}_text`] = "取得可能";
+                    result[`${i}_text`] = "習得可能";
                 }
             } else if (movesCategory[i].includes('special_xd')) {
                 if (wildEncounter) {
                     result[i] = false;
-                    result[`${i}_text`] = "野生で入手したポケモンのため取得不能なわざです";
+                    result[`${i}_text`] = "野生で入手したポケモンのため習得不能なわざです";
                 } else if (learnsetEggMove) {
                     result[i] = false;
-                    result[`${i}_text`] = "タマゴわざと同時に取得不能なわざです";
+                    result[`${i}_text`] = "タマゴわざと同時に習得不能なわざです";
                 } else if (learnsetSpecialMove) {
                     result[i] = false;
-                    result[`${i}_text`] = "リライブわざと同時に取得不能なわざです";
+                    result[`${i}_text`] = "リライブわざと同時に習得不能なわざです";
                 } else {
                     result[i] = true;
-                    result[`${i}_text`] = "取得可能";
+                    result[`${i}_text`] = "習得可能";
                 }
             } else if (movesCategory[i].includes('special')) {
                 if (wildEncounter) {
                     result[i] = false;
-                    result[`${i}_text`] = "野生で入手したポケモンのため取得不能なわざです";
+                    result[`${i}_text`] = "野生で入手したポケモンのため習得不能なわざです";
                 } else if (learnsetEggMove) {
                     result[i] = false;
-                    result[`${i}_text`] = "タマゴわざと同時に取得不能なわざです";
+                    result[`${i}_text`] = "タマゴわざと同時に習得不能なわざです";
                 } else if (learnsetSpecialXDMove) {
                     result[i] = false;
-                    result[`${i}_text`] = "リライブわざと同時に取得不能なわざです";
+                    result[`${i}_text`] = "リライブわざと同時に習得不能なわざです";
                 } else if (Array.from(new Set(specialMoveIds)).length !== 1) {
                     result[i] = false;
-                    result[`${i}_text`] = "他の特別なわざと同時に取得不能なわざです";
+                    result[`${i}_text`] = "他の特別なわざと同時に習得不能なわざです";
                 } else {
                     result[i] = true;
-                    result[`${i}_text`] = "取得可能";
+                    result[`${i}_text`] = "習得可能";
                 }
             } else if (movesCategory[i].includes('evolution')) {
                 if (Array.from(new Set(evolutionMoveLevels)).length !== 1) {
                     result[i] = false;
-                    result[`${i}_text`] = "他の進化わざと同時に取得不能なわざです";
+                    result[`${i}_text`] = "他の進化わざと同時に習得不能なわざです";
                 } else {
                     result[i] = true;
-                    result[`${i}_text`] = "取得可能";
+                    result[`${i}_text`] = "習得可能";
                 }
             } else if (movesCategory[i].includes('sketch')) {
                 if (this.checkSketchLegal(moves[i], startDate, endDate)) {
                     result[i] = true;
-                    result[`${i}_text`] = "取得可能";
+                    result[`${i}_text`] = "習得可能";
                 } else {
                     result[i] = false;
-                    result[`${i}_text`] = "取得不能なわざです";
+                    result[`${i}_text`] = "習得不能なわざです";
                 }
             } else {
             }
@@ -871,10 +871,10 @@ export default class Pokemon {
                     }
                     if (this.checkSketchLegal(eggMoves[i], startDate, endDate)) {
                         result[i] = true;
-                        result[`${i}_text`] = "取得可能";
+                        result[`${i}_text`] = "習得可能";
                     } else {
                         result[i] = false;
-                        result[`${i}_text`] = "遺伝経路のない取得不能なわざです";
+                        result[`${i}_text`] = "遺伝経路のない習得不能なわざです";
                     }
                 }
             } else {
@@ -884,7 +884,7 @@ export default class Pokemon {
                             continue;
                         }
                         result[i] = true;
-                        result[`${i}_text`] = "取得可能";
+                        result[`${i}_text`] = "習得可能";
                     }
                 } else {
                     for (let i in eggMoves) {
@@ -892,7 +892,7 @@ export default class Pokemon {
                             continue;
                         }
                         result[i] = false;
-                        result[`${i}_text`] = "遺伝経路のない取得不能なわざです";
+                        result[`${i}_text`] = "遺伝経路のない習得不能なわざです";
                     }
                 }
             }

@@ -372,7 +372,7 @@ const getLowKickPower = (weight) => {
                 </tr>
                 <tr v-if="pokemonMove.machine.length === 0">
                   <td class="text-end"><span class="text-no-wrap"></span></td>
-                  <td class="text-start"><span class="text-no-wrap">取得なし</span></td>
+                  <td class="text-start"><span class="text-no-wrap">習得なし</span></td>
                 </tr>
                 </tbody>
               </table>
@@ -390,7 +390,7 @@ const getLowKickPower = (weight) => {
                   <td class="text-start"><span class="text-no-wrap">{{ egg_em.move }}</span></td>
                 </tr>
                 <tr v-if="pokemonMove.egg.length === 0">
-                  <td class="text-start"><span class="text-no-wrap">取得なし</span></td>
+                  <td class="text-start"><span class="text-no-wrap">習得なし</span></td>
                 </tr>
                 </tbody>
               </table>
@@ -405,7 +405,7 @@ const getLowKickPower = (weight) => {
                   <td class="text-start"><span class="text-no-wrap">{{ tutor_frlg.move }}</span></td>
                 </tr>
                 <tr v-if="pokemonMove.tutor_frlg.length === 0">
-                  <td class="text-start"><span class="text-no-wrap">取得なし</span></td>
+                  <td class="text-start"><span class="text-no-wrap">習得なし</span></td>
                 </tr>
                 </tbody>
               </table>
@@ -420,7 +420,7 @@ const getLowKickPower = (weight) => {
                   <td class="text-start"><span class="text-no-wrap">{{ tutor_em.move }}</span></td>
                 </tr>
                 <tr v-if="pokemonMove.tutor_em.length === 0">
-                  <td class="text-start"><span class="text-no-wrap">取得なし</span></td>
+                  <td class="text-start"><span class="text-no-wrap">習得なし</span></td>
                 </tr>
                 </tbody>
               </table>
@@ -435,7 +435,7 @@ const getLowKickPower = (weight) => {
                   <td class="text-start"><span class="text-no-wrap">{{ tutor_xd.move }}</span></td>
                 </tr>
                 <tr v-if="pokemonMove.tutor_xd.length === 0">
-                  <td class="text-start"><span class="text-no-wrap">取得なし</span></td>
+                  <td class="text-start"><span class="text-no-wrap">習得なし</span></td>
                 </tr>
                 </tbody>
               </table>
@@ -450,7 +450,7 @@ const getLowKickPower = (weight) => {
                   <td class="text-start"><span class="text-no-wrap">{{ special_xd.move }}</span></td>
                 </tr>
                 <tr v-if="pokemonMove.special_xd.length === 0">
-                  <td class="text-start"><span class="text-no-wrap">取得なし</span></td>
+                  <td class="text-start"><span class="text-no-wrap">習得なし</span></td>
                 </tr>
                 </tbody>
               </table>
@@ -465,7 +465,7 @@ const getLowKickPower = (weight) => {
                   <td class="text-start"><span class="text-no-wrap">{{ special.move }}</span></td>
                 </tr>
                 <tr v-if="pokemonMove.special.length === 0">
-                  <td class="text-start"><span class="text-no-wrap">取得なし</span></td>
+                  <td class="text-start"><span class="text-no-wrap">習得なし</span></td>
                 </tr>
                 </tbody>
               </table>
