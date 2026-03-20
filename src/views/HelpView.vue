@@ -47,6 +47,16 @@
     <v-card class="mb-4" title="更新履歴">
       <v-card-text>
         <div>
+          <span class="font-bold">v1.0.2</span><br>
+          <span>
+            「レギュチェッカー」の同時遺伝経路探索で考慮できていなかった経路があった問題を修正
+            ※ドーブル解禁前にエネコに「みがわり」と「バトンタッチ」を同時遺伝させる際の経路
+            わざの「取得」を「習得」に変更
+          </span>
+        </div>
+      </v-card-text>
+      <v-card-text>
+        <div>
           <span class="font-bold">v1.0.1</span><br>
           <span>
             「ニョロボン」のこうげき種族値を85に修正
